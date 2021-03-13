@@ -1,0 +1,136 @@
+{
+    "dictionary": [
+        {
+            "type": "n",
+            "singular_syllabary": "ᎠᏏᏴᏫ",
+            "singular_romanized": ".a2s.i2yv4wi",
+            "singular_en": [
+                "individual",
+                "one person"
+            ],
+            "plural_syllabary": "ᎠᏂᏏᏴᏫᎭ",
+            "plural_romanized": ".a2ni2s.i2yv2wi2ha"
+        },
+        {
+            "type": "n",
+            "singular_syllabary": "ᎠᏍᎪᎵ",
+            "singular_romanized": ".a2sko4li",
+            "singular_en": "his head"
+        },
+        {
+            "type": "vt",
+            "third_present_syllabary": "ᎠᏍᎳᏗᎠ",
+            "third_present_romanized": "a1sl.a2d.i3'a",
+            "third_present_en": "he's roping him, it",
+            "first_present_syllabary": "ᏥᏍᎳᏗᎠ",
+            "first_present_romanized": "ji1sl.a2d.i3'a",
+            "completive_past_syllabary": "ᎤᏍᎳᏛᎢ",
+            "completive_past_romanized": "u1sl.a3dv23'i",
+            "continuous_syllabary": "ᎠᏍᎳᏗᏍᎪᎢ",
+            "continuous_romanized": "a1sl.a2di32sgo3'i",
+            "immediate_syllabary": [
+                "ᎯᏍᎳᏓ",
+                "ᎯᏍᎳᏓ"
+            ],
+            "immediate_romanized": [
+                "hi1sl.a2da",
+                "h.i2sl.a2da"
+            ],
+            "infinitive_syllabary": "ᎤᏍᎳᏗᏍᏗ",
+            "infinitive_romanized": ".u2sl.a2di1sdi"
+        },
+        {
+            "type": "vt",
+            "third_present_syllabary": "ᎠᏐᏲᎭ",
+            "third_present_romanized": "a1so23hy.o3ha",
+            "third_present_en": "he's building a fence",
+            "first_present_syllabary": "ᎦᏐᏲᎭ",
+            "first_present_romanized": "ga1so23hy.o3ha",
+            "completive_past_syllabary": "ᎤᏐᏯᎸᎢ",
+            "completive_past_romanized": "u1so23hy.a4lv23'i",
+            "continuous_syllabary": "ᎠᏐᏲᎰᎢ",
+            "continuous_romanized": "a1so23hy.o3ho3'i",
+            "immediate_syllabary": "ᎭᏐᏯᎦ",
+            "immediate_romanized": "h.a2soyh23ga",
+            "infinitive_syllabary": "ᎤᏐᏯᏍᏗ",
+            "infinitive_romanized": "u2soy23sdi"
+        },
+        {
+            "type": "n",
+            "singular_syllabary": "ᎠᏐᏴᎢ",
+            "singular_romanized": "a1so23hyv4'i",
+            "singular_en": "fence",
+            "plural_syllabary": "ᏓᏐᏴᎢ",
+            "plural_romanized": "da1so23hyv4'i"
+        },
+        {
+            "type": "vi",
+            "third_present_syllabary": "ᎠᏐᎸᏓᎩᎠ",
+            "third_present_romanized": "a1so2lv2d.a2gi3'a",
+            "third_present_en": "he's waving his hand",
+            "first_present_syllabary": "ᎦᏐᎸᏓᎩᎠ",
+            "first_present_romanized": "ga1so2lv2d.a2gi3'a",
+            "completive_past_syllabary": "ᎤᏐᎸᏓᎩᏒᎢ",
+            "completive_past_romanized": "u1so2lv2d.a2gi3sv23'i",
+            "continuous_syllabary": "ᎠᏐᎸᏓᎩᏍᎪᎢ",
+            "continuous_romanized": "a1so2lv2d.a2gi3sgo3'i",
+            "immediate_syllabary": "ᎭᏐᎸᏓᎩ",
+            "immediate_romanized": "h.a2so2lv2d.a2gi",
+            "infinitive_syllabary": "ᎤᏐᎸᏓᎩᏍᏗ",
+            "infinitive_romanized": "u2so2lv2d.a2gi1sdi"
+        },
+        {
+            "type": "vt",
+            "third_present_syllabary": "ᎠᏐᏅᏍᏗᎭ",
+            "third_present_romanized": "a1son32sd.i3ha",
+            "third_present_en": "he's pressing down on him, it",
+            "first_present_syllabary": [
+                "ᏥᏯᏐᏅᏍᏗᎭ",
+                "ᎦᏐᏅᏍᏗᎭ"
+            ],
+            "first_present_romanized": [
+                "ji2ya1son32sd.i3ha",
+                "ga1son32sd.i3ha"
+            ],
+            "completive_past_syllabary": "ᎤᏐᏅᏍᏔᏅᎢ",
+            "completive_past_romanized": "u1son32st.a2nv23'i",
+            "continuous_syllabary": "ᎠᏐᏅᏍᏗᏍᎪᎢ",
+            "continuous_romanized": "a1son32sdi23sg.o3'i",
+            "immediate_syllabary": [
+                "ᎯᏯᏐᏅᏍᏓ",
+                "ᎭᏐᏅᏍᏓ"
+            ],
+            "immediate_romanized": [
+                "hi2ya1son1sda",
+                "h.a2son1sda"
+            ],
+            "infinitive_syllabary": "ᎤᏐᏅᏍᏙᏗ",
+            "infinitive_romanized": "u2son1sdoh2di"
+        },
+        {
+            "type": "vt",
+            "third_present_syllabary": "ᎠᏐᏅᏍᎦ",
+            "third_present_romanized": "a1so2nv2sga",
+            "third_present_en": "he's wounding him, it",
+            "first_present_syllabary": "ᏥᏐᏅᏍᎦ",
+            "first_present_romanized": "ji1so2nv2sga",
+            "completive_past_syllabary": "ᎤᏐᏅᏅᎢ",
+            "completive_past_romanized": "u1so2nv2hnv23'i",
+            "continuous_syllabary": "ᎠᏐᏅᏍᎪᎢ",
+            "continuous_romanized": "a1so2nv2sgo3'i",
+            "immediate_syllabary": "ᎯᏐᏅᎾ",
+            "immediate_romanized": "hi1so2nv23na",
+            "infinitive_syllabary": "ᎤᏐᏅᏍᏗ",
+            "infinitive_romanized": "u2so2nv2sdi"
+        },
+        {
+            "type": "n",
+            "singular_syllabary": "ᎠᏍᏘ",
+            "singular_romanized": ".a2sti",
+            "singular_en": [
+                "string",
+                "thread"
+            ]
+        }
+    ]
+}

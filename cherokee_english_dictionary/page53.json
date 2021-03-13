@@ -1,0 +1,130 @@
+{
+    "dictionary": [
+        {
+            "type": "vi",
+            "third_present_syllabary": "ᎠᏍᏆᏂᎪᏍᎦ",
+            "third_present_romanized": "a1sgw.a2n.i2go23sga",
+            "third_present_en": "he's amazed",
+            "first_present_syllabary": "ᏥᏍᏆᏂᎪᏍᎦ",
+            "first_present_romanized": "ji1sgw.a2n.i2go23sga",
+            "completive_past_syllabary": "ᎤᏍᏆᏂᎪᏒᎢ",
+            "completive_past_romanized": "u1sgw.a2n.i2go23sv3'i",
+            "continuous_syllabary": "ᎠᏍᏆᏂᎪᏍᎪᎢ",
+            "continuous_romanized": "a1sgw.a2n.i2go23sg.o3'i",
+            "immediate_syllabary": "ᎯᏍᏆᏂᎪᎯ",
+            "immediate_romanized": "h.i2sgw.a2n.i2go23hi",
+            "infinitive_syllabary": "ᎤᏍᏆᏂᎪᎯᏍᏗ",
+            "infinitive_romanized": "u2sgw.a2n.i2go23h.i3sdi"
+        },
+        {
+            "type": "vt",
+            "third_present_syllabary": "ᎠᏍᏆᏄᏥᎦ",
+            "third_present_romanized": "a1sgw.a2nu32tsga",
+            "third_present_en": "he's sucking it",
+            "first_present_syllabary": "ᏥᏍᏆᏄᏥᎦ",
+            "first_present_romanized": "ji1sgw.a2nu32tsga",
+            "completive_past_syllabary": "ᎤᏍᏆᏄᏘᏒᎢ",
+            "completive_past_romanized": "u1sgw.a2nu32tsv23'i",
+            "continuous_syllabary": "ᎠᏍᏆᏄᏘᏍᎪᎢ",
+            "continuous_romanized": "a1sgw.a2nu32tsgo3'i",
+            "immediate_syllabary": "ᎯᏍᏆᏄᏣ",
+            "immediate_romanized": "h.i2sgw.a2nu1tsa",
+            "infinitive_syllabary": "ᎤᏍᏆᏄᏥᏗ",
+            "infinitive_romanized": "u2sgw.a2nu1tsdi"
+        },
+        {
+            "type": "vt",
+            "third_present_syllabary": "ᎠᏍᏉᎭᎸᏂᎭ",
+            "third_present_romanized": "a1sgwo2h.a2lv3n.i2ha",
+            "third_present_en": "he's hitting him on the abdomen with a long object",
+            "first_present_syllabary": "ᏥᏍᏉᎭᎸᏂᎭ",
+            "first_present_romanized": "ji1sgwo2h.a2lv3n.i2ha",
+            "completive_past_syllabary": "ᎤᏍᏉᎭᎸᏂᎸᎢ",
+            "completive_past_romanized": "u1sgwo2h.a2lv23ni32lv23'i",
+            "continuous_syllabary": "ᎠᏍᏉᎭᎸᏂᎰᎢ",
+            "continuous_romanized": "a1sgwo2h.a2lv3n.i2ho3'i",
+            "immediate_syllabary": "ᎯᏍᏉᎭᎸᏂᎦ",
+            "immediate_romanized": "hi1sgwo2h.a2lv2ni1ga",
+            "infinitive_syllabary": "ᎤᏍᏉᎭᎸᏂᏍᏗ",
+            "infinitive_romanized": "u2sgwo2h.a2lv23ni32sdi"
+        },
+        {
+            "type": "vt",
+            "third_present_syllabary": "ᎠᏏᏔᏗᎠ",
+            "third_present_romanized": "a1sih2t.a2d.i3'a",
+            "third_present_en": "he's placing his hand on him, it",
+            "first_present_syllabary": [
+                "ᏥᏯᏏᏔᏗᎠ",
+                "ᎦᏏᏔᏗᎠ"
+            ],
+            "first_present_romanized": [
+                "ji2ya1sih2t.a2d.i3'a",
+                "ga1sih2t.a2d.i3'a"
+            ],
+            "completive_past_syllabary": "ᎤᏏᏔᏛᎢ",
+            "completive_past_romanized": "u1sih2t.a3dv23'i",
+            "continuous_syllabary": "ᎠᏏᏔᏗᏍᎪᎢ",
+            "continuous_romanized": "a1sih2t.a2di32sgo3'i",
+            "immediate_syllabary": [
+                "ᎯᏯᏏᏔᏓ",
+                "ᎭᏏᏔᏓ"
+            ],
+            "immediate_romanized": [
+                "hi2ya1sih2t.a2da",
+                "h.a2sih2t.a2da"
+            ],
+            "infinitive_syllabary": "ᎤᏏᏔᏗᏍᏗ",
+            "infinitive_romanized": "u2sih2t.a2di1sdi"
+        },
+        {
+            "type": "vt",
+            "third_present_syllabary": "ᎠᏏᏛᏂᎭ",
+            "third_present_romanized": "a1sih2tv3n.i2ha",
+            "third_present_en": "he's slapping him, it",
+            "first_present_syllabary": [
+                "ᏥᏯᏏᏛᏂᎭ",
+                "ᎦᏏᏛᏂᎭ"
+            ],
+            "first_present_romanized": [
+                "ji2ya1sih2tv3n.i2ha",
+                "ga1sih2tv3n.i2ha"
+            ],
+            "completive_past_syllabary": "ᎤᏏᏛᏂᎸᎢ",
+            "completive_past_romanized": "u1sih2tv23ni32lv23'i",
+            "continuous_syllabary": "ᎠᏏᏛᏂᎰᎢ",
+            "continuous_romanized": "a1sih2tv3n.i2ho3'i",
+            "immediate_syllabary": [
+                "ᎯᏯᏏᏛᏂᎦ",
+                "ᎭᏏᏛᏂᎦ"
+            ],
+            "immediate_romanized": [
+                "hi2ya1sih2tv2ni1ga",
+                "h.a2sih2tv2ni1ga"
+            ],
+            "infinitive_syllabary": "ᎤᏏᏛᏂᏍᏗ",
+            "infinitive_romanized": "u2sih2tv23ni32sdi"
+        },
+        {
+            "type": "vi",
+            "third_present_syllabary": "ᎠᏏᏁᎦ",
+            "third_present_romanized": "a3si2ne3ga",
+            "third_present_en": "he's backing up",
+            "first_present_syllabary": "ᎦᏏᏁᎦ",
+            "first_present_romanized": "ga3si2ne3ga",
+            "completive_past_syllabary": "ᎤᏏᏅᏒᎢ",
+            "completive_past_romanized": "u3si2nv3sv23'i",
+            "continuous_syllabary": "ᎠᏏᏁᎪᎢ",
+            "continuous_romanized": "a3si2ne3go3'i",
+            "immediate_syllabary": "ᎭᏏᏄᎦ",
+            "immediate_romanized": "h1si2nu1ga",
+            "infinitive_syllabary": "ᎤᏏᏅᏍᏗ",
+            "infinitive_romanized": "u1si23nv32sdi"
+        },
+        {
+            "type": "adv",
+            "singular_syllabary": "ᎠᏏᏂ",
+            "singular_romanized": "a1si2ni",
+            "singular_en": "backwards"
+        }
+    ]
+}
