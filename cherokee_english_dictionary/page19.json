@@ -1,0 +1,108 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎬᎭᎵᎭ",
+			"third_present_romanized": "a1gv2h.a2l.i3ha",
+			"third_present_en": [ "he's cutting it", "he's slicing it" ],
+			"first_present_syllabary": "ᏥᎬᎠᎵᎭ",
+			"first_present_romanized": "j.i2g.v2'.a2l.i3ha",
+			"completive_past_syallabary": "ᎤᎬᎭᎸᎲᎢ",
+			"completive_past_romanized": "u1gv2h.a2lv2hv23'i",
+			"continuous_syllabary": "ᎠᎬᎭᎵᏍᎪᎢ",
+			"continuous_romanized": "a1gv2h.a2li23sg.o3'i",
+			"immediate_syllabary": "ᎯᎬᎭᎳ",
+			"immediate_romanized": "h.i2gv2h.a2la",
+			"infinitive_syllabary": "ᎤᎬᎭᏟᏗ",
+			"infinitive_romanized": "u2gv2hahl2di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎬᎭᎷᏯᏍᎦ",
+			"third_present_romanized": "a1gv2h.a3luy32sga",
+			"third_present_en": "he's chopping it up",
+			"first_present_syllabary": "ᏥᎬᎠᎷᏯᏍᎦ",
+			"first_present_romanized": "j.i2g.v2'.a2luy32sga",
+			"completive_past_syallabary": "ᎤᎬᎭᎷᏴᎢ",
+			"completive_past_romanized": "u1gv2h.a2lu32hyv23'i",
+			"continuous_syllabary": "ᎠᎬᎭᎷᏯᏍᎪᎢ",
+			"continuous_romanized": "a1gv2h.a2luy32sgo3'i",
+			"immediate_syllabary": "ᎯᎬᎭᎷᏯ",
+			"immediate_romanized": "h.i2gv2h.a2lu1hya",
+			"infinitive_syllabary": "ᎤᎬᎭᎷᏯᏍᏗ",
+			"infinitive_romanized": "u2gv2h.a2luy1sdi"
+		},
+		{
+			"type": "adj",
+			"singular_syllabary": "ᎠᎬᎭᎸᏓ",
+			"singular_romanized": ".a2gv2h.a2lv4da",
+			"singular_en": "a piece of something that's been cut",
+			"plural_syllabary": "ᏗᎬᎭᎸᏓ",
+			"plural_romanized": "di2gv2h.a2lv4da"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎬᎿᎨᎢ",
+			"singular_romanized": ".a2gv23hn.a3ge4'i",
+			"singular_en": [ "black person", "Negro" ],
+			"plural_syllabary": "ᎠᏂᎬᎿᎨᎢ",
+			"plural_romanized": ".a2ni2gv23hn.a3ge4'i"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎬᏍᎪᎸᏍᎦ",
+			"third_present_romanized": "a1gv2sgo23lv32sga",
+			"third_present_en": "he's scolding him",
+			"first_present_syllabary": "ᏥᎬᏍᎪᎸᏍᎦ",
+			"first_present_romanized": "ji2gv1sgo23lv32sga",
+			"completive_past_syallabary": "ᎤᎬᏍᎪᎸᏅᎢ",
+			"completive_past_romanized": "u1gv2sgo23lv32nv23'i",
+			"continuous_syllabary": "ᎠᎬᏍᎪᎸᏍᎪᎢ",
+			"continuous_romanized": "a1gv2sgo23lv32sgo3'i",
+			"immediate_syllabary": "ᎯᎬᏍᎪᎸᎥᎦ",
+			"immediate_romanized": "hi2gv1sgo2l.v2'v1ga",
+			"infinitive_syllabary": "ᎤᎬᏍᎪᎸᏗ",
+			"infinitive_romanized": "u2gv2sgo23lv32di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎬᏍᏉᎠ",
+			"third_present_romanized": "a1gv2sgwo3'a",
+			"third_present_en": "he's washing his face",
+			"first_present_syllabary": "ᎦᎬᏍᏉᎠ",
+			"first_present_romanized": "g.a2gv1sgwo3'a",
+			"completive_past_syallabary": "ᎤᎬᏍᏉᎥᎢ",
+			"completive_past_romanized": "u1gv2sgwo3'v23'i",
+			"continuous_syllabary": "ᎠᎬᏍᏉᏍᎪᎢ",
+			"continuous_romanized": "a1gv2sgwo3sgo3'i",
+			"immediate_syllabary": "ᎭᎬᏍᏉᏣ",
+			"immediate_romanized": "h.a2gv2sgwo23ja",
+			"infinitive_syllabary": "ᎤᎬᏍᏉᏍᏗ",
+			"infinitive_romanized": "u2gv2sgwo1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎭᎳᏓ",
+			"singular_romanized": ".a2h.a2la4da",
+			"singular_en": "loudmouth",
+			"plural_syllabary": "ᏗᏂᎭᎳᏓ",
+			"plural_romanized": "di2ni2h.a2la4da"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎭᎷᎩᎠ",
+			"third_present_romanized": "a1h.a2lu23g.i3'a",
+			"third_present_en": [ "he's diverting him / it", "he's flagging him / it down" ],
+			"first_present_syllabary": "ᏥᎠᎷᎩᎠ",
+			"first_present_romanized": "j.i2'.a2lu23g.i3'a",
+			"completive_past_syallabary": "ᎤᎭᎷᎩᏒᎢ",
+			"completive_past_romanized": "u1h.a2lu23gi32sv23'i",
+			"continuous_syllabary": "ᎠᎭᎷᎩᏍᎪᎢ",
+			"continuous_romanized": "a1h.a2lu23gi32sgo3'i",
+			"immediate_syllabary": "ᎯᎠᎷᎩ",
+			"immediate_romanized": "h.i2'.a2lu23gi",
+			"infinitive_syllabary": "ᎤᎭᎷᎩᏍᏗ",
+			"infinitive_romanized": "u2h.a2lu23gi32sdi"
+		}
+	]
+}

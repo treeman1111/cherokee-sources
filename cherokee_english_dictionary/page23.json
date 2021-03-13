@@ -1,0 +1,100 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎵᎪᏛᏗᎭ",
+			"third_present_romanized": "ahl1ko2td.i3ha",
+			"third_present_en": "he's shattering it",
+			"first_present_syllabary": "ᎦᎵᎪᏛᏗᎭ",
+			"first_present_romanized": "g.a2li1ko2td.i3ha",
+			"completive_past_syallabary": "ᎤᎵᎪᏛᏔᏅᎢ",
+			"completive_past_romanized": "uhl1ko2tt.a2nv3'i",
+			"continuous_syllabary": "ᎠᎵᎪᏛᏗᏍᎪᎢ",
+			"continuous_romanized": "ahl1ko2tdi23sg.o3'i",
+			"immediate_syllabary": "ᎭᎵᎪᏛᏓ",
+			"immediate_romanized": "hahl2ko2tda",
+			"infinitive_syllabary": "ᎤᎵᎪᏛᏙᏗ",
+			"infinitive_romanized": "uhl2ko2tdoh3di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏠᏗ",
+			"singular_romanized": ".a3hloh2di",
+			"singular_en": "phonograph record",
+			"plural_syllabary": "ᏗᏠᏗ",
+			"plural_romanized": "di23hloh2di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏠᏍᎦ",
+			"third_present_romanized": "a1hlo2sga",
+			"third_present_en": "he's beating him at a game",
+			"first_present_syllabary": "ᏥᏠᏍᎦ",
+			"first_present_romanized": "ji2hlo2sga",
+			"completive_past_syallabary": "ᎤᏠᏒᎢ",
+			"completive_past_romanized": "u1hlo2sv23'i",
+			"continuous_syllabary": "ᎠᏠᏍᎪᎢ",
+			"continuous_romanized": "a1hlo2sgo3'i",
+			"immediate_syllabary": "ᎯᏠᎯ",
+			"immediate_romanized": "hi1hlo23hi",
+			"infinitive_syllabary": "ᎤᏠᎯᏍᏗ",
+			"infinitive_romanized": "u2hlo2h.i2sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎵᏔᏬᎠ",
+			"third_present_romanized": "ahl1t.a2wo3'a",
+			"third_present_en": "he's combing his hair",
+			"first_present_syllabary": "ᎦᎵᏔᏬᎠ",
+			"first_present_romanized": "g.a2li1t.a2wo3'a",
+			"completive_past_syallabary": "ᎤᎵᏔᏬᎥᎢ",
+			"completive_past_romanized": "uhl1t.a2wo3'v23'i",
+			"continuous_syllabary": "ᎠᎵᏔᏬᏍᎪᎢ",
+			"continuous_romanized": "ahl1t.a2wo3sgo3'i",
+			"immediate_syllabary": "ᎭᎵᏔᏬᏣ",
+			"immediate_romanized": "hahl2t.a2wo23ja",
+			"infinitive_syllabary": "ᎤᎵᏔᏬᏍᏗ",
+			"infinitive_romanized": "uhl2t.a2wo1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎵᏔᏬᏍᏗ",
+			"singular_romanized": "ahl2t.a2wo3sdi",
+			"singular_en": "comb",
+			"plural_syllabary": "ᏗᎵᏔᏬᏍᏗ",
+			"plural_romanized": "dihl2t.a2wo3sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎵᏖᎸᎲᏍᎦ",
+			"third_present_romanized": "ahl1te3lv2h.v3sga",
+			"third_present_en": "he / it's moving (without changing location)",
+			"first_present_syllabary": "ᎦᎵᏖᎸᎲᏍᎦ",
+			"first_present_romanized": "g.a2li1te3lv2h.v3sga",
+			"completive_past_syallabary": "ᎤᎵᏖᎸᏅᎢ",
+			"completive_past_romanized": "uhl1te3lv2hnv23'i",
+			"continuous_syllabary": "ᎠᎵᏖᎸᎲᏍᎪᎢ",
+			"continuous_romanized": "ahl1te3lv2h.v2sgo3'i",
+			"immediate_syllabary": "ᎭᎵᏖᎸᎲᎦ",
+			"immediate_romanized": "hahl2te1lv2hv1ga",
+			"infinitive_syllabary": "ᎤᎵᏖᎸᏗ",
+			"infinitive_romanized": "uhl2tehl1di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎿᏩᎢᏴᎠ",
+			"third_present_romanized": "a1hn.a2w.a3'i2yv3'a",
+			"third_present_en": "he's changing his shirt",
+			"first_present_syllabary": "ᎦᏂᏩᎢᏴᎠ",
+			"first_present_romanized": "g.a2ni1w.a3'i2yv3'a",
+			"completive_past_syallabary": "ᎤᎿᏩᎢᏴᏒᎢ",
+			"completive_past_romanized": "u1hn.a2w.a3'i2yv3sv23'i",
+			"continuous_syllabary": "ᎠᎿᏩᎢᏴᏍᎪᎢ",
+			"continuous_romanized": "a1hn.a2w.a3'i2yv3sgo3'i",
+			"immediate_syllabary": "ᎭᎿᏩᎢᏴᎾ",
+			"immediate_romanized": "h.a2hn.a2w.a2'i2yv23na",
+			"infinitive_syllabary": "ᎤᎿᏩᎢᏴᏍᏗ",
+			"infinitive_romanized": "u2hn.a2w.a2'i23yv32sdi"
+		}
+	]
+}

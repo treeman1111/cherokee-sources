@@ -1,0 +1,98 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏂᏁᎵ",
+			"singular_romanized": ".a2ni2n4li",
+			"singular_en": "her husband"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏂᏍᏆᏂᎢ",
+			"singular_romanized": ".a2ni2sgwa2ni4'i",
+			"singular_en": "Mexico"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏂᏲᏍᎩᎢ",
+			"singular_romanized": ".a2ni2y.o3sgi4'i",
+			"singular_en": "military"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏅᏍᎬᏘ",
+			"singular_romanized": "an1sgv2ti",
+			"singular_en": "May"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏅᏱ",
+			"singular_romanized": ".a2nv2hyi",
+			"singular_en": "March"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏌᏛᏍᎦ",
+			"third_present_romanized": "a1s.a2dv32sga",
+			"third_present_en": "he's setting a trap",
+			"first_present_syllabary": "ᏥᏌᏛᏍᎦ",
+			"first_present_romanized": "ji1s.a2dv32sga",
+			"completive_past_syallabary": "ᎤᏌᏛᏅᎢ",
+			"completive_past_romanized": "u1s.a2dv32nv23'i",
+			"continuous_syllabary": "ᎠᏌᏛᏍᎪᎢ",
+			"continuous_romanized": "a1s.a2dv32sgo3'i",
+			"immediate_syllabary": "ᎯᏌᏛᎥᎦ",
+			"immediate_romanized": "h.i2sa2dv2'v1ga",
+			"infinitive_syllabary": "ᎤᏌᏛᏗ",
+			"infinitive_romanized": "u2s.a2dv1di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏌᎳᏗᎠ",
+			"third_present_romanized": "a1s.a2l.a2d.i3'a",
+			"third_present_en": [ "he's lifting him / it", "he's raising him / it" ],
+			"first_present_syllabary": "ᏥᏌᎳᏗᎠ",
+			"first_present_romanized": "ji1s.a2l.a2d.i3'a",
+			"completive_past_syallabary": "ᎤᏌᎳᏛᏅᎢ",
+			"completive_past_romanized": "u1s.a2l.a2da32nv23'i",
+			"continuous_syllabary": "ᎠᏌᎳᏗᏍᎪᎢ",
+			"continuous_romanized": "a1s.a2l.a2di32sgo3'i",
+			"immediate_syllabary": [ "ᎯᏌᎳᏛᎦ", "ᎯᏌᎳᏛᎦ" ],
+			"immediate_romanized": [ "hi1s.a2l.a2dv1ga", "h.i2s.a2l.a2dv1ga" ],
+			"infinitive_syllabary": "ᎤᏌᎳᏙᏗ",
+			"infinitive_romanized": "u2s.a2l.a2do1di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏌᎹᏗ",
+			"singular_romanized": ".a2s.a2ma4di",
+			"singular_en": "smart",
+			"plural_syllabary": "ᎠᏂᏌᎹᏗ",
+			"plural_romanized": ".a2ni2s.a2ma4di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏌᏃ",
+			"singular_romanized": "a1s.a2no",
+			"singular_en": "dress",
+			"plural_syllabary": "ᏗᏌᏃ",
+			"plural_romanized": "di1s.a2no"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᏓᎦᏴᏗᎭ",
+			"third_present_romanized": "a1sd.a2gayh2d.i3ha",
+			"third_present_en": [ "he's making it crisp", "he's starching it" ],
+			"first_present_syllabary": "ᏥᏍᏓᎦᏴᏗᎭ",
+			"first_present_romanized": "ji1sd.a2gayh2d.i3ha",
+			"completive_past_syallabary": "ᎤᏍᏓᎦᏴᏔᏅᎢ",
+			"completive_past_romanized": "u1sd.a2gayh2t.a3nv3'i",
+			"continuous_syllabary": "ᎠᏍᏓᎦᏴᏗᏍᎪᎢ",
+			"continuous_romanized": "a1sd.a2gayh2di23sg.o3'i",
+			"immediate_syllabary": "ᎯᏍᏓᎦᏴᏓ",
+			"immediate_romanized": "h.i2sd.a2gayh2da",
+			"infinitive_syllabary": "ᎤᏍᏓᎦᏴᏙᏗ",
+			"infinitive_romanized": "u2sd.a2gayh2doh3di"
+		}
+	]
+}

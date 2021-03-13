@@ -1,0 +1,110 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏙᏂᏍᎩ",
+			"singular_romanized": "a2do23ni4sgi",
+			"singular_en": "sorcerer",
+			"plural_syllabary": "ᏗᎾᏙᏂᏍᎩ",
+			"plural_romanized": "di2na2do23ni4sgi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏚᏓᎴᏍᏗ",
+			"singular_romanized": ".a2du2d.a2le4sdi",
+			"singular_en": "freedom"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏛᏥ",
+			"singular_romanized": ".a2d.v2ji",
+			"singular_en": [ "dutch", "german" ],
+			"plural_syllabary": "ᎠᏂᏛᏥ",
+			"plural_romanized": ".a2ni2d.v2ji"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏛᏁᎭ",
+			"third_present_romanized": "a1dv3n.e2ha",
+			"third_present_en": "he's doing it",
+			"first_present_syllabary": "ᎦᏛᏁᎭ",
+			"first_present_romanized": "g.a2dv3n.e2ha",
+			"completive_past_syallabary": "ᎤᏛᏁᎸᎢ",
+			"completive_past_romanized": "u1dv3ne2lv23'i",
+			"continuous_syllabary": "ᎠᏛᏁᎰᎢ",
+			"continuous_romanized": "a1dv3ne2ho3'i",
+			"immediate_syllabary": "ᎭᏛᎦ",
+			"immediate_romanized": "h.a2dv1ga",
+			"infinitive_syllabary": "ᎤᏛᏁᏗ",
+			"infinitive_romanized": "u2dvnh1di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏛᏁᎵᎭ",
+			"third_present_romanized": "a1dv3ne2l.i3ha",
+			"third_present_en": "he's acting silly",
+			"first_present_syllabary": "ᎦᏛᏁᎵᎭ",
+			"first_present_romanized": "g.a2dv3ne2l.i3ha",
+			"completive_past_syallabary": "ᎤᏛᏁᎸᏅᎢ",
+			"completive_past_romanized": "u1dv3ne2lv2hnv23'i",
+			"continuous_syllabary": "ᎠᏛᏅᎵᏍᎪᎢ",
+			"continuous_romanized": "a1dv3ne2li23sg.o3'i",
+			"immediate_syllabary": "ᎭᏛᏁᎳ",
+			"immediate_romanized": "h.a2dv1ne23la",
+			"infinitive_syllabary": "ᎤᏛᏁᏟᏗ",
+			"infinitive_romanized": "u2dv1nehl23di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏛᏁᎵᏍᎩ",
+			"singular_romanized": ".a2dv1ne23li4sgi",
+			"singular_en": "actor",
+			"plural_syllabary": "ᎠᎾᏛᏁᎵᏍᎩ",
+			"plural_romanized": ".a2n.a2dv1ne23li4sgi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏛᏅᎢᏍᏗᎭ",
+			"third_present_romanized": "a1dv2nv3'.i2sd.i3ha",
+			"third_present_en": [ "he's preparing it", "he's getting ready" ],
+			"first_present_syllabary": "ᎦᏛᏅᎢᏍᏗᎭ",
+			"first_present_romanized": "g.a2dv2nv3'.i2sd.i3ha",
+			"completive_past_syallabary": "ᎤᏛᏅᎢᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1dv2nv3'.i2st.a3nv3'i",
+			"continuous_syllabary": "ᎠᏛᏅᎢᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "a1dv2nv3'.i2sdi23sg.o3'i",
+			"immediate_syllabary": "ᎭᏛᏅᎢᏍᏓ",
+			"immediate_romanized": "h.a2dv2n.v2'.i2sda",
+			"infinitive_syllabary": "ᎤᏛᏅᎢᏍᏙᏗ",
+			"infinitive_romanized": "u2dv2n.v2'.i2sdoh3di"
+		},
+		{
+			"type": "adj",
+			"singular_syllabary": "ᎠᎦᏓᎭᎢ",
+			"singular_romanized": ".a2ga2da2ha4'i",
+			"singular_en": "dirty (animate)",
+			"plural_syllabary": "ᎠᏂᎦᏓᎭᎢ",
+			"plural_romanized": ".a2ni2ga2da2ha4'i"
+		},
+		{
+			"type": [ "adj", "adv" ],
+			"singular_syllabary": "ᎠᎦᏟᏱ",
+			"singular_romanized": ".a2g.a2hli4yi",
+			"singular_en": "eager",
+			"plural_syllabary": "ᎠᏂᎦᏟᏱ",
+			"plural_romanized": ".a2ni2g.a2hli4yi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎦᎵᎭ",
+			"third_present_romanized": "a1ga3l.i2ha",
+			"third_present_en": "it's (sun or moon) shining",
+			"completive_past_syallabary": "ᎤᎦᎵᏒᎢ",
+			"completive_past_romanized": "u1ga3li2sv23'i",
+			"continuous_syllabary": "ᎠᎦᎵᏍᎪᎢ",
+			"continuous_romanized": "a1ga3li2sgo3'i",
+			"infinitive_syllabary": "ᎤᎦᎵᎯᏍᏗ",
+			"infinitive_romanized": "u2ga2li23h.i3sdi"
+		}
+	]
+}

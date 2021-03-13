@@ -1,0 +1,92 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎵᏘᎠ",
+			"third_present_romanized": "a1l.i2ti3'a",
+			"third_present_en": [ "he's running away", "he's escaping" ],
+			"first_present_syllabary": "ᎦᎵᏘᎠ",
+			"first_present_romanized": "g.a2li1ti3'a",
+			"completive_past_syallabary": "ᎤᎵᏘᏒᎢ",
+			"completive_past_romanized": "u1l.i2ti3sv23'i",
+			"continuous_syllabary": "ᎠᎵᏘᏍᎪᎢ",
+			"continuous_romanized": "a1l.i2ti3sgo3'i",
+			"immediate_syllabary": "ᎭᎵᏘ",
+			"immediate_romanized": "h.a2l.i2ti",
+			"infinitive_syllabary": "ᎤᎵᏘᏍᏗ",
+			"infinitive_romanized": "u2l.i2ti1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎵᏰᏑᎶ",
+			"singular_romanized": ".a2l.i2ye1su2lo",
+			"singular_en": "glove",
+			"plural_syllabary": "ᏗᎵᏰᏑᎶ",
+			"plural_romanized": "di2l.i2ye1su2lo"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎵᏰᏑᏍᏘᎩᎠ",
+			"third_present_romanized": "a1l.i2ye32su2stgi3'a",
+			"third_present_en": "he's taking his ring off",
+			"first_present_syllabary": "ᎦᎵᏰᏑᏍᏘᎩᎠ",
+			"first_present_romanized": "g.a2l.i2ye32su2stgi3'a",
+			"completive_past_syallabary": "ᎤᎵᏰᏑᏍᏘᎩᏒᎢ",
+			"completive_past_romanized": "u1l.i2ye32su2stgi3sv23'i",
+			"continuous_syllabary": "ᎠᎵᏰᏑᏍᏘᎩᏍᎪᎢ",
+			"continuous_romanized": "a1l.i2ye32su2stgi3sgo3'i",
+			"immediate_syllabary": "ᎭᎵᏰᏑᏍᏘᎩ",
+			"immediate_romanized": "h.a2l.i2ye1su2stgi",
+			"infinitive_syllabary": "ᎤᎵᏰᏑᏍᏘᎩᏍᏗ",
+			"infinitive_romanized": "u2l.i2ye1su23stgi32sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎵᏰᏑᏍᏙ",
+			"singular_romanized": ".a2l.i2ye1su23sto",
+			"singular_en": "ring",
+			"plural_syllabary": "ᏗᎵᏰᏑᏍᏙ",
+			"plural_romanized": "di2l.i2ye1su23sto"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎵᏰᏑᏍᏛᏍᎦ",
+			"third_present_romanized": "a1l.i2ye32su2st.v3sga",
+			"third_present_en": "he's putting a ring on his finger",
+			"first_present_syllabary": "ᎦᎵᏰᏑᏍᏛᏍᎦ",
+			"first_present_romanized": "g.a2l.i2ye32su2st.v3sga",
+			"completive_past_syallabary": "ᎤᎵᏰᏑᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1l.i2ye32su2st.a3nv3'i",
+			"continuous_syllabary": "ᎠᎵᏰᏑᏍᏛᏍᎪᎢ",
+			"continuous_romanized": "a1l.i2ye32su2st.v3sg.o3'i",
+			"immediate_syllabary": "ᎭᎵᏰᏑᏍᏛᎦ",
+			"immediate_romanized": "h.a2l.i2ye1su2stv1ga",
+			"infinitive_syllabary": "ᎤᎵᏰᏑᏍᏛᏍᏗ",
+			"infinitive_romanized": "u2l.i2ye1su23st.v3sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎵᏲ",
+			"singular_romanized": "a2li23yo",
+			"singular_en": "sock",
+			"plural_syllabary": "ᏗᎵᏲ",
+			"plural_romanized": "di2li23yo"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎵᏥᏈᏍᎦ",
+			"third_present_romanized": "al1ji3kwsga",
+			"third_present_en": "he's spitting",
+			"first_present_syllabary": "ᎦᎵᏥᏈᏍᎦ",
+			"first_present_romanized": "gal2ji3kwsga",
+			"completive_past_syallabary": "ᎤᎵᏥᏋᎢ",
+			"completive_past_romanized": "ul1ji3kwv23'i",
+			"continuous_syllabary": "ᎠᎵᏥᏈᏍᎪᎢ",
+			"continuous_romanized": "al1ji3kwsgo3'i",
+			"immediate_syllabary": "ᎭᎵᏥᏆ",
+			"immediate_romanized": "hal2ji1kwa",
+			"infinitive_syllabary": "ᎤᎵᏥᏈᏍᏗ",
+			"infinitive_romanized": "ul2ji1kwsdi"
+		}
+	]
+}

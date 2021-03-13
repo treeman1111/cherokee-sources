@@ -1,0 +1,94 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎵᏍᏇᏚᎩᎠ",
+			"third_present_romanized": "al1sgwe3tuh2gi3'a",
+			"third_present_en": "he's taking his hat off",
+			"first_present_syllabary": "ᎦᎵᏍᏇᏚᎩᎠ",
+			"first_present_romanized": "g.a2li1sgwe3tuh2gi3'a",
+			"completive_past_syallabary": "ᎤᎵᏍᏇᏚᎩᏒᎢ",
+			"completive_past_romanized": "ul1sgwe3tuh2gi3sv23'i",
+			"continuous_syllabary": "ᎠᎵᏍᏇᏚᎩᏍᎪᎢ",
+			"continuous_romanized": "al1sgwe3tuh2gi3sgo3'i",
+			"immediate_syllabary": "ᎭᎵᏍᏇᏚᎩ",
+			"immediate_romanized": "hal2sgwe1tuh2gi",
+			"infinitive_syllabary": "ᎤᎵᏍᏇᏚᎩᏍᏗ",
+			"infinitive_romanized": "ul2sgwe1tuh2gi1sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎵᏍᏇᏚᎲᏍᎦ",
+			"third_present_romanized": "al1sgwe3t.u2h.v3sga",
+			"third_present_en": "he's putting his hat on",
+			"first_present_syllabary": "ᎦᎵᏍᏇᏚᎲᏍᎦ",
+			"first_present_romanized": "g.a2li1sgwe3t.u2h.v3sga",
+			"completive_past_syallabary": "ᎤᎵᏍᏇᏚᏅᎢ",
+			"completive_past_romanized": "ul1sgwe3t.uii2hnv23'i",
+			"continuous_syllabary": "ᎠᎵᏍᏇᏚᎲᏍᎪᎢ",
+			"continuous_romanized": "al1sgwe3t.u2h.v3sg.o3'i",
+			"immediate_syllabary": "ᎭᎵᏍᏇᏚᎲᎦ",
+			"immediate_romanized": "hal2sgwe1t.u2hv1ga",
+			"infinitive_syllabary": "ᎤᎵᏍᏇᏚᏍᏗ",
+			"infinitive_romanized": "ul2gwe1t.u3sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎵᏍᏇᏚᏬ",
+			"singular_romanized": "al2sgwe1t.u2wo",
+			"singular_en": "hat",
+			"plural_syllabary": "ᏗᎵᏍᏇᏚᏬ",
+			"plural_romanized": "dil2sgwe1t.u2wo"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎵᏐᏍᏗᎭ",
+			"third_present_romanized": "al1so23sd.i3ha",
+			"third_present_en": [ "he's setting a goal", "he's aiming" ],
+			"first_present_syllabary": "ᎦᎵᏐᏍᏗᎭ",
+			"first_present_romanized": "g.a2li1so23sd.i3ha",
+			"completive_past_syallabary": "ᎤᎵᏐᏍᏔᏅᎢ",
+			"completive_past_romanized": "ul1so23st.a3nv23'i",
+			"continuous_syllabary": "ᎠᎵᏐᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "al1so23sdi3sgo3'i",
+			"immediate_syllabary": "ᎭᎵᏐᏍᏓ",
+			"immediate_romanized": "hal2so23sda",
+			"infinitive_syllabary": "ᎤᎵᏐᏍᏙᏗ",
+			"infinitive_romanized": "ul2so23sdoh3di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎵᏒᏍᏗᎭ",
+			"third_present_romanized": "al1sv32sd.i3ha",
+			"third_present_en": "he's smelling it (sniff)",
+			"first_present_syllabary": "ᎦᎵᏒᏍᏗᎭ",
+			"first_present_romanized": "g.a2li1sv32sd.i3ha",
+			"completive_past_syallabary": "ᎤᎵᏒᏍᏔᏅᎢ",
+			"completive_past_romanized": "ul1sv32st.a2nv23'i",
+			"continuous_syllabary": "ᎠᎵᏒᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "al1sv32sdi2sgo3'i",
+			"immediate_syllabary": "ᎭᎵᏒᏍᏓ",
+			"immediate_romanized": "hal2sv1sda",
+			"infinitive_syllabary": "ᎤᎵᏒᏍᏙᏗ",
+			"infinitive_romanized": "ul2sv1sdoh3di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎹ",
+			"singular_romanized": ".a2ma",
+			"singular_en": "water"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎹ",
+			"singular_romanized": "a3ma",
+			"singular_en": "salt"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎹᏢᏗᎢ",
+			"singular_romanized": ".a2mahl3di4'i",
+			"singular_en": "water well"
+		}
+	]
+}

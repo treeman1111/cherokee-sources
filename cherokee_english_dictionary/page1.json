@@ -1,0 +1,82 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏧᏣ",
+			"singular_romanized": ".a2chu4ja",
+			"singular_en": "boy",
+			"plural_syllabary": "ᎠᏂᏧᏣ",
+			"plural_romanized": ".a2ni2chu4ja"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏨᏯ",
+			"singular_romanized": ".a2chv2ya",
+			"singular_en": "male (animal)",
+			"plural_syllabary": "ᎠᏂᏨᏯ",
+			"plural_romanized": ".a2ni2chv2ya"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓ",
+			"singular_romanized": ".a2da",
+			"singular_en": "wood"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓ",
+			"singular_romanized": ".a'4da",
+			"singular_en": "young animal (born in litter or hatched)",
+			"plural_syllabary": "ᎠᏂᏓ",
+			"plural_romanized": ".a2ni4da"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᏕᎦ",
+			"third_present_romanized": "a1d.a2de3ga",
+			"third_present_en": "it's bouncing",
+			"first_present_syllabary": "ᎦᏓᏕᎦ",
+			"first_present_romanized": "g.a2d.a2de3ga",
+			"completive_past_syallabary": "ᎤᏓᏗᏅᏒᎢ",
+			"completive_past_romanized": "u1d.a2di23nv32sv23'i",
+			"continuous_syllabary": "ᎠᏓᏕᎪᎢ",
+			"continuous_romanized": "a1d.a2de3go3'i",
+			"immediate_syllabary": "ᎭᏓᏚᎦ",
+			"immediate_romanized": "h.a2d.a2du1ga",
+			"infinitive_syllabary": "ᎤᏓᏗᏅᏗ",
+			"infinitive_romanized": "u2d.a2di23nv32di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᏕᎦ",
+			"third_present_romanized": "a1d.a2de3ga",
+			"third_present_en": "he's limping",
+			"first_present_syllabary": "ᎦᏓᏕᎦ",
+			"first_present_romanized": "g.a2d.a2de3ga",
+			"completive_past_syllabary": "ᎤᏓᏕᏒᎢ",
+			"completive_past_romanized": "u1d.a2de3sv23'i",
+			"continuous_syllabary": "ᎠᏓᏕᎪᎢ",
+			"continuous_romanized": "a1d.a2de3go3'i",
+			"immediate_syllabary": "ᎭᏓᏚᎦ",
+			"imediate_romanized": "h.a2d.a2du1ga",
+			"infinitive_syllabary": "ᎤᏓᏗᏅᏗ",
+			"infinitive_romanized": "u2d.a2di23nv32di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏓᏗᏅᏗᎭ",
+			"third_present_romanized": "a1d.a2di23nv32d.i2ha",
+			"third_present_en": "he's bouncing it",
+			"first_present_syllabary": "ᎦᏓᏗᏅᏗᎭ",
+			"first_present_romanized": "g.a2d.a2di23nv32d.i2ha",
+			"completive_past_syllabary": "ᎤᏓᏗᏅᏔᏅᎢ",
+			"completive_past_romanized": "u1d.a2di23nv32t.a2nv23'i",
+			"continuous_syllabary": "ᎠᏓᏗᏅᏗᏍᎪᎢ",
+			"continuous_romanized": "a1d.a2di23nv32di2sgo3'i",
+			"immediate_syllabary": "ᎭᏓᏗᏅᏓ",
+			"immediate_romanized": "h.a2d.a2di2nv1da",
+			"infinitive_syllabary": "ᎤᏓᏗᏅᏙᏗ",
+			"infinitive_romanized": "u2d.a2di23nv32doh2di"
+		}
+	]
+}

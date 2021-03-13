@@ -1,0 +1,100 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎪᏕᏍᏗ",
+			"singular_romanized": ".a2ko23de4sdi",
+			"singular_en": [ "shovel", "spade" ],
+			"plural_syllabary": "ᏗᎪᏕᏍᏗ",
+			"plural_romanized": "di2ko23de4sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎦᏍᎦᏂ",
+			"singular_romanized": ".a2ksg.a2ni",
+			"singular_en": "left"
+		},
+		{
+			"type": "adj",
+			"singular_syllabary": "ᎠᎦᏍᎦᏂᏓ",
+			"singular_romanized": ".a2ksg.a3ni4da",
+			"singular_en": "left-handed",
+			"plural_syllabary": "ᎠᏂᎦᏍᎦᏂᏓ",
+			"plural_romanized": ".a2ni2ksg.a3ni4da"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎦᏐᏍᎦ",
+			"third_present_romanized": "a1ks.o3sga",
+			"third_present_en": "he's going down hill",
+			"first_present_syllabary": "ᏥᎦᏐᏍᎦ",
+			"first_present_romanized": "j.i2ga1s.o3sga",
+			"completive_past_syallabary": "ᎤᎦᏐᏒᎢ",
+			"completive_past_romanized": "u1ks.o3sv23'i",
+			"continuous_syllabary": "ᎠᎦᏐᏍᎪᎢ",
+			"continuous_romanized": "a1ks.o3sgo3'i",
+			"immediate_syllabary": "ᎯᎦᏐᎯ",
+			"immediate_romanized": "h.i2kso1hi",
+			"infinitive_syllabary": "ᎤᎦᏐᎯᏍᏗ",
+			"infinitive_romanized": "u2kso1h.i2sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎦᏐᏍᎬᎢ",
+			"singular_romanized": "a1kso2sgv4'i",
+			"singular_en": "down-hill route",
+			"plural_syllabary": "ᏓᎦᏐᏍᎬᎢ",
+			"plural_romanized": "da1kso2sgv4'i"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎦᏔ",
+			"singular_romanized": ".a2kta",
+			"singular_en": "eye",
+			"plural_syllabary": "ᏗᎦᏔ",
+			"plural_romanized": "di2kta"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎦᏔᎭ",
+			"third_present_romanized": "a1kt.a2ha",
+			"third_present_en": "he knows how",
+			"first_present_syllabary": "ᏥᎦᏔᎭ",
+			"first_present_romanized": "j.i2ga1t.a2ha",
+			"continuous_syllabary": "ᎠᎦᏔᎰᎢ",
+			"continuous_romanized": "a1kt.a2h.o3'i"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎦᏔᎯ",
+			"singular_romanized": ".a3kt.a2hi",
+			"singular_en": "witness",
+			"plural_syllabary": "ᎠᏂᎦᏔᎯ",
+			"plural_romanized": ".a2ni23kt.a2hi"
+		},
+		{
+			"type": "adj",
+			"singular_syllabary": "ᎠᎦᏔᎿᎢ",
+			"singular_romanized": ".a3kt.a2hn.a2'i",
+			"singular_en": "knowledgeable",
+			"plural_syllabary": "ᎠᏂᎦᏔᎿᎢ",
+			"plural_romanized": ".a2ni23kt.a2hn.a2'i"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎦᏔᎲᎠ",
+			"third_present_romanized": "a1kt.a2hv3'a",
+			"third_present_en": [ "he's turning back", "he's turning (his head or body)" ],
+			"first_present_syllabary": "ᎦᎦᏔᎲᎠ",
+			"first_present_romanized": "g.a2ga1t.a2hv3'a",
+			"completive_past_syallabary": "ᎤᎦᏔᎲᏒᎢ",
+			"completive_past_romanized": "u1kt.a2hv3sv23'i",
+			"continuous_syllabary": "ᎠᎦᏔᎲᏍᎪᎢ",
+			"continuous_romanized": "a1kt.a2hv3sgo3'i",
+			"immediate_syllabary": "ᎭᎦᏔᎲᎾ",
+			"immediate_romanized": "h.a2kt.a2hv23na",
+			"infinitive_syllabary": "ᎤᎦᏔᎲᏍᏗ",
+			"infinitive_romanized": "u2kt.a2hv1sdi"
+		}
+	]
+}

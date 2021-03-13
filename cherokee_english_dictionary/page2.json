@@ -1,0 +1,88 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏓᏠᎯᎭ",
+			"third_present_romanized": "a1da3dlo2h.i3ha",
+			"third_present_en": "he's putting on a belt",
+			"first_present_syllabary": "ᎦᏓᏠᎯᎭ",
+			"first_present_romanized": "g.a2da3dlo2h.i3ha",
+			"completive_past_syllabary": "ᎤᏓᏠᏢᎢ",
+			"completive_past_romanized": "u1da3dlo2hlv23'i",
+			"continuous_syllabary": "ᎠᏓᏠᎯᎰᎢ",
+			"continuous_romanized": "a1da3dlo2h.i2ho3'i",
+			"immediate_syllabary": "ᎭᏓᏠᎦ",
+			"immediate_romanized": "h.a2da1dlo23ga",
+			"infinitive_syllabary": "ᎤᏓᏠᏍᏗ",
+			"infinitive_romanized": "u2da1dlo23sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏠᏍᏗ",
+			"singular_romanized": ".a2da1dlo23sdi",
+			"singular_en": "belt",
+			"plural_syllabary": "ᏗᏓᏠᏍᏗ",
+			"plural_romanized": "di2da1dlo23sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏙᎵᏍᏗ",
+			"singular_romanized": ".a2da2do23li32sdi",
+			"singular_en": "prayer"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᏙᎵᏍᏗᎭ",
+			"third_present_romanized": "a1da2do23li32sd.i2ha",
+			"third_present_en": "he's praying",
+			"first_present_syllabary": "ᎦᏓᏙᎵᏍᏗᎭ",
+			"first_present_romanized": "g.a2da2do23li32sd.i2ha",
+			"completive_past_syallabary": "ᎤᏓᏙᎵᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1da2do23li32st.a2nv23'i",
+			"continuous_syllabary": "ᎠᏓᏙᎵᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "a1da2do23li32sdi2sgo3'i",
+			"immediate_syllabary": "ᎭᏓᏙᎵᏍᏓ",
+			"immediate_romanized": "h.a2da2do2li1sda",
+			"infinitive_syllabary": "ᎤᏓᏙᎵᏍᏙᏗ",
+			"infinitive_romanized": "u2da2do23li32sdoh2di"
+		},
+		{
+			"type": "adj",
+			"singular_syllabary": "ᎠᏓᎨᎢ",
+			"singular_romanized": ".a3d.a2ge4'i",
+			"singular_en": [ "tender", "very young", "new" ],
+			"plural_syllabary": "ᎠᏂᏓᎨᎢ",
+			"plural_romanized": ".a2ni3d.a2ge4'i"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᎨᏳᏗ",
+			"singular_romanized": ".a2da2geyh2di",
+			"singular_en": "love"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᎯᎯ",
+			"singular_romanized": ".a2da23h.i2hi",
+			"singular_en": "thing that kills",
+			"plural_syllabary": "ᎠᎾᏓᎯᎯ",
+			"plural_romanized": ".a2n.a2da23h.i2hi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏟᏁᏌᎵᏗ",
+			"singular_romanized": ".a2da2hl.i2ne3sahl2di",
+			"singular_en": "purse",
+			"plural_syllabary": "ᏗᏓᏟᏁᏌᎵᏗ",
+			"plural_romanized": "di2da2hl.i2ne3sahl2di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏁᏗ",
+			"singular_romanized": ".a2da23hneh2di",
+			"singular_en": "gift",
+			"plural_syllabary": "ᏗᏓᏁᏗ",
+			"plural_romanized": "di2da23hneh2di"
+		}
+	]
+}

@@ -1,0 +1,102 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏥᎸᏍᎦ",
+			"third_present_romanized": "a1ji2lv2sga",
+			"third_present_en": "it's blooming",
+			"completive_past_syallabary": "ᎤᏥᎸᏅᎢ",
+			"completive_past_romanized": "u1ji2lv2hnv23'i",
+			"continuous_syllabary": "ᎠᏥᎸᏍᎪᎢ",
+			"continuous_romanized": "a1ji2lv2sgo3'i",
+			"infinitive_syllabary": "ᎤᏥᎸᏗ",
+			"infinitive_romanized": "u2jihl2di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏥᎸᏍᎩ",
+			"singular_romanized": ".a2ji2lv4sgi",
+			"singular_en": "flower",
+			"plural_syllabary": "ᎠᏂᏥᎸᏍᎩ",
+			"plural_romanized": ".a2ni2ji2lv4sgi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏥᎾ",
+			"singular_romanized": ".a2j.i2na",
+			"singular_en": "cedar"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏥᏍᎸᏍᎦ",
+			"third_present_romanized": "a1ji3sl.v2sga",
+			"third_present_en": "he's lighting a fire / match",
+			"first_present_syllabary": "ᏥᏥᏍᎸᏍᎦ",
+			"first_present_romanized": "j.i2ji3sl.v2sga",
+			"completive_past_syallabary": "ᎤᏥᏍᎳᏅᎢ",
+			"completive_past_romanized": "u1",
+			"continuous_syllabary": "ᎠᏥᏍᎸᏍᎪᎢ",
+			"continuous_romanized": "",
+			"immediate_syllabary": "ᎯᏥᏍᎸᎦ",
+			"immediate_romanized": "",
+			"infinitive_syllabary": "ᎤᏥᏍᎸᏍᏗ",
+			"infinitive_romanized": ""
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏦᏔᏍᎦ",
+			"third_present_romanized": "a1jo3t.a2sga",
+			"third_present_en": [ "he's blowing", "he's blowing on it" ],
+			"first_present_syllabary": "ᎦᏦᏔᏍᎦ",
+			"first_present_romanized": "g.a2jo3t.a2sga",
+			"completive_past_syallabary": "ᎤᏦᏔᎲᎢ",
+			"completive_past_romanized": "u1jo3t.a2hv23'i",
+			"continuous_syllabary": "ᎠᏦᏔᏍᎪᎢ",
+			"continuous_romanized": "a1jo3t.a2sgo3'i",
+			"immediate_syllabary": "ᎭᏦᏔ",
+			"immediate_romanized": "h.a2jo1ta",
+			"infinitive_syllabary": "ᎤᏦᏔᏍᏗ",
+			"infinitive_romanized": "u2jo1t.a3sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏨᏍᏛᏍᎦ",
+			"third_present_romanized": "a1jv2st.v3sga",
+			"third_present_en": "he's turning on a light",
+			"first_present_syllabary": "ᏥᏨᏍᏛᏍᎦ",
+			"first_present_romanized": "j.i2jv1st.v2sga",
+			"completive_past_syallabary": "ᎤᏨᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1jv2st.a3nv3'i",
+			"continuous_syllabary": "ᎠᏨᏍᏛᏍᎪᎢ",
+			"continuous_romanized": "a1jv2st.v3sg.o3'i",
+			"immediate_syllabary": "ᎯᏨᏍᏛᎦ",
+			"immediate_romanized": "h.i2jv2st.v1ga",
+			"infinitive_syllabary": "ᎤᏨᏍᏛᏍᏗ",
+			"infinitive_romanized": "u2jv2st.v3sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏨᏍᏗ",
+			"singular_romanized": ".a2jvy4sdi",
+			"singular_en": "lamp",
+			"plural_syllabary": "ᏗᏨᏍᏗ",
+			"plural_romanized": "di2jvy4sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎧᏁᏍᏗ",
+			"singular_romanized": ".a2k.a2ne23sdi",
+			"singular_en": [ "badge", "pin" ],
+			"plural_syllabary": "ᏗᎧᏁᏍᏗ",
+			"plural_romanized": "di2k.a2ne23sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎧᏍᎨᏂ",
+			"singular_romanized": "a2k.a2sge4ni",
+			"singular_en": "his hip",
+			"plural_syllabary": "ᏗᎧᏍᎨᏂ",
+			"plural_romanized": "di2k.a2sge4ni"
+		}
+	]
+}

@@ -1,0 +1,42 @@
+NOUN_ENTRY: {
+  "type": "n",
+  "singular_syllabary": <syl_string>,
+  "singular_romanized": <rom_string>,
+  "singular_en": <en_string>,
+  "plural_syllabary": <syl_string> | e,
+  "plural_romanized": <rom_string> | e
+}
+
+VERB_TRANSITIVE_ENTRY: {
+  "type": "vt",
+  "third_present_syllabary": <syl_string> | array(<syl_string>),
+  "third_present_romanized": <rom_string> | array(<rom_string>),
+  "third_present_en": <en_string> | array(<en_string>), // for multiple definitions
+  "first_present_syllabary": <syl_string> | array(<syl_string>),
+  "first_present_romanized": <rom_string> | array(<rom_string>),
+  "completive_past_syllabary": <syl_string> | array(<syl_string>),
+  "completive_past_romanized": <rom_string> | array(<rom_string>),
+  "continuous_syllabary": <syl_string> | array(<syl_string>),
+  "continuous_romanized": <rom_string> | array(<rom_string>),
+  "immediate_syllabary": <syl_string> | array(<syl_string>),
+  "immediate_romanized": <rom_string> | array(<rom_string>),
+  "infinitive_syllabary": <syl_string> | array(<syl_string>),
+  "infinitive_romanized": <rom_string> | array(<rom_string>)
+}
+
+VERB_INTRANSITIVE_ENTRY: {
+  "type": "vt",
+  "third_present_syllabary": <syl_string> | array(<syl_string>),
+  "third_present_romanized": <rom_string> | array(<rom_string>),
+  "third_present_en": <en_string> | array(<en_string>), // for multiple definitions
+  "first_present_syllabary": <syl_string> | array(<syl_string>),
+  "first_present_romanized": <rom_string> | array(<rom_string>),
+  "completive_past_syllabary": <syl_string> | array(<syl_string>),
+  "completive_past_romanized": <rom_string> | array(<rom_string>),
+  "continuous_syllabary": <syl_string> | array(<syl_string>),
+  "continuous_romanized": <rom_string> | array(<rom_string>),
+  "immediate_syllabary": <syl_string> | array(<syl_string>),
+  "immediate_romanized": <rom_string> | array(<rom_string>),
+  "infinitive_syllabary": <syl_string> | array(<syl_string>),
+  "infinitive_romanized": <rom_string> | array(<rom_string>)
+}

@@ -1,0 +1,108 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᎾᏅᎢ",
+			"singular_romanized": "a1da2n.a'3nv4'i",
+			"singular_en": "store",
+			"plural_syllabary": "ᏓᏓᎾᏅᎢ",
+			"plural_romanized": "da1da2n.a'3nv4'i"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᎾᏩᏍᏗᎭ",
+			"third_present_romanized": "a1d.a2naw32sd.i3ha",
+			"third_present_en": "he's taking off running",
+			"first_present_syllabary": "ᎦᏓᎾᏩᏍᏗᎭ",
+			"first_present_romanized": "g.a2d.a2naw32sd.i3ha",
+			"completive_past_syallabary": "ᎤᏓᎾᏩᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1d.a2naw32st.a2nv23'i",
+			"continuous_syllabary": "ᎠᏓᎾᏩᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "a1d.a2naw32sdi23sg.o3'i",
+			"immediate_syllabary": "ᎭᏓᎾᏩᏍᏓ",
+			"immediate_romanized": "h.a2d.a2naw1sda",
+			"infinitive_syllabary": "ᎤᏓᎾᏩᏍᏙᏗ",
+			"infinitive_romanized": "u2d.a2naw1sdoh3di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᏁᏟᏴᎠ",
+			"third_present_romanized": "a1d.a2ne23dli3y.v2'a",
+			"third_present_en": [ "he's changing", "it's changing" ],
+			"first_present_syllabary": "ᎦᏓᏁᏟᏴᎠ",
+			"first_present_romanized": "g.a2d.a2ne23dli3y.v2'a",
+			"completive_past_syallabary": "ᎤᏓᏁᏟᏴᏒᎢ",
+			"completive_past_romanized": "u1d.a2ne23dli3yv1sv23'i",
+			"continuous_syllabary": "ᎠᏓᏁᏟᏴᏍᎪᎢ",
+			"continuous_romanized": "a1d.a2ne23dli3yv1sgo3'i",
+			"immediate_syllabary": "ᎭᏓᏁᏟᏴᎾ",
+			"immediate_romanized": "h.a2d.a2ne2dli2yv23na",
+			"infinitive_syllabary": "ᎤᏓᏁᏟᏴᏍᏗ",
+			"infinitive_romanized": "u2d.a2ne23dli3yv1sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᏁᏟᏴᏍᏗᎭ",
+			"third_present_romanized": "a1d.a2ne23dli3yv1sd.i2ha",
+			"third_present_en": "he's taking turns with him",
+			"first_present_syllabary": "ᎦᏓᏁᏟᏴᏍᏗᎭ",
+			"first_present_romanized": "g.a2d.a2ne23dli3yv1sd.i2ha",
+			"completive_past_syallabary": "ᎤᏓᏁᏟᏴᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1d.a2ne23dli3yv1st.a2nv23'i",
+			"continuous_syllabary": "ᎠᏓᏁᏟᏴᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "a1d.a2ne23dli3yv1sdi2sgo3'i",
+			"immediate_syllabary": "ᎭᏓᏁᏟᏴᏍᏓ",
+			"immediate_romanized": "h.a2d.a2ne2dli2yv1sda",
+			"infinitive_syllabary": "ᎤᏓᏁᏟᏴᏍᏙᏗ",
+			"infinitive_romanized": "u2d.a2ne23dli3yv1sdoh2di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏁᏟᏴᏍᏗᏍᎩ",
+			"singular_romanized": ".a2d.a2ne23dli3yv1sdi4sgi",
+			"singular_en": [ "alternate", "substitute" ],
+			"plural_syllabary": "ᎠᎾᏓᏁᏟᏴᏍᏗᏍᎩ",
+			"plural_romanized": ".a2n.a2d.a2ne23dli3yv1sdi4sgi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏁᏢᎢ",
+			"singular_romanized": "a1da3ne2hlv4'i",
+			"singular_en": [ "provisions", "supplies" ],
+			"plural_syllabary": "ᏓᏓᏁᏢᎢ",
+			"plural_romanized": "da1da3ne2hlv4'i"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏁᎸᎢ",
+			"singular_romanized": "a1da2ne23lv4'i",
+			"singular_en": "building",
+			"plural_syllabary": "ᏓᏓᏁᎸᎢ",
+			"plural_romanized": "da1da2ne23lv4'i"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏅᏙ",
+			"singular_romanized": ".a2danh2do",
+			"singular_en": "heart",
+			"plural_syllabary": "ᏗᏓᏅᏙ",
+			"plural_romanized": "di2danh2do"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏓᏅᏖᎭ",
+			"third_present_romanized": "a1danh2t.e3ha",
+			"third_present_en": "he's thinking",
+			"first_present_syllabary": "ᎦᏓᏅᏖᎭ",
+			"first_present_romanized": "g.a2da2nv1t.e3ha",
+			"completive_past_syallabary": "ᎤᏓᏅᏖᏢᎢ",
+			"completive_past_romanized": "u1danh2te23hlv3'i",
+			"continuous_syllabary": "ᎠᏓᏅᏖᏍᎪᎢ",
+			"continuous_romanized": "a1danh2te23sg.o3'i",
+			"immediate_syllabary": "ᎭᏓᏅᏛᎳ",
+			"immediate_romanized": "h.a2danh2tv23la",
+			"infinitive_syllabary": "ᎤᏓᏅᏖᏗ",
+			"infinitive_romanized": "u2danh2teh2di"
+		}
+	]
+}

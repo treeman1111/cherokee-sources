@@ -1,0 +1,84 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏈᏴᎡᎭ",
+			"third_present_romanized": "a1kw.i2yv3'e2ha",
+			"third_present_en": "he's paying him",
+			"first_present_syllabary": "ᏥᏯᏈᏴᎡᎭ",
+			"first_present_romanized": "ji2y.a2gw.i2yv3'e2ha",
+			"completive_past_syallabary": "ᎤᏈᏴᎡᎸᎢ",
+			"completive_past_romanized": "u1kw.i2yv3'e2lv23'i",
+			"continuous_syllabary": "ᎠᏈᏴᎡᎰᎢ",
+			"continuous_romanized": "a1kw.i2yv3'e2ho3'i",
+			"immediate_syllabary": "ᎯᏯᏈᏴᏏ",
+			"immediate_romanized": "hi2y.a2gw.i2yv1si",
+			"infinitive_syllabary": "ᎤᏈᏴᎡᏗ",
+			"infinitive_romanized": "u2kw.i2yv2'eh3di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏈᏍᏙ",
+			"singular_romanized": ".a2kwsdo",
+			"singular_en": "pillow",
+			"plural_syllabary": "ᏗᏈᏍᏙ",
+			"plural_romanized": "di2kwsdo"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎳᏍᏓᎡᎭ",
+			"third_present_romanized": "a1la32sd.a2'e2ha",
+			"third_present_en": [ "he's tromping on him", "he's speaking badly of him" ],
+			"first_present_syllabary": [ "ᏥᏯᎳᏍᏓᎡᎭ", "ᎦᎳᏍᏓᎡᎭ" ],
+			"first_present_romanized": [ "ji2y.a2la32sd.a2'e2ha", "g.a2la32sd.a2'e2ha" ],
+			"completive_past_syallabary": "ᎤᎳᏍᏓᎡᏢᎢ",
+			"completive_past_romanized": "u1la32sd.a2'e2hlv23'i",
+			"continuous_syllabary": "ᎠᎳᏍᏓᎡᏍᎪᎢ",
+			"continuous_romanized": "a1la32sd.a2'e2sgo3'i",
+			"immediate_syllabary": [ "ᎯᏯᎳᏍᏓᎥᎳ", "ᎭᎳᏍᏓᎥᎳ" ],
+			"immediate_romanized": [ "hi2y.a2la1sd.a2'v23la", "h.a2la1sd.a2'v23la" ],
+			"infinitive_syllabary": "ᎤᎳᏍᏓᎡᏗ",
+			"infinitive_romanized": "u2la1sd.a2'eh3di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎳᏍᏛᏍᎦ",
+			"third_present_romanized": "a1la32sd.v2sga",
+			"third_present_en": "he's stepping on him / it",
+			"first_present_syllabary": [ "ᏥᏯᎳᏍᏛᏍᎦ", "ᎦᎳᏍᏛᏍᎦ" ],
+			"first_present_romanized": [ "ji2y.a2la32sd.v2sga", "g.a2la32sd.v2sga" ],
+			"completive_past_syallabary": "ᎤᎳᏍᏛᏅᎢ",
+			"completive_past_romanized": "u1la32sdv1nv23'i",
+			"continuous_syllabary": "ᎠᎳᏍᏛᏍᎪᎢ",
+			"continuous_romanized": "a1la32sd.v2sgo3'i",
+			"immediate_syllabary": [ "ᎯᏯᎳᏍᏛᎥᎦ", "ᎭᎳᏍᏛᎥᎦ" ],
+			"immediate_romanized": [ "hi2y.a2la1sd.v2'v1ga", "h.a2la1sd.v2'v1ga" ],
+			"infinitive_syllabary": "ᎤᎳᏍᏛᏗ",
+			"infinitive_romanized": "u2la1sdv1di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎳᏍᎦᎵᎭ",
+			"third_present_romanized": "a1la32sg.a2l.i3ha",
+			"third_present_en": "he's playing ball",
+			"first_present_syllabary": "ᎦᎳᏍᎦᎵᎭ",
+			"first_present_romanized": "g.a2la32sg.a2l.i3ha",
+			"completive_past_syallabary": "ᎤᎳᏍᎦᎸᎲᎢ",
+			"completive_past_romanized": "u1la32sg.a2lv2hv23'i",
+			"continuous_syllabary": "ᎠᎳᏍᎦᎵᏍᎪᎢ",
+			"continuous_romanized": "a1la32sg.a2li23sg.o3'i",
+			"immediate_syllabary": "ᎭᎳᏍᎦᎳ",
+			"immediate_romanized": "h.a2la1sg.a2la",
+			"infinitive_syllabary": "ᎤᎳᏍᎦᏟᏗ",
+			"infinitive_romanized": "u2la1sgahl3di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎳᏍᎦᎵᏍᎩ",
+			"singular_romanized": ".a2la1sg.a2li4sgi",
+			"singular_en": "ball-player",
+			"plural_syllabary": "ᎠᎾᎳᏍᎦᎵᏍᎩ",
+			"plural_romanized": ".a2n.a2la1sg.a2li4sgi"
+		}
+	]
+}

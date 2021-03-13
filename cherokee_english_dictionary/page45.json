@@ -1,0 +1,98 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏁᏟᏗ",
+			"singular_romanized": "a1nehl23di",
+			"singular_en": "doll",
+			"plural_syllabary": "ᏗᏁᏟᏗ",
+			"plural_romanized": "di1nehl23di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏁᏟᏗᎭ",
+			"third_present_romanized": "a3nehl2d.i3ha",
+			"third_present_en": "he's attempting it",
+			"first_present_syllabary": "ᎦᏁᏟᏗᎭ",
+			"first_present_romanized": "ga3nehl2d.i3ha",
+			"completive_past_syallabary": "ᎤᏁᏟᏔᏅᎢ",
+			"completive_past_romanized": "u3nehl2t.a3nv3'i",
+			"continuous_syllabary": "ᎠᏁᏟᏗᏍᎪᎢ",
+			"continuous_romanized": "a3nehl2di23sg.o3'i",
+			"immediate_syllabary": "ᎭᏁᏟᏓ",
+			"immediate_romanized": "ha1nehl2da",
+			"infinitive_syllabary": "ᎤᏁᏟᏙᏗ",
+			"infinitive_romanized": "u1nehl23doh2di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏁᎳᏗᎠ",
+			"third_present_romanized": "a1ne23l.a3d.i2'a",
+			"third_present_en": "he's getting married",
+			"first_present_syllabary": "ᎦᏁᎳᏗᎠ",
+			"first_present_romanized": "ga2ne23l.a3d.i2'a",
+			"completive_past_syallabary": "ᎤᏁᎳᏛᎢ",
+			"completive_past_romanized": "u1ne23l.a3dv23'i",
+			"continuous_syllabary": "ᎠᏁᎳᏗᏍᎪᎢ",
+			"continuous_romanized": "a1ne23l.a3di1sgo3'i",
+			"immediate_syllabary": "ᎭᏁᎳᏓ",
+			"immediate_romanized": "ha2ne2l.a2da",
+			"infinitive_syllabary": "ᎤᏁᎳᏗᏍᏗ",
+			"infinitive_romanized": "u2ne23l.a3di1sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏅᏓᏗᎠ",
+			"third_present_romanized": "anh1d.a2d.i3'a",
+			"third_present_en": "he's remembering him / it",
+			"first_present_syllabary": [ "ᏥᏯᏅᏓᏗᎠ", "ᎦᏅᏓᏗᎠ" ],
+			"first_present_romanized": [ "ji2ya2nv1d.a2d.i3'a", "ga2nv1d.a2d.i3'a" ],
+			"completive_past_syallabary": "ᎤᏅᏓᏛᎢ",
+			"completive_past_romanized": "unh1d.a3dv23'i",
+			"continuous_syllabary": "ᎠᏅᏓᏗᏍᎪᎢ",
+			"continuous_romanized": "anh1d.a2di32sgo3'i",
+			"immediate_syllabary": [ "ᎯᏯᏅᏓᏓ", "ᎭᏅᏓᏓ" ],
+			"immediate_romanized": [ "hi2ya2nv1d.a2da", "hanh2d.a2da" ],
+			"infinitive_syllabary": "ᎤᏅᏓᏗᏍᏗ",
+			"infinitive_romanized": "unh2d.a2di1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏂ",
+			"singular_romanized": ".a'3ni",
+			"singular_en": "strawberry"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏂᏙᎾᎠ",
+			"third_present_romanized": "a1ni2do32n.a2'a",
+			"third_present_en": "they are standing (congregation)",
+			"first_present_syllabary": "ᎣᏥᏙᎾᎠ",
+			"first_present_romanized": "o1ji2do32n.a2'a",
+			"completive_past_syallabary": "ᎠᏂᏙᎾᎥᎢ",
+			"completive_past_romanized": "a1ni2do32n.a2'v23'i",
+			"continuous_syllabary": "ᎠᏂᏙᎾᎣᎢ",
+			"continuous_romanized": "a1ni2do32n.a2'o3'i"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏂᏟᎾ",
+			"third_present_romanized": "a1ni2hl.i3na",
+			"third_present_en": "they are asleep (more than two)",
+			"first_present_syllabary": "ᎣᏥᏟᎾ",
+			"first_present_romanized": "o1ji2hl.i3na",
+			"continuous_syllabary": "ᎠᏂᏟᏃᎢ",
+			"continuous_romanized": "a1ni2hl.i3no3'i"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏂᎾ",
+			"third_present_romanized": "a1ni'3na",
+			"third_present_en": "they are sitting (congregation)",
+			"first_present_syllabary": "ᎣᏥᎾ",
+			"first_present_romanized": "o1ji'3na",
+			"continuous_syllabary": "ᎠᏂᏃᎢ",
+			"continuous_romanized": "a1ni'3no3'i"
+		}
+	]
+}

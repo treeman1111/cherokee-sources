@@ -1,0 +1,108 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᏆᏗᎠ",
+			"third_present_romanized": "a1sgw.a2d.i3'a",
+			"third_present_en": "he's finishing it",
+			"first_present_syllabary": "ᏥᏍᏆᏗᎠ",
+			"first_present_romanized": "ji1sgw.a2d.i3'a",
+			"completive_past_syllabary": "ᎤᏍᏆᏛᎢ",
+			"completive_past_romanized": "u1sgw.a3dv23'i",
+			"continuous_syllabary": "ᎠᏍᏆᏗᏍᎪᎢ",
+			"continuous_romanized": "a1sgw.a2di32sgo3'i",
+			"immediate_syllabary": "ᎯᏍᏆᏓ",
+			"immediate_romanized": "hi2sgw.a2da",
+			"infinitive_syllabary": "ᎤᏍᏆᏗᏍᏗ",
+			"infinitive_romanized": "u2sgw.a2di1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏍᏆᎨᏂ",
+			"singular_romanized": ".a2sgw.a2ge4ni",
+			"singular_en": "his side",
+			"plural_syllabary": "ᏗᏍᏆᎨᏂ",
+			"plural_romanized": "di2sgw.a2ge4ni"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᏆᏞᎠ",
+			"third_present_romanized": "a1sgwa32hl.e2'a",
+			"third_present_en": "he's catching a falling person / object",
+			"first_present_syllabary": "ᏥᏍᏆᏞᎠ",
+			"first_present_romanized": "ji1sgwa32hl.e2'a",
+			"completive_past_syllabary": "ᎤᏍᏆᏞᏒᎢ",
+			"completive_past_romanized": "u1sgwa32hle1sv23'i",
+			"continuous_syllabary": "ᎠᏍᏆᏞᏍᎪᎢ",
+			"continuous_romanized": "a1sgwa32hle1sgo3'i",
+			"immediate_syllabary": [ "ᎯᏍᏆᏝᎩ", "ᎯᏍᏆᏝᎩ" ],
+			"immediate_romanized": [ "hi1sgwa1hl.a2gi", "h.i2sgwa1hl.a2gi" ],
+			"infinitive_syllabary": "ᎤᏍᏆᏞᏍᏗ",
+			"infinitive_romanized": "u2sgwa1hle1sdi"
+		},
+		{
+			"type": "adj",
+			"singular_syllabary": "ᎠᏍᏆᎳᎢ",
+			"singular_romanized": ".a2sgw.a2la4'i",
+			"singular_en": "short",
+			"plural_syllabary": "ᏗᏍᏆᎳᎢ",
+			"plural_romanized": "di2sgw.a2la4'i"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᏆᎶᎦ",
+			"third_present_romanized": "a1sgw.a2lo32ga",
+			"third_present_en": [ "it's getting shorter", "he's getting short on it"],
+			"first_present_syllabary": "ᏥᏍᏆᎶᎦ",
+			"first_present_romanized": "ji1sgw.a2lo32ga",
+			"completive_past_syllabary": "ᎤᏍᏆᎶᏨᎢ",
+			"completive_past_romanized": "u1sgw.a2lo32jv23'i",
+			"continuous_syllabary": "ᎠᏍᏆᎶᎪᎢ",
+			"continuous_romanized": "a1sgw.a2lo32go3'i",
+			"immediate_syllabary": "ᎯᏍᏆᎶᎩ",
+			"immediate_romanized": "h.i2sgw.a2lo1gi",
+			"infinitive_syllabary": "ᎤᏍᏆᎶᎢᏍᏗ",
+			"infinitive_romanized": "u2sgw.a2loy1sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᏆᎵᏍᎦ",
+			"third_present_romanized": "a1sgwal32sga",
+			"third_present_en": "he's breaking a long object",
+			"first_present_syllabary": "ᏥᏍᏆᎵᏍᎦ",
+			"first_present_romanized": "ji1sgwal32sga",
+			"completive_past_syllabary": "ᎤᏍᏆᎵᏒᎢ",
+			"completive_past_romanized": "u1sgwal32sv23'i",
+			"continuous_syllabary": "ᎠᏍᏆᎵᏍᎪᎢ",
+			"continuous_romanized": "a1sgwal32sgo3'i",
+			"immediate_syllabary": "ᎯᏍᏆᎳ",
+			"immediate_romanized": "h.i2sgw.a2la",
+			"infinitive_syllabary": "ᎤᏍᏆᎵᏍᏗ",
+			"infinitive_romanized": "u2sgwal1sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᏆᎸᏂᎭ",
+			"third_present_romanized": "a1sgw.a2lv3n.i2ha",
+			"third_present_en": "he's hitting him on the head with a long object",
+			"first_present_syllabary": "ᏥᏍᏆᎸᏂᎭ",
+			"first_present_romanized": "ji1sgw.a2lv3n.i2ha",
+			"completive_past_syllabary": "ᎤᏍᏆᎸᏂᎸᎢ",
+			"completive_past_romanized": "u1sgw.a2lv23ni32lv23'i",
+			"continuous_syllabary": "ᎠᏍᏆᎸᏂᎰᎢ",
+			"continuous_romanized": "a1sgw.a2lv3n.i2ho3'i",
+			"immediate_syllabary": "ᎯᏍᏆᎸᏂᎦ",
+			"immediate_romanized": "hi1sgw.a2lv2ni1ga",
+			"infinitive_syllabary": "ᎤᏍᏆᎸᏂᏍᏗ",
+			"infinitive_romanized": "u2sgw.a2lv23ni32sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏍᏆᏂ",
+			"singular_romanized": ".a2sgwa4ni",
+			"singular_en": "Mexican",
+			"plural_syllabary": "ᎠᏂᏍᏆᏂ",
+			"plural_romanized": ".a2ni2sgwa4ni"
+		}
+	]
+}

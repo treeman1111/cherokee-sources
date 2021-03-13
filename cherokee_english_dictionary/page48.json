@@ -1,0 +1,108 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏍᏗᎩᏍᏗ",
+			"singular_romanized": ".a2sdi23gi1sdi",
+			"singular_en": "something to eat (long)",
+			"plural_syllabary": "ᏗᏍᏗᎩᏍᏗ",
+			"plural_romanized": "di2sdi23gi1sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᏙᎠ",
+			"third_present_romanized": "a1sdo3'a",
+			"third_present_en": "he's crushing it",
+			"first_present_syllabary": "ᏥᏍᏙᎠ",
+			"first_present_romanized": "ji1sdo3'a",
+			"completive_past_syallabary": "ᎤᏍᏙᎥᎢ",
+			"completive_past_romanized": "u1sdo3'v23'i",
+			"continuous_syllabary": "ᎠᏍᏙᏍᎪᎢ",
+			"continuous_romanized": "a1sdo3sgo3'i",
+			"immediate_syllabary": "ᎯᏍᏙᏣ",
+			"immediate_romanized": "h.i2sdo23ja",
+			"infinitive_syllabary": "ᎤᏍᏙᏍᏗ",
+			"infinitive_romanized": "u2sdo1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏍᏙᏍᎩᎢ",
+			"singular_romanized": ".a2sdo1sgi4'i",
+			"singular_en": "crusher",
+			"plural_syllabary": "ᏗᏍᏙᏍᎩᎢ",
+			"plural_romanized": "di2sdo1sgi4'i"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᏙᏰᎭ",
+			"third_present_romanized": "a1sdo2y.e3ha",
+			"third_present_en": "he's trimming it (boy's hair, grass, hedge, but not paper, cloth)",
+			"first_present_syllabary": "ᏥᏍᏙᏰᎭ",
+			"first_present_romanized": "ji1sdo2y.e3ha",
+			"completive_past_syallabary": "ᎤᏍᏙᏰᎲᎢ",
+			"completive_past_romanized": "u1sdo2ye23hv3'i",
+			"continuous_syllabary": "ᎠᏍᏙᏰᏍᎪᎢ",
+			"continuous_romanized": "a1sdo2ye23sg.o3'i",
+			"immediate_syllabary": [ "ᎯᏍᏙᏯ", "ᎯᏍᏙᏯ" ],
+			"immediate_romanized": [ "hi1sdo23ya", "h.i2sdo23ya" ],
+			"infinitive_syllabary": "ᎤᏍᏙᏴᏗ",
+			"infinitive_romanized": "u2sdoyh2di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᏚᎲᏍᎦ",
+			"third_present_romanized": "a1sdu32h.v2sga",
+			"third_present_en": [ "he's closing it", "he's jailing him" ],
+			"first_present_syllabary": "ᏥᏍᏚᎲᏍᎦ",
+			"first_present_romanized": "ji1sdu32h.v2sga",
+			"completive_past_syallabary": "ᎤᏍᏚᏅᎢ",
+			"completive_past_romanized": "u1sdu32hnv23'i",
+			"continuous_syllabary": "ᎠᏍᏚᎲᏍᎪᎢ",
+			"continuous_romanized": "a1sdu32h.v2sgo3'i",
+			"immediate_syllabary": [ "ᎯᏍᏚᎲᎦ", "ᎯᏍᏚᎲᎦ" ],
+			"immediate_romanized": [ "hi1sdu1hv1ga", "h.i2sdu1hv1ga" ],
+			"infinitive_syllabary": "ᎤᏍᏚᏗ",
+			"infinitive_romanized": "u2sdu1di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᏚᎢᎠ",
+			"third_present_romanized": "a1sd.u3'.i2'a",
+			"third_present_en": "he's opening it",
+			"first_present_syllabary": "ᏥᏍᏚᎢᎠ",
+			"first_present_romanized": "ji1sd.u3'.i2'a",
+			"completive_past_syallabary": "ᎤᏍᏚᎢᏒᎢ",
+			"completive_past_romanized": "u1sd.u3'i1sv23'i",
+			"continuous_syllabary": "ᎠᏍᏚᎢᏍᎪᎢ",
+			"continuous_romanized": "a1sd.u3'i1sgo3'i",
+			"immediate_syllabary": "ᎯᏍᏚᎢ",
+			"immediate_romanized": "h.i2sd.u2'i",
+			"infinitive_syllabary": "ᎤᏍᏚᎢᏍᏗ",
+			"infinitive_romanized": "u2sd.u2'i1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏍᏛᎭᏟ",
+			"singular_romanized": ".a2sdv23h.a2hli",
+			"singular_en": "sandwich",
+			"plural_syllabary": "ᏗᏍᏛᎭᏟ",
+			"plural_romanized": "di2sdv23h.a2hli"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᏛᎭᏢᏍᎦ",
+			"third_present_romanized": "a1sdv23h.a3hl.v2sga",
+			"third_present_en": "he's sandwiching it",
+			"first_present_syllabary": "ᏥᏍᏛᎭᏢᏍᎦ",
+			"first_present_romanized": "ji1sdv23h.a3hl.v2sga",
+			"completive_past_syallabary": "ᎤᏍᏛᎭᏝᏅᎢ",
+			"completive_past_romanized": "u1sdv23h.a3hl.a2nv23'i",
+			"continuous_syllabary": "ᎠᏍᏛᎭᏢᏍᎪᎢ",
+			"continuous_romanized": "a1sdv23h.a3hl.v2sgo3'i",
+			"immediate_syllabary": "ᎯᏍᏛᎭᏢᎦ",
+			"immediate_romanized": "h.i2sdv2h.a2hlv1ga",
+			"infinitive_syllabary": "ᎤᏍᏛᎭᏟᏗ",
+			"infinitive_romanized": "u2sdv23hahl3di"
+		}
+	]
+}

@@ -1,0 +1,98 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᎦᎵᎦ",
+			"third_present_romanized": "a1sgahl2ga",
+			"third_present_en": "he's biting him / it",
+			"first_present_syllabary": "ᏥᏍᎦᎵᎦ",
+			"first_present_romanized": "ji1sgahl2ga",
+			"completive_past_syllabary": "ᎤᏍᎦᎵᏨᎢ",
+			"completive_past_romanized": "u1sgahl2jv23'i",
+			"continuous_syllabary": "ᎠᏍᎦᎵᎪᎢ",
+			"continuous_romanized": "a1sgahl2go3'i",
+			"immediate_syllabary": [ "ᎯᏍᎦᎳ", "ᎯᏍᎦᎳ" ],
+			"immediate_romanized": [ "hi1sg.a2la", "h.i2sg.a2la" ],
+			"infinitive_syllabary": "ᎤᏍᎦᎵᏍᏗ",
+			"infinitive_romanized": "u2sgal2sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏍᎦᏂ",
+			"singular_romanized": ".a2sg.a2hni",
+			"singular_en": [ "evil", "sin" ]
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏍᎦᎾᎢ",
+			"singular_romanized": ".a2sg.a2na4'i",
+			"singular_en": "sinner",
+			"plural_syllabary": "ᎠᏂᏍᎦᎾᎢ",
+			"plural_romanized": ".a2ni2sg.a2na4'i"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᎦᏅᎦ",
+			"third_present_romanized": "a1sg.a2nv32ga",
+			"third_present_en": "he's committing a crime, sin",
+			"first_present_syllabary": "ᏥᏍᎦᏅᎦ",
+			"first_present_romanized": "ji1sg.a2nv32ga",
+			"completive_past_syllabary": "ᎤᏍᎦᏅᏨᎢ",
+			"completive_past_romanized": "u1sg.a2nv32jv23'i",
+			"continuous_syllabary": "ᎠᏍᎦᏅᎪᎢ",
+			"continuous_romanized": "a1sg.a2nv32go3'i",
+			"immediate_syllabary": "ᎯᏍᎦᏅᎩ",
+			"immediate_romanized": "h.i2sg.a2nv1gi",
+			"infinitive_syllabary": "ᎤᏍᎦᏅᎢᏍᏗ",
+			"infinitive_romanized": "u2sg.a2nvy1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏍᎦᏯ",
+			"singular_romanized": ".a2sg.a2ya",
+			"singular_en": "man",
+			"plural_syllabary": "ᎠᏂᏍᎦᏯ",
+			"plural_romanized": ".a2ni2sg.a2ya"
+		},
+		{
+			"type": "adj",
+			"singular_syllabary": "ᎠᏍᎦᏰᎬᏍᏓ",
+			"singular_romanized": ".a2sg.a2ye2gv4sda",
+			"singular_en": "handsome",
+			"plural_syllabary": "ᎠᏂᏍᎦᏰᎬᏍᏓ",
+			"plural_romanized": ".a2ni2sg.a2ye2gv4sda"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏍᎦᏰᎬᏍᏓ",
+			"singular_romanized": ".a2sg.a2ye2gv23sda",
+			"singular_en": "officer",
+			"plural_syllabary": "ᎠᏂᏍᎦᏰᎬᏍᏓ",
+			"plural_romanized": ".a2ni2sg.a2ye2gv23sda"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏍᎩᎾ",
+			"singular_romanized": ".a2sgi23na",
+			"singular_en": [ "demon", "devil" ],
+			"plural_syllabary": "ᎠᏂᏍᎩᎾ",
+			"plural_romanized": ".a2ni2sgi23na"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᎩᏘᏍᎦ",
+			"third_present_romanized": "a1sgi2tsga",
+			"third_present_en": "he's dreaming about him or it",
+			"first_present_syllabary": [ "ᏥᏯᏍᎩᏘᏍᎦ", "ᎦᏍᎩᏘᏍᎦ" ],
+			"first_present_romanized": [ "ji2ya1sgi2tsga", "ga1sgi2tsga" ],
+			"completive_past_syllabary": "ᎤᏍᎩᏨᎢ",
+			"completive_past_romanized": "u1sgi2tsv23'i",
+			"continuous_syllabary": "ᎠᏍᎩᏘᏍᎪᎢ",
+			"continuous_romanized": "a1sgi2tsgo3'i",
+			"immediate_syllabary": [ "ᎯᏯᏍᎩᏣ", "ᎭᏍᎩᏣ" ],
+			"immediate_romanized": [ "ji2ya1sgi23tsa", "h.a2sgi23tsa" ],
+			"infinitive_syllabary": "ᎤᏍᎩᏘᏍᏗ",
+			"infinitive_romanized": "u2sgi2tsdi"
+		}
+	]
+}

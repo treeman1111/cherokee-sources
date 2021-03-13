@@ -1,0 +1,110 @@
+﻿{
+	"dictionary": {
+		{
+			"type": "adv",
+			"singular_syllabary": "ᎠᏎᏛ",
+			"singular_romanized": "a3se3dv3",
+			"singular_en": [ "maybe", "perhaps" ]
+		},
+		{
+			"type": "adj",
+			"singular_syllabary": "ᎠᏎᎩ",
+			"singular_romanized": ".a2se4gi",
+			"singular_en": "peculiar"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏎᎮᎭ",
+			"third_present_romanized": "a1s.e2he3ha",
+			"third_present_en": "he's showing him",
+			"first_present_syllabary": "ᏥᏯᏎᎮᎭ",
+			"first_present_romanized": "ji2ya1s.e2he3ha",
+			"completive_past_syllabary": "ᎤᏎᎮᎸᎢ",
+			"completive_past_romanized": "u1s.e2he3lv23'i",
+			"continuous_syllabary": "ᎠᏎᎮᎰᎢ",
+			"continuous_romanized": "a1s.e2he3ho3'i",
+			"immediate_syllabary": "ᎯᏯᏎᎯᏏ",
+			"immediate_romanized": "hi2ya1s.e2h.i2si",
+			"infinitive_syllabary": "ᎤᏎᎮᏗ",
+			"infinitive_romanized": "u2s.e3heh3di"
+		},
+		{
+			"type": "conj",
+			"singular_syllabary": [ "ᎠᏎᏃ", "ᎠᏎᏅ" ],
+			"singular_romanized": [ "a2se3hno", "a2se3hnv" ],
+			"singular_en": "but"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏎᏍᏗᎭ",
+			"third_present_romanized": "a1s.e2sd.i3ha",
+			"third_present_en": "he's including him / it (in counting)",
+			"first_present_syllabary": [ "ᏥᏯᏎᏍᏗᎭ", "ᎦᏎᏍᏗᎭ" ],
+			"first_present_romanized": [ "ji2ya1s.e2sd.i3ha", "ga1s.e2sd.i3ha" ],
+			"completive_past_syllabary": "ᎤᏎᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1s.e2st.a3nv23'i",
+			"continuous_syllabary": "ᎠᏎᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "a1s.e2sdi3sgo3'i",
+			"immediate_syllabary": [ "ᎯᏯᏎᏍᏓ", "ᎭᏎᏍᏓ" ],
+			"immediate_romanized": [ "hi2ya1s.e2sda", "h.a2s.e2sda" ],
+			"infinitive_syllabary": "ᎤᏎᏍᏙᏗ",
+			"infinitive_romanized": "u2s.e3sdoh3di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏎᏏᎭ",
+			"third_present_romanized": "a3se2s.i3ha",
+			"third_present_en": [ "he's withdrawing (a motion)", "he's withdrawing (his candidacy)", "he's pulling it out (a drawer)" ],
+			"first_present_syllabary": "ᎦᏎᏏᎭ",
+			"first_present_romanized": "ga3se2s.i3ha",
+			"completive_past_syllabary": "ᎤᏎᏒᎲᎢ",
+			"completive_past_romanized": "u3se2sv2hv23'i",
+			"continuous_syllabary": "ᎠᏎᏏᏍᎪᎢ",
+			"continuous_romanized": "a3se2si23sg.o3'i",
+			"immediate_syllabary": "ᎭᏎᏌ",
+			"immediate_romanized": "ha1se23sa",
+			"infinitive_syllabary": "ᎤᏎᏒᏗ",
+			"infinitive_romanized": "u1se23svh3di"
+		},
+		{
+			"type": "adj",
+			"singular_syllabary": "ᎠᏎᏒᏓ",
+			"singular_romanized": "a1se23sv4da",
+			"singular_en": "withdrawn",
+			"plural_syllabary": "ᏗᏎᏒᏓ",
+			"plural_romanized": "di1se23sv4da"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᎦᎦ",
+			"third_present_romanized": "a1sga32ga",
+			"third_present_en": "he's reprimanding him",
+			"first_present_syllabary": "ᏥᏍᎦᎦ",
+			"first_present_romanized": "ji1sga32ga",
+			"completive_past_syllabary": "ᎤᏍᎦᏨᎢ",
+			"completive_past_romanized": "u1sga32jv23'i",
+			"continuous_syllabary": "ᎠᏍᎦᏍᎪᎢ",
+			"continuous_romanized": "a1sga32go3'i",
+			"immediate_syllabary": "ᎯᏍᎦᎩ",
+			"immediate_romanized": "hi1sga1gi",
+			"infinitive_syllabary": "ᎤᏍᎦᏍᏗ",
+			"infinitive_romanized": "u2sgay1sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏍᎦᎭ",
+			"third_present_romanized": "a1sga32ha",
+			"third_present_en": "he's afraid",
+			"first_present_syllabary": "ᏥᏍᎦᎭ",
+			"first_present_romanized": "ji1sga32ha",
+			"completive_past_syllabary": "ᎤᏍᎦᎸᎢ",
+			"completive_past_romanized": "u1sga3lv23'i",
+			"continuous_syllabary": "ᎠᏍᎦᎰᎢ",
+			"continuous_romanized": "a1sga3ho3'i",
+			"immediate_syllabary": "ᎯᏍᎦᏯ",
+			"immediate_romanized": "h.i2sga23ya",
+			"infinitive_syllabary": "ᎤᏍᎦᏍᏗ",
+			"infinitive_romanized": "u2sga1sdi"
+		}
+	}
+}

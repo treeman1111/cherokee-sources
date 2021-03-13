@@ -1,0 +1,100 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎯᏯᎠ",
+			"third_present_romanized": "a1hi2y.a3'a",
+			"third_present_en": "he's leaving it behind",
+			"first_present_syllabary": "ᏥᎢᏯᎠ",
+			"first_present_romanized": "j.i2'i2'y.a3'a",
+			"completive_past_syallabary": "ᎤᎯᏴᎢ",
+			"completive_past_romanized": "u1hi3yv23'i",
+			"continuous_syllabary": "ᎠᎯᏯᏍᎪᎢ",
+			"continuous_romanized": "a1hi2ya32sgo3'i",
+			"immediate_syllabary": "ᎯᎯᏯ",
+			"immediate_romanized": "h.i2hi23ya",
+			"infinitive_syllabary": "ᎤᎯᏯᏍᏗ",
+			"infinitive_romanized": "u2hi23ya32sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏝᎲᏍᎦ",
+			"third_present_romanized": "a1hl.a2h.v3sga",
+			"third_present_en": "he's placing it on something",
+			"first_present_syllabary": "ᏥᏝᎲᏍᎦ",
+			"first_present_romanized": "ji1hl.a2h.v3sga",
+			"completive_past_syallabary": "ᎤᏝᏅᎢ",
+			"completive_past_romanized": "u1hl.a2hnv23'i",
+			"continuous_syllabary": "ᎠᏝᎲᏍᎪᎢ",
+			"continuous_romanized": "a1hl.a2h.v3sg.o3'i",
+			"immediate_syllabary": "ᎯᏝᎲᎦ",
+			"immediate_romanized": "h.i2hl.a2hv1ga",
+			"infinitive_syllabary": "ᎤᏠᏗ",
+			"infinitive_romanized": "u2hloh2di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏝᏫᏗᎭ",
+			"third_present_romanized": "a1hl.a2wi2d.i3ha",
+			"third_present_en": [ "he's taking off flying", "it's flying away" ],
+			"first_present_syllabary": "ᎦᏜᏫᏗᎭ",
+			"first_present_romanized": "g.a2dl.a2wi2d.i3ha",
+			"completive_past_syallabary": "ᎤᏝᏫᏛᎲᎢ",
+			"completive_past_romanized": "u1hl.a2wi2dv2hv23'i",
+			"continuous_syllabary": "ᎠᏝᏫᏗᏍᎪᎢ",
+			"continuous_romanized": "a1hl.a2wi2di23sg.o3'i",
+			"immediate_syllabary": "ᎭᏝᏫᏓ",
+			"immediate_romanized": "h.a2hl.a2wi23da",
+			"infinitive_syllabary": "ᎤᏝᏫᏘᏗ",
+			"infinitive_romanized": "u2hl.a2wi2tdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎳᏫᏗᏍᎩ",
+			"singular_romanized": ".a2hl.a2wi2di4sgi",
+			"singular_en": "something that flies",
+			"plural_syllabary": "ᏗᏝᏫᏗᏍᎩ",
+			"plural_romanized": "di2hl.a2wi2di4sgi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏝᏫᏘᏗᎭ",
+			"third_present_romanized": "a1hl.a2wi2td.i3ha",
+			"third_present_en": "he's making him / it fly",
+			"first_present_syllabary": [ "ᏥᏯᏜᏫᏘᏗᎭ", "ᎦᏜᏫᏘᏗᎭ" ],
+			"first_present_romanized": [ "ji2y.a2dl.a2wi2td.i3ha", "g.a2dl.a2wi2td.i3ha" ],
+			"completive_past_syallabary": "ᎤᏝᏫᏘᏓᏅᎢ",
+			"completive_past_romanized": "u1hl.a2wi2td.a3nv3'i",
+			"continuous_syllabary": "ᎠᏝᏫᏘᏗᏍᎪᎢ",
+			"continuous_romanized": "a1hl.a2wi2tdi23sg.o3'i",
+			"immediate_syllabary": [ "ᎯᏯᏜᏫᏘᏓ", "ᎭᏝᏫᏘᏓ" ],
+			"immediate_romanized": [ "hi2y.a2dl.a2wi2tda", "h.a2hl.a2wi2tda" ],
+			"infinitive_syllabary": "ᎤᏝᏫᏘᏙᏗ",
+			"infinitive_romanized": "u2hl.a2wi2tdoh3di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏝᏫᏘᏗᏍᎩ",
+			"singular_romanized": ".a2hl.a2wi2tdi4sgi",
+			"singular_en": "person who makes it fly",
+			"plural_syllabary": "ᎠᎾᏝᏫᏘᏗᏍᎩ",
+			"plural_romanized": ".a2n.a2hl.a2wi2tdi4sgi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏟᎩᎠ",
+			"third_present_romanized": "a1hl.i2gi3'a",
+			"third_present_en": "he's having a nightmare",
+			"first_present_syllabary": "ᎦᏟᎩᎠ",
+			"first_present_romanized": "g.a2dl.i2gi3'a",
+			"completive_past_syallabary": "ᎤᏟᎩᏒᎢ",
+			"completive_past_romanized": "u1hl.i2gi3sv23'i",
+			"continuous_syllabary": "ᎠᏟᎩᏍᎪᎢ",
+			"continuous_romanized": "a1hl.i2gi3sgo3'i",
+			"immediate_syllabary": "ᎭᏟᎩ",
+			"immediate_romanized": "h.a2hl.i2gi",
+			"infinitive_syllabary": "ᎤᏟᎩᏍᏗ",
+			"infinitive_romanized": "u2hl.i2gi1sdi"
+		}
+	]
+}

@@ -1,0 +1,100 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏟᏍᏗᎭ",
+			"third_present_romanized": "a1dli32sd.i2ha",
+			"third_present_en": "he's pouring a liquid into a container",
+			"first_present_syllabary": "ᏥᏟᏍᏗᎭ",
+			"first_present_romanized": "j.i2dli32sd.i2ha",
+			"completive_past_syallabary": "ᎤᏟᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1dli32st.a2nv23'i",
+			"continuous_syllabary": "ᎠᏟᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "a1dli32sdi2sgo3'i",
+			"immediate_syllabary": "ᎯᏟᏍᏓ",
+			"immediate_romanized": "h.i2dli1sda",
+			"infinitive_syllabary": "ᎤᏟᏍᏙᏗ",
+			"infinitive_romanized": "u2dli1sdoh2di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏟᏍᏙᏗ",
+			"singular_romanized": ".a3dli1sdoh2di",
+			"singular_en": "container (for liquid)",
+			"plural_syllabary": "ᏗᏟᏍᏙᏗ",
+			"plural_romanized": "di23dli1sdoh2di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏠᏱᎭ",
+			"third_present_romanized": "a1dlo2hy.i3ha",
+			"third_present_en": "he's crying",
+			"first_present_syllabary": "ᎦᏠᏱᎭ",
+			"first_present_romanized": "g.a2dlo1y.i3ha",
+			"completive_past_syallabary": "ᎤᏠᏱᎸᎢ",
+			"completive_past_romanized": "u1dlo2hy.i2lv23'i",
+			"continuous_syllabary": "ᎠᏠᏱᎰᎢ",
+			"continuous_romanized": "a1dlo2hy.i3h.o3'i",
+			"immediate_syllabary": "ᎭᏠᏱᎦ",
+			"immediate_romanized": "h.a2dloyh2ga",
+			"infinitive_syllabary": "ᎤᏠᏱᏍᏗ",
+			"infinitive_romanized": "u2dloy2sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏠᎢᏍᎦ",
+			"third_present_romanized": "a1dloy3sga",
+			"third_present_en": "he's getting off",
+			"first_present_syllabary": "ᎦᏠᎢᏍᎦ",
+			"first_present_romanized": "g.a2dloy3sga",
+			"completive_past_syallabary": "ᎤᏠᎢᏒᎢ",
+			"completive_past_romanized": "u1dloy3sv23'i",
+			"continuous_syllabary": "ᎠᏠᎢᏍᎪᎢ",
+			"continuous_romanized": "a1dloy3sgo3'i",
+			"immediate_syllabary": "ᎭᏠᎯ",
+			"immediate_romanized": "h.a2dlo1hi",
+			"infinitive_syllabary": "ᎤᏠᎯᏍᏗ",
+			"infinitive_romanized": "u2dlo1h.i3sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏢᏈᏍᎦ",
+			"third_present_romanized": "a1dlv23kwsga",
+			"third_present_en": "he's bragging",
+			"first_present_syllabary": "ᎦᏢᏆᏍᎦ",
+			"first_present_romanized": "g.a2dlv23gwa32sga",
+			"completive_past_syallabary": "ᎤᏢᏆᏒᎢ",
+			"completive_past_romanized": "u1dlv23kwsv23'i",
+			"continuous_syllabary": "ᎠᏢᏈᏍᎪᎢ",
+			"continuous_romanized": "a1dlv23kwsg.o3'i",
+			"immediate_syllabary": "ᎭᏢᏆ",
+			"immediate_romanized": "h.a2dlv23kwa",
+			"infinitive_syllabary": "ᎤᏢᏈᏍᏗ",
+			"infinitive_romanized": "u2dlv23kw.i3sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏢᏔᏍᎦ",
+			"third_present_romanized": "a1dlv2t.a3sga",
+			"third_present_en": [ "he's catching up with him", "he's catching up with it" ],
+			"first_present_syllabary": [ "ᏥᏯᏢᏔᏍᎦ", "ᎦᏢᏔᏍᎦ" ],
+			"first_present_romanized": [ "ji2y.a2dlv1t.a3sga", "g.a2dlv1t.a3sga" ],
+			"completive_past_syallabary": "ᎤᏢᏔᎲᎢ",
+			"completive_past_romanized": "u1dlv2t.a2hv23'i",
+			"continuous_syllabary": "ᎠᏢᏔᏍᎪᎢ",
+			"continuous_romanized": "a1dlv2t.a2sgo3'i",
+			"immediate_syllabary": [ "ᎯᏯᏢᏔ", "ᎭᏢᏔ" ],
+			"immediate_romanized": [ "hi2y.a2dlv1ta", "h.a2dlv23ta" ],
+			"infinitive_syllabary": "ᎤᏢᏔᏍᏗ",
+			"infinitive_romanized": "u2dlv2t.a2sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏙᎳᏅᏍᏗ",
+			"singular_romanized": ".a2do2l.a2nv3sdi",
+			"singular_en": "walking cane",
+			"plural_syllabary": "ᏗᏙᎳᏅᏍᏗ",
+			"plural_romanized": "di2do2l.a2nv3sdi"
+		}
+	]
+}

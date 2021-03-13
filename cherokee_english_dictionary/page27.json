@@ -1,0 +1,112 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏩᏛᎯᏙᎭ",
+			"third_present_romanized": "a1hwah2tv2hi23do32ha",
+			"third_present_en": "he's visiting him",
+			"first_present_syllabary": "ᏥᏩᏛᎯᏙᎭ",
+			"first_present_romanized": "ji1wah2tv2hi23do32ha",
+			"completive_past_syallabary": "ᎤᏩᏛᎯᏙᎸᎢ",
+			"completive_past_romanized": "u1hwah2tv2hi23do32lv23'i",
+			"continuous_syllabary": "ᎠᏩᏛᎯᏙᎰᎢ",
+			"continuous_romanized": "a1hwah2tv2hi23do32ho3'i",
+			"immediate_syllabary": "ᎯᏩᏛᎯᏓ",
+			"immediate_romanized": "hi1wah2tv2hi23da",
+			"infinitive_syllabary": "ᎤᏩᏛᎯᏓᏍᏗ",
+			"infinitive_romanized": "u2hwah2tv2hi23da32sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏫᏗᎭ",
+			"third_present_romanized": "a1hwi2d.i3ha",
+			"third_present_en": "he's taking it somewhere",
+			"first_present_syllabary": "ᏥᏫᏗᎭ",
+			"first_present_romanized": "ji1wi2d.i3ha",
+			"completive_past_syallabary": "ᎤᏫᏛᎲᎢ",
+			"completive_past_romanized": "u1hwi2dv2hv23'i",
+			"continuous_syllabary": "ᎠᏫᏗᏍᎪᎢ",
+			"continuous_romanized": "a1hwi2di23sg.o3'i",
+			"immediate_syllabary": "ᎯᏫᏓ",
+			"immediate_romanized": "h.i2hwi23da",
+			"infinitive_syllabary": "ᎤᏫᏘᏗ",
+			"infinitive_romanized": "u2hwi2tdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏫᏍᎦ",
+			"third_present_romanized": "a1hw.i2sga",
+			"third_present_en": "he's planting it",
+			"first_present_syllabary": "ᏥᏫᏍᎦ",
+			"first_present_romanized": "ji1w.i2sga",
+			"completive_past_syallabary": "ᎤᏫᏒᎢ",
+			"completive_past_romanized": "u1hw.i2sv23'i",
+			"continuous_syllabary": "ᎠᏫᏍᎪᎢ",
+			"continuous_romanized": "a1hw.i2sgo3'i",
+			"immediate_syllabary": "ᎯᏫ",
+			"immediate_romanized": "h.i2hwi",
+			"infinitive_syllabary": "ᎤᏫᏍᏗ",
+			"infinitive_romanized": "u2hw.i2sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏯᏢᏗ",
+			"singular_romanized": "a2hy.a2dlv4di",
+			"singular_en": "necktie",
+			"plural_syllabary": "ᏗᏯᏢᏗ",
+			"plural_romanized": "di2hy.a2dlv4di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏯᎨᏗᏍᎦ",
+			"third_present_romanized": "a1hyah2ke23tsga",
+			"third_present_en": "he's peeling it",
+			"first_present_syllabary": "ᏥᏯᎨᏗᏍᎦ",
+			"first_present_romanized": "ji1yah2ke23tsga",
+			"completive_past_syallabary": "ᎤᏯᎨᏗᏒᎢ",
+			"completive_past_romanized": "u1hyah2ke23tsv3'i",
+			"continuous_syllabary": "ᎠᏯᎨᏗᏍᎪᎢ",
+			"continuous_romanized": "a1hyah2ke23tsg.o3'i",
+			"immediate_syllabary": "ᎯᏯᎨᏗᏌ",
+			"immediate_romanized": "h.i2hyah2ke23tsa",
+			"infinitive_syllabary": "ᎤᏯᎨᏗᏍᏗ",
+			"infinitive_romanized": "u2hyah2ke23tsdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏯᏟᏗ",
+			"singular_romanized": "a3hyahl2di",
+			"singular_en": "necklace",
+			"plural_syllabary": "ᏗᏯᏟᏗ",
+			"plural_romanized": "di3hyahl2di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏯᏛᎲᏍᎦ",
+			"third_present_romanized": "a1hyah2tv23h.v3sga",
+			"third_present_en": "it's (the ground) becoming frosty",
+			"completive_past_syallabary": "ᎤᏯᏛᏅᎢ",
+			"completive_past_romanized": "u1hyah2tv23hnv3'i",
+			"continuous_syllabary": "ᎠᏯᏛᎲᏍᎪᎢ",
+			"continuous_romanized": "a1hyah2tv23h.v3sgo3'i",
+			"infinitive_syllabary": "ᎤᏯᏛᏗ",
+			"infinitive_romanized": "u2hyah2tv3tdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏯᏂᎭ",
+			"third_present_romanized": "a1hy.a2n.i3ha",
+			"third_present_en": [ "he's calling him", "he's inviting him", "he's receiving him", "he's getting him" ],
+			"first_present_syllabary": "ᏥᏯᏂᎭ",
+			"first_present_romanized": "ji1y.a2n.i3ha",
+			"completive_past_syallabary": "ᎤᏯᏅᎲᎢ",
+			"completive_past_romanized": "u1hy.a2nv2hv23'i",
+			"continuous_syllabary": "ᎠᏯᏂᏍᎪᎢ",
+			"continuous_romanized": "a1hy.a2ni23sg.o3'i",
+			"immediate_syllabary": "ᎯᏯᎾ",
+			"immediate_romanized": "hi1y.a2na",
+			"infinitive_syllabary": "ᎤᏯᏅᏗ",
+			"infinitive_romanized": "u2hyanh2di"
+		}
+	]
+}

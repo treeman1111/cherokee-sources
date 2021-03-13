@@ -1,0 +1,116 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏴᎩ",
+			"singular_romanized": ".a2hyv4ki",
+			"singular_en": [ "prisoner", "captive" ],
+			"plural_syllabary": "ᎠᏂᏴᎩ",
+			"plural_romanized": ".a2ni2hyv4ki"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏴᎩᏗᎠ",
+			"third_present_romanized": "a1hyv23ki3d.i2'a",
+			"third_present_en": "he's capturing him",
+			"first_present_syllabary": "ᏥᏴᎩᏗᎠ",
+			"first_present_romanized": "ji1yv23ki3d.i2'a",
+			"completive_past_syallabary": "ᎤᏴᎩᏛᎢ",
+			"completive_past_romanized": "u1hyv23ki3dv23'i",
+			"continuous_syllabary": "ᎠᏴᎩᏗᏍᎪᎢ",
+			"continuous_romanized": "a1hyv23ki3di1sgo3'i",
+			"immediate_syllabary": "ᎯᏴᎩᏓ",
+			"immediate_romanized": "hi1yv2ki23da",
+			"infinitive_syllabary": "ᎤᏴᎩᏗᏍᏗ",
+			"infinitive_romanized": "u2hyv23ki3di1sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏴᏍᏕᎷᎲᏍᎦ",
+			"third_present_romanized": "a1hyv23sde3lu2h.v2sga",
+			"third_present_en": "he's hitting him on the nose",
+			"first_present_syllabary": "ᏥᏴᏍᏕᎷᎲᏍᎦ",
+			"first_present_romanized": "ji1yv23sde3lu2h.v2sga",
+			"completive_past_syallabary": "ᎤᏴᏍᏕᎷᏅᎢ",
+			"completive_past_romanized": "u1hyv23sde3lu2hnv23'i",
+			"continuous_syllabary": "ᎠᏴᏍᏕᎷᎲᏍᎪᎢ",
+			"continuous_romanized": "a1hyv23sde3lu2h.v2sgo3'i",
+			"immediate_syllabary": "ᎯᏴᏍᏕᎷᎲᎦ",
+			"immediate_romanized": "hi1yv2sde2lu2hv1ga",
+			"infinitive_syllabary": "ᎤᏴᏍᏕᎷᏗ",
+			"infinitive_romanized": "u2hyv23sde3luh2di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏴᏍᎩᏱᎭ",
+			"third_present_romanized": "a1hy.v2sgi23yi3ha",
+			"third_present_en": "he's choking him",
+			"first_present_syllabary": "ᏥᏴᏍᎩᏱᎭ",
+			"first_present_romanized": "ji1y.v2sgi23yi3ha",
+			"completive_past_syallabary": "ᎤᏴᏍᎩᏴᎲᎢ",
+			"completive_past_romanized": "u1hy.v2sgi23yv3hv23'i",
+			"continuous_syllabary": "ᎠᏴᏍᎩᏱᏍᎪᎢ",
+			"continuous_romanized": "a1hy.v2sgi23yi3sgo3'i",
+			"immediate_syllabary": "ᎯᏴᏍᎩᏯ",
+			"immediate_romanized": "hi1y.v2sgi23ya",
+			"infinitive_syllabary": "ᎤᏴᏍᎩᏴᏗ",
+			"infinitive_romanized": "u2hy.v2sgiyh23di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎢ",
+			"third_present_romanized": "a3'i",
+			"third_present_en": "he's walking",
+			"first_present_syllabary": "ᎦᎢ",
+			"first_present_romanized": "ga3'i",
+			"continuous_syllabary": "ᎠᎢᏐᎢ",
+			"continuous_romanized": "a3'i2so3'i"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏣᏗ",
+			"singular_romanized": ".a2j.a'2di",
+			"singular_en": "fish"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏣᏓ",
+			"singular_romanized": ".a2jah2da",
+			"singular_en": "Choctaw",
+			"plural_syllabary": "ᎠᏂᏣᏓ",
+			"plural_romanized": ".a2ni2jah2da"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏣᎢᎠ",
+			"third_present_romanized": "a1j.a3'.i2'a",
+			"third_present_en": "it's hatching",
+			"first_present_syllabary": "ᎦᏣᎢᎠ",
+			"first_present_romanized": "g.a2j.a3'.i2'a",
+			"completive_past_syallabary": "ᎤᏣᎢᏒᎢ",
+			"completive_past_romanized": "u1j.a3'i1sv23'i",
+			"continuous_syllabary": "ᎠᏣᎢᏍᎪᎢ",
+			"continuous_romanized": "a1j.a3'i1sgo3'i",
+			"immediate_syllabary": "ᎭᏣᎢ",
+			"immediate_romanized": "h.a2j.a2'i",
+			"infinitive_syllabary": "ᎤᏣᎢᏍᏗ",
+			"infinitive_romanized": "u2j.a2'i1sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏣᏅᏍᎦ",
+			"third_present_romanized": "a1j.a2nv2sga",
+			"third_present_en": "he's dressing up",
+			"first_present_syllabary": "ᎦᏣᏅᏍᎦ",
+			"first_present_romanized": "g.a2j.a2nv1sga",
+			"completive_past_syallabary": "ᎤᏣᏅᏅᎢ",
+			"completive_past_romanized": "u1j.a2nv2hnv23'i",
+			"continuous_syllabary": "ᎠᏣᏅᏍᎪᎢ",
+			"continuous_romanized": "a1j.a2nv2sgo3'i",
+			"immediate_syllabary": "ᎭᏣᏅᎾ",
+			"immediate_romanized": "h.a2j.a2nv23na",
+			"infinitive_syllabary": "ᎤᏣᏅᏗ",
+			"infinitive_romanized": "u2j.a2nvh2di"
+		}
+	]
+}

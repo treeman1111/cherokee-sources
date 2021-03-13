@@ -1,0 +1,114 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏗᏍᎦᏢᏍᎦ",
+			"third_present_romanized": "a1di2sg.a2hl.v3sga",
+			"third_present_en": "he's hiding",
+			"first_present_syllabary": "ᎦᏗᏍᎦᏢᏍᎦ",
+			"first_present_romanized": "g.a2di1sg.a2hl.v3sga",
+			"completive_past_syallabary": "ᎤᏗᏍᎦᏝᏅᎢ",
+			"completive_past_romanized": "u1di2sg.a2hl.a3nv3'i",
+			"continuous_syllabary": "ᎠᏗᏍᎦᏢᏍᎪᎢ",
+			"continuous_romanized": "a1di2sg.a2hl.v2sg.o3'i",
+			"immediate_syllabary": "ᎭᏗᏍᎦᏢᎦ",
+			"immediate_romanized": "h.a2di2sg.a2hlv1ga",
+			"infinitive_syllabary": "ᎤᏗᏍᎦᏟᏗ",
+			"infinitive_romanized": "u2di2sgahl2di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏗᏏᏯᎠ",
+			"third_present_romanized": "a1di32si2y.a3'a",
+			"third_present_en": "he's leaving a long object behind",
+			"first_present_syllabary": "ᏥᏗᏏᏯᎠ",
+			"first_present_romanized": "j.i2di32si2y.a3'a",
+			"completive_past_syallabary": "ᎤᏗᏏᏴᎢ",
+			"completive_past_romanized": "u1di32si2yv23'i",
+			"continuous_syllabary": "ᎠᏗᏏᏯᏍᎪᎢ",
+			"continuous_romanized": "a1di32si2ya32sgo3'i",
+			"immediate_syllabary": "ᎯᏗᏏᏯ",
+			"immediate_romanized": "h.i2di1si23ya",
+			"infinitive_syllabary": "ᎤᏗᏏᏯᏍᏗ",
+			"infinitive_romanized": "u2di1si23ya32sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏗᏔᏍᏗ",
+			"singular_romanized": ".a2di23t.a2sdi",
+			"singular_en": "something to drink",
+			"plural_syllabary": "ᏗᏗᏔᏍᏗ",
+			"plural_romanized": "di2di23t.a2sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏗᏔᏍᎦ",
+			"third_present_romanized": "a1di2t.a3sga",
+			"third_present_en": "he's drinking it",
+			"first_present_syllabary": "ᎦᏗᏔᏍᎦ",
+			"first_present_romanized": "g.a2di1t.a3sga",
+			"completive_past_syallabary": "ᎤᏗᏔᎲᎢ",
+			"completive_past_romanized": "u1di2t.a2hv23'i",
+			"continuous_syllabary": "ᎠᏗᏔᏍᎪᎢ",
+			"continuous_romanized": "a1di2t.a2sgo3'i",
+			"immediate_syllabary": "ᎭᏗᏔ",
+			"immediate_romanized": "h.a2di23ta",
+			"infinitive_syllabary": "ᎤᏗᏔᏍᏗ",
+			"infinitive_romanized": "u2di2t.a2sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏗᏙᏗ",
+			"singular_romanized": ".a2di2toh3di",
+			"singular_en": "spoon",
+			"plural_syllabary": "ᏗᏗᏙᏗ",
+			"plural_romanized": "di2di2toh3di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏜ",
+			"singular_romanized": "a2dla",
+			"singular_en": [ "rubber", "chewing gum" ]
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏜᎪᏍᎦ",
+			"third_present_romanized": "a1dl.a2go23sga",
+			"third_present_en": "he's scratching",
+			"first_present_syllabary": "ᎦᏜᎪᏍᎦ",
+			"first_present_romanized": "g.a2dl.a2go3sga",
+			"completive_past_syallabary": "ᎤᏜᎪᏒᎢ",
+			"completive_past_romanized": "u1dl.a2go23sv3'i",
+			"continuous_syllabary": "ᎠᏜᎪᏍᎪᎢ",
+			"continuous_romanized": "a1dl.a2go23sg.o3'i",
+			"immediate_syllabary": "ᎭᏜᎪᎳ",
+			"immediate_romanized": "h.a2dl.a2go23la",
+			"infinitive_syllabary": "ᎤᏜᎪᏍᏗ",
+			"infinitive_romanized": "u2dl.a2go23sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏜᏩᏛᎢ",
+			"singular_romanized": "a1dla23w.a'3dv4'i",
+			"singular_en": "pocket",
+			"plural_syllabary": "ᏓᏜᏩᏛᎢ",
+			"plural_romanized": "da1dla23w.a'3dv4'i"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏞᎠ",
+			"third_present_romanized": "a1dle3'a",
+			"third_present_en": "he's turning off the road",
+			"first_present_syllabary": "ᎦᏞᎠ",
+			"first_present_romanized": "g.a2dle3'a",
+			"completive_past_syallabary": "ᎤᏞᏒᎢ",
+			"completive_past_romanized": "u1dle3sv23'i",
+			"continuous_syllabary": "ᎠᏞᏍᎪᎢ",
+			"continuous_romanized": "a1dle3sgo3'i",
+			"immediate_syllabary": "ᎭᏜᎩ",
+			"immediate_romanized": "h.a2dl.a2gi",
+			"infinitive_syllabary": "ᎤᏞᏍᏗ",
+			"infinitive_romanized": "u2dle1sdi"
+		}
+	]
+}

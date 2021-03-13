@@ -1,0 +1,112 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎵᏓᎳᏗᎠ",
+			"third_present_romanized": "al1s.a2l.a2d.i3'a",
+			"third_present_en": "he / it's ascending / raising",
+			"first_present_syllabary": "ᎦᎵᏌᎳᏗᎠ",
+			"first_present_romanized": "g.a2li1s.a2l.a2d.i3'a",
+			"completive_past_syallabary": "ᎤᎵᏌᎳᏓᏅᎢ",
+			"completive_past_romanized": "ul1s.a2l.a2da32nv23'i",
+			"continuous_syllabary": "ᎠᎵᏌᎳᏗᏍᎪᎢ",
+			"continuous_romanized": "al1s.a2l.a2di32sgo3'i",
+			"immediate_syllabary": "ᎭᎵᏌᎳᏛᎦ",
+			"immediate_romanized": "hal2s.a2l.a2dv1ga",
+			"infinitive_syllabary": "ᎤᎵᏌᎳᏙᏗ",
+			"infinitive_romanized": "ul2s.a2l.a2do1di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎵᏍᏓᏴᏗ",
+			"singular_romanized": "al3sdayh1di",
+			"singular_en": [ "food", "groceries" ]
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎵᏍᏓᏴᎲᏍᎦ",
+			"third_present_romanized": "al1sda32yv2h.v3sga",
+			"third_present_en": "he's eating a meal",
+			"first_present_syllabary": "ᎦᎵᏍᏓᏴᎲᏍᎦ",
+			"first_present_romanized": "g.a2li1sda32yv2h.v3sga",
+			"completive_past_syallabary": "ᎤᎵᏍᏓᏴᏅᎢ",
+			"completive_past_romanized": "ul1sda32yv2hnv23'i",
+			"continuous_syllabary": "ᎠᎵᏍᏓᏴᎲᏍᎪᎢ",
+			"continuous_romanized": "al1sda32yv2h.v2sgo3'i",
+			"immediate_syllabary": "ᎭᎵᏍᏓᏴᎲᎦ",
+			"immediate_romanized": "hal2sda1yv2hv1ga",
+			"infinitive_syllabary": "ᎤᎵᏍᏓᏴᏗ",
+			"infinitive_romanized": "ul2sdayh1di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎵᏍᏕᎸᏙᏗ",
+			"singular_romanized": "al2sdehl23doh2di",
+			"singular_en": [ "aid", "assistance (financial)" ]
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎵᏍᏕᎵᎭ",
+			"third_present_romanized": "al1sde2l.i3ha",
+			"third_present_en": "he's helping",
+			"first_present_syllabary": "ᎦᎵᏍᏕᎵᎭ",
+			"first_present_romanized": "g.a2li1sde2l.i3ha",
+			"completive_past_syallabary": "ᎤᎵᏍᏕᎸᎲᎢ",
+			"completive_past_romanized": "ul1sde2lv2hv23'i",
+			"continuous_syllabary": "ᎠᎵᏍᏕᎵᏍᎪᎢ",
+			"continuous_romanized": "al1sde2li23sg.o3'i",
+			"immediate_syllabary": "ᎭᎵᏍᏕᎳ",
+			"immediate_romanized": "hal2sde23la",
+			"infinitive_syllabary": "ᎤᎵᏍᏕᎸᏗ",
+			"infinitive_romanized": "ul2sdehl2di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎵᏍᏚᎴᎠ",
+			"third_present_romanized": "al1sdu23l.e3'a",
+			"third_present_en": "he's taking off his cap",
+			"first_present_syllabary": "ᎦᎵᏍᏚᎴᎠ",
+			"first_present_romanized": "g.a2li1sdu23l.e3'a",
+			"completive_past_syallabary": "ᎤᎵᏍᏚᎴᏒᎢ",
+			"completive_past_romanized": "ul1sdu23le32sv23'i",
+			"continuous_syllabary": "ᎠᎵᏍᏚᎴᏍᎪᎢ",
+			"continuous_romanized": "al1sdu23le32sgo3'i",
+			"immediate_syllabary": "ᎭᎵᏍᏚᎳᎩ",
+			"immediate_romanized": "hal2sdu2l.a2gi",
+			"infinitive_syllabary": "ᎤᎵᏍᏚᎴᏍᏗ",
+			"infinitive_romanized": "ul2sdu23le32sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎵᏍᏚᎴᎭ",
+			"third_present_romanized": "al1sdu23le3ha",
+			"third_present_en": "he's washing his hair",
+			"first_present_syllabary": "ᎦᎵᏍᏚᎴᎭ",
+			"first_present_romanized": "g.a2li1sdu23le3ha",
+			"completive_past_syallabary": "ᎤᎵᏍᏚᎴᎲᎢ",
+			"completive_past_romanized": "ul1sdu23le3hv23'i",
+			"continuous_syllabary": "ᎠᎵᏍᏚᎴᏍᎪᎢ",
+			"continuous_romanized": "al1sdu23le3sgo3'i",
+			"immediate_syllabary": "ᎭᎵᏍᏚᎳ",
+			"immediate_romanized": "hal2sdu23la",
+			"infinitive_syllabary": "ᎤᎵᏍᏚᎵᏗ",
+			"infinitive_romanized": "ul2sduhl23di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎵᏍᏚᎵᎠ",
+			"third_present_romanized": "al1sdu23l.i3'a",
+			"third_present_en": "he's putting on a cap",
+			"first_present_syllabary": "ᎦᎵᏍᏚᎵᎠ",
+			"first_present_romanized": "g.a2li1sdu23l.i3'a",
+			"completive_past_syallabary": "ᎤᎵᏍᏚᎳᏅᎢ",
+			"completive_past_romanized": "ul1sdu23la32nv23'i",
+			"continuous_syllabary": "ᎠᎵᏍᏚᎵᏍᎪᎢ",
+			"continuous_romanized": "al1sdu23li32sgo3'i",
+			"immediate_syllabary": "ᎭᎵᏍᏚᎸᎦ",
+			"immediate_romanized": "hal2sdu2lv1ga",
+			"infinitive_syllabary": "ᎤᎵᏍᏚᎶᏗ",
+			"infinitive_romanized": "ul2sdu23lo32di"
+		}
+	]
+}

@@ -1,0 +1,102 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏰᎦ",
+			"third_present_romanized": "a1hye3ga",
+			"third_present_en": "he's taking it somewhere by hand",
+			"first_present_syllabary": "ᏥᏰᎦ",
+			"first_present_romanized": "ji1ye3ga",
+			"completive_past_syallabary": "ᎤᏴᏒᎢ",
+			"completive_past_romanized": "u1hyv3sv23'i",
+			"continuous_syllabary": "ᎠᏰᎪᎢ",
+			"continuous_romanized": "a1hye3go3'i",
+			"immediate_syllabary": "ᎯᏳᎦ",
+			"immediate_romanized": "h.i2hyu1ga",
+			"infinitive_syllabary": "ᎤᏴᏍᏗ",
+			"infinitive_romanized": "u2hyv1sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏰᎭ",
+			"third_present_romanized": "a1hy.e2ha",
+			"third_present_en": "he's holding it in his hand",
+			"first_present_syllabary": "ᏥᏰᎭ",
+			"first_present_romanized": "ji1y.e2ha",
+			"completive_past_syallabary": "ᎠᏰᎲᎢ",
+			"completive_past_romanized": "a1hye2hv23'i",
+			"continuous_syllabary": "ᎠᏰᎰᎢ",
+			"continuous_romanized": "a1hye2ho3'i"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏰᎦᏢᏍᎦ",
+			"third_present_romanized": "a1hyeh2g.a2hl.v3sga",
+			"third_present_en": "he's quilting it",
+			"first_present_syllabary": "ᏥᏰᎦᏢᏍᎦ",
+			"first_present_romanized": "ji1yeh2g.a2hl.v3sga",
+			"completive_past_syallabary": "ᎤᏰᎦᏝᏅᎢ",
+			"completive_past_romanized": "u1hyeh2g.a2hl.a3nv3'i",
+			"continuous_syllabary": "ᎠᏰᎦᏢᏍᎪᎢ",
+			"continuous_romanized": "a1hyeh2g.a2hl.v3sg.o3'i",
+			"immediate_syllabary": "ᎯᏰᎦᏢᎦ",
+			"immediate_romanized": "h.i2hyeh2g.a2hlv1ga",
+			"infinitive_syllabary": "ᎤᏰᎦᏟᏗ",
+			"infinitive_romanized": "u2hyeh2gahl2di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏰᏠᎭ",
+			"third_present_romanized": "a1hye23hl.o3ha",
+			"third_present_en": [ "he's making an incision", "he's operating on him" ],
+			"first_present_syllabary": "ᏥᏰᏠᎭ",
+			"first_present_romanized": "ji1ye23hl.o3ha",
+			"completive_past_syallabary": "ᎤᏰᏝᎸᎢ",
+			"completive_past_romanized": "u1hye23hl.a3lv23'i",
+			"continuous_syllabary": "ᎠᏰᏠᎰᎢ",
+			"continuous_romanized": "a1hye23hl.o3ho3'i",
+			"immediate_syllabary": [ "ᎯᏰᎳᎦ", "ᎯᏰᎳᎦ" ],
+			"immediate_romanized": [ "hi1ye2l.a2ga", "h.i2hye2l.a2ga" ],
+			"infinitive_syllabary": "ᎤᏰᎵᏍᏗ",
+			"infinitive_romanized": "u2hyel23sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏰᎵᎠ",
+			"third_present_romanized": "a1hye2li3'a",
+			"third_present_en": [ "he's imitating him", "he's mocking him" ],
+			"first_present_syllabary": "ᏥᏰᎵᎠ",
+			"first_present_romanized": "ji1ye2li3'a",
+			"completive_past_syallabary": "ᎤᏰᎵᏒᎢ",
+			"completive_past_romanized": "u1hye2li3sv23'i",
+			"continuous_syllabary": "ᎠᏰᎵᏍᎪᎢ",
+			"continuous_romanized": "a1hye2li3sgo3'i",
+			"immediate_syllabary": "ᎯᏰᎳ",
+			"immediate_romanized": "hi1ye23la",
+			"infinitive_syllabary": "ᎤᏰᎵᏍᏗ",
+			"infinitive_romanized": "u2hye2li1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": [ "ᎠᏰᎵᏍᏗ", "ᎭᏰᎵᏍᏗ" ],
+			"singular_romanized": [ ".a2hyel2sdi", "h.a2yel2sdi" ],
+			"singular_en": "knife"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏲᎭ",
+			"third_present_romanized": "a1hy.o3ha",
+			"third_present_en": "he's looking for him",
+			"first_present_syllabary": "ᏥᏲᎭ",
+			"first_present_romanized": "ji1y.o3ha",
+			"completive_past_syallabary": "ᎤᏯᎸᎢ",
+			"completive_past_romanized": "u1hy.a2lv23'i",
+			"continuous_syllabary": "ᎠᏲᎰᎢ",
+			"continuous_romanized": "a1hy.o3'i",
+			"immediate_syllabary": "ᎯᏲᎦ",
+			"immediate_romanized": "hiyh1ga",
+			"infinitive_syllabary": "ᎤᏯᏍᏗ",
+			"infinitive_romanized": "uy2sdi"
+		}
+	]
+}

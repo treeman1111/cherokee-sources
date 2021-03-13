@@ -1,0 +1,114 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎩᏟᏲᎦ",
+			"third_present_romanized": "a1gi2hli23yo32ga",
+			"third_present_en": [ "he's in agony", "he's in pain" ],
+			"first_present_syllabary": "ᏥᎩᎵᏲᎦ",
+			"first_present_romanized": "j.i2gi1li23yo32ga",
+			"completive_past_syallabary": "ᎤᎩᏟᏲᏨᎢ",
+			"completive_past_romanized": "u1gi2hli23yo32jv23'i",
+			"continuous_syllabary": "ᎠᎩᏟᏲᎪᎢ",
+			"continuous_romanized": "a1gi2hli23yo32go3'i",
+			"immediate_syllabary": "ᎯᎩᏟᏲᎩ",
+			"immediate_romanized": "h.i2gi2hli2yo1gi",
+			"infinitive_syllabary": "ᎤᎩᏟᏲᏍᏗ",
+			"infinitive_romanized": "u2gi2hli23yo3sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎩᎾ",
+			"singular_romanized": ".a2gi4na",
+			"singular_en": "young animal (not born in litter or hatched)",
+			"plural_syllabary": "ᎠᏂᎩᎾ",
+			"plural_romanized": ".a2ni2gi4na"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎩᏍᏗ",
+			"singular_romanized": ".a3gi1sdi",
+			"singular_en": "something to eat (single solid)"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎩᏍᏙᎠ",
+			"third_present_romanized": "a1gi32sd.o2'a",
+			"third_present_en": "he's chewing it",
+			"first_present_syllabary": "ᏥᎩᏍᏙᎠ",
+			"first_present_romanized": "j.i2gi32sd.o2'a",
+			"completive_past_syallabary": "ᎤᎩᏍᏙᎥᎢ",
+			"completive_past_romanized": "u1gi32sd.o2'v23'i",
+			"continuous_syllabary": "ᎠᎩᏍᏙᏍᎪᎢ",
+			"continuous_romanized": "a1gi32sdo1sgo3'i",
+			"immediate_syllabary": "ᎯᎩᏍᏙᏣ",
+			"immediate_romanized": "h.i2gi1sdo23ja",
+			"infinitive_syllabary": "ᎤᎩᏍᏙᏍᏗ",
+			"infinitive_romanized": "u2gi1sdo1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎩᏏ",
+			"singular_romanized": ".a2gi23si",
+			"singular_en": "female animal",
+			"plural_syllabary": "ᎠᏂᎩᏏ",
+			"plural_romanized": ".a2ni2gi23si"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎪᎲᏍᏗᎭ",
+			"third_present_romanized": "a1g.o3h.v2sd.i3ha",
+			"third_present_en": [ "he's burning him", "he's burning it" ],
+			"first_present_syllabary": [ "ᏥᏯᎪᎲᏍᏗᎭ", "ᎦᎪᎲᏍᏗᎭ" ],
+			"first_present_romanized": [ "ji2y.a3g.o2h.v2sd.i3ha", "g.a3g.o2h.v2sd.i3ha" ],
+			"completive_past_syallabary": "ᎤᎪᎲᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1g.o3h.v2st.a3nv3'i",
+			"continuous_syllabary": "ᎠᎪᎲᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "a1g.o3h.v2sdi23sg.o3'i",
+			"immediate_syllabary": [ "ᎯᏯᎪᎲᏍᏓ", "ᎭᎪᎲᏍᏓ" ],
+			"immediate_romanized": [ "hi2y.a2g.o2h.v2sda", "h.a2g.o2h.v2sda" ],
+			"infinitive_syllabary": "ᎤᎪᎲᏍᏙᏗ",
+			"infinitive_romanized": "u2g.o2h.v3sdoh2di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎪᎲᏍᎦ",
+			"third_present_romanized": "a1g.o3h.v2sga",
+			"third_present_en": [ "he's burning", "it's burning" ],
+			"first_present_syllabary": "ᎦᎪᎲᏍᎦ",
+			"first_present_romanized": "g.a3g.o2h.v3sga",
+			"completive_past_syallabary": "ᎤᎪᏅᎢ",
+			"completive_past_romanized": "u1g.o3hnv23'i",
+			"continuous_syllabary": "ᎠᎪᎲᏍᎪᎢ",
+			"continuous_romanized": "a1g.o3h.v2sgo3'i",
+			"immediate_syllabary": "ᎭᎪᎿ",
+			"immediate_romanized": "h.a2g.o2hna",
+			"infinitive_syllabary": "ᎤᎪᎲᏍᏗ",
+			"infinitive_romanized": "u2g.o3h.v3sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎪᎳ",
+			"singular_romanized": ".a2go2la",
+			"singular_en": "perch (fish)",
+			"plural_syllabary": "ᎠᏂᎪᎳ",
+			"plural_romanized": ".a2ni2go2la"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎪᎵᏰᎠ",
+			"third_present_romanized": "a1go2li23y.e3'a",
+			"third_present_en": [ "he's reading", "he's examining him / it" ],
+			"first_present_syllabary": [ "ᏥᎪᎵᏰᎠ", "ᏥᎪᎵᏰᎠ" ],
+			"first_present_romanized": [ "ji2go2li23y.e3'a", "j.i2go2li23y.e3'a" ],
+			"completive_past_syallabary": "ᎤᎪᎵᏰᎥᎢ",
+			"completive_past_romanized": "u1go2li23y.e3'v23'i",
+			"continuous_syllabary": "ᎠᎪᎵᏰᏍᎪᎢ",
+			"continuous_romanized": "a1go2li23ye32sgo3'i",
+			"immediate_syllabary": [ "ᎯᎪᎵᏯ", "ᎯᎪᎵᏯ" ],
+			"immediate_romanized": [ "hi2go2li23ya", "h.i2go2li23ya" ],
+			"infinitive_syllabary": "ᎤᎪᎵᏰᏗ",
+			"infinitive_romanized": "u2go2li23ye32di"
+		}
+	]
+}

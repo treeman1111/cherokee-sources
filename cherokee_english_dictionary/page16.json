@@ -1,0 +1,96 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "adj",
+			"singular_syllabary": "ᎠᎦᏑᏰᏓ",
+			"singular_romanized": ".a2ga1su2ye4da",
+			"singular_en": "a person who has been chosen",
+			"plural_syllabary": "ᎨᎦᏑᏰᏓ",
+			"plural_romanized": "ge2ga1su2ye4da"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎦᏯᎷᏗ",
+			"singular_romanized": ".a2ga2y.a2lu3di",
+			"singular_en": "seine",
+			"plural_syllabary": "ᏗᎦᏯᎷᏗ",
+			"plural_romanized": "di2ga2y.a2lu3di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎦᏴᎵ",
+			"singular_romanized": ".a2g.a2yv4li",
+			"singular_en": "old (animate)",
+			"plural_syllabary": "ᎠᏂᎦᏴᎵ",
+			"plural_romanized": ".a2ni2g.a2yv4li"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎦᏴᎵᎨᎢ",
+			"singular_romanized": ".a2g.a2yv23l.i3ge4'i",
+			"singular_en": "old woman",
+			"plural_syllabary": "ᎠᏂᎦᏴᎵᎨᎢ",
+			"plural_romanized": ".a2ni2g.a2yv23l.i3ge4'i"
+		},
+		{
+			"type": "adv",
+			"syllabary": "ᎠᎨ",
+			"romanized": "a3ge4",
+			"en": "over there"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎨᏯ",
+			"singular_romanized": ".a2ge23hya",
+			"singular_en": "woman",
+			"plural_syllabary": "ᎠᏂᎨᏯ",
+			"plural_romanized": ".a2ni2ge23hya"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎨᏳᏣ",
+			"singular_romanized": ".a2ge2hyu4ja",
+			"singular_en": "girl",
+			"plural_syllabary": "ᎠᏂᎨᏳᏣ",
+			"plural_romanized": ".a2ni2ge2hyu4ja"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎩᎠ",
+			"third_present_romanized": "a1g.i3'a",
+			"third_present_en": "he's eating it (a single, solid food)",
+			"first_present_syllabary": "ᏥᎩᎠ",
+			"first_present_romanized": "j.i2g.i3'a",
+			"completive_past_syallabary": "ᎤᎬᎢ",
+			"completive_past_romanized": "u1gv23'i",
+			"continuous_syllabary": "ᎠᎩᏍᎪᎢ",
+			"continuous_romanized": "a1gi32sgo3'i",
+			"immediate_syllabary": "ᎯᎦ",
+			"immediate_romanized": "h.i2ga",
+			"infinitive_syllabary": "ᎤᎩᏍᏗ",
+			"infinitive_romanized": "u2gi1sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎩᎠ",
+			"third_present_romanized": "a1gi3'a",
+			"third_present_en": [ "he's picking it up", "he's getting it" ],
+			"first_present_syllabary": "ᏥᎩᎠ",
+			"first_present_romanized": "j.i2gi3'a",
+			"completive_past_syallabary": "ᎤᎩᏒᎢ",
+			"completive_past_romanized": "u1gi3sv23'i",
+			"continuous_syllabary": "ᎠᎩᏍᎪᎢ",
+			"continuous_romanized": "a1gi3sgo3'i",
+			"immediate_syllabary": "ᎯᎩ",
+			"immediate_romanized": "h.i2gi",
+			"infinitive_syllabary": "ᎤᎩᏍᏗ",
+			"infinitive_romanized": "u2gi1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎩᏟᏱ",
+			"singular_romanized": ".a2gi2hli4yi",
+			"singular_en": [ "agony", "pain" ]
+		}
+	]
+}

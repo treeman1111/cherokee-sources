@@ -1,0 +1,102 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏍᏓᎦᏴᎯᎭ",
+			"third_present_romanized": "a1sd.a2g.a2yv2h.i3ha",
+			"third_present_en": "it's becoming crisp",
+			"completive_past_syallabary": "ᎤᏍᏓᎦᏴᏢᎢ",
+			"completive_past_romanized": "u1sd.a2g.a2yv2hlv23'i",
+			"continuous_syllabary": "ᎠᏍᏓᎦᏴᎯᎰᎢ",
+			"continuous_romanized": "a1sd.a2g.a2yv2h.i2ho3'i"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏍᏓᏅᏅᎢ",
+			"singular_romanized": "a1sd.a2nv2hnv4'i",
+			"singular_en": "line",
+			"plural_syllabary": "ᏓᏍᏓᏅᏅᎢ",
+			"plural_romanized": "da1sd.a2nv2hnv4'i"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᏓᏅᏅᏍᎦ",
+			"third_present_romanized": "a1sd.a2nv2hn.v3sga",
+			"third_present_en": "he's drawing a line",
+			"first_present_syllabary": "ᏥᏍᏓᏅᏅᏍᎦ",
+			"first_present_romanized": "ji1sd.a2nv2hn.v3sga",
+			"completive_past_syallabary": "ᎤᏍᏓᏅᎾᏅᎢ",
+			"completive_past_romanized": "u1sd.a2nv2hn.a3nv3'i",
+			"continuous_syllabary": "ᎠᏍᏓᏅᏅᏍᎪᎢ",
+			"continuous_romanized": "a1sd.a2nv2hn.v3sg.o3'i",
+			"immediate_syllabary": "ᎯᏍᏓᏅᏅᎦ",
+			"immediate_romanized": "h.i2sd.a2nv2hn1ga",
+			"infinitive_syllabary": "ᎤᏍᏓᏅᏅᏗ",
+			"infinitive_romanized": "u2sd.a2nvnh2di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᏓᏩᏕᎦ",
+			"third_present_romanized": "a1sda32w.a2de3ga",
+			"third_present_en": "he's following him / it",
+			"first_present_syllabary": "ᏥᏍᏓᏩᏕᎦ",
+			"first_present_romanized": "ji1sda32w.a2de3ga",
+			"completive_past_syallabary": "ᎤᏍᏓᏩᏛᏒᎢ",
+			"completive_past_romanized": "u1sda32w.a2dv3sv23'i",
+			"continuous_syllabary": "ᎠᏍᏓᏩᏕᎪᎢ",
+			"continuous_romanized": "a1sda32w.a2de3go3'i",
+			"immediate_syllabary": [ "ᎯᏍᏓᏩᏚᎦ", "ᎯᏍᏓᏩᏚᎦ" ],
+			"immediate_romanized": [ "hi1sda1w.a2du1ga", "h.i2sda1w.a2du1ga" ],
+			"infinitive_syllabary": "ᎤᏍᏓᏩᏛᏍᏗ",
+			"infinitive_romanized": "u2sda1w.a2dv1sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᏕᎵᎭ",
+			"third_present_romanized": "a1sde2l.i3ha",
+			"third_present_en": "he's helping him",
+			"first_present_syllabary": "ᏥᏍᏕᎵᎭ",
+			"first_present_romanized": "ji1sde2l.i3ha",
+			"completive_past_syallabary": "ᎤᏍᏕᎸᎲᎢ",
+			"completive_past_romanized": "u1sde2lv2hv23'i",
+			"continuous_syllabary": "ᎠᏍᏕᎵᏍᎪᎢ",
+			"continuous_romanized": "a1sde2li23sg.o3'i",
+			"immediate_syllabary": "ᎯᏍᏕᎳ",
+			"immediate_romanized": "hi1sde23la",
+			"infinitive_syllabary": "ᎤᏍᏕᎸᏗ",
+			"infinitive_romanized": "u2sdehl2di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᏕᏲᎭ",
+			"third_present_romanized": "a1sde3y.o2ha",
+			"third_present_en": "he's braiding it",
+			"first_present_syllabary": "ᏥᏍᏕᏲᎭ",
+			"first_present_romanized": "ji1sde3y.o2ha",
+			"completive_past_syallabary": "ᎤᏍᏕᏲᎸᎢ",
+			"completive_past_romanized": "u1sde23yo32lv23'i",
+			"continuous_syllabary": "ᎠᏍᏕᏲᎰᎢ",
+			"continuous_romanized": "a1sde3y.o2ho3'i",
+			"immediate_syllabary": "ᎯᏍᏕᏯᎦ",
+			"immediate_romanized": "h.i2sde2y.a2ga",
+			"infinitive_syllabary": "ᎤᏍᏕᏲᏗ",
+			"infinitive_romanized": "u2sde23yo32di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᏗᎩᎠ",
+			"third_present_romanized": "a1sdi23g.i3'a",
+			"third_present_en": "he's eating a long object",
+			"first_present_syllabary": "ᏥᏍᏗᎩᎠ",
+			"first_present_romanized": "ji1sdi23g.i3'a",
+			"completive_past_syallabary": "ᎤᏍᏗᎬᎢ",
+			"completive_past_romanized": "u1sdi3gv23'i",
+			"continuous_syllabary": "ᎠᏍᏗᎩᏍᎪᎢ",
+			"continuous_romanized": "a1sdi23gi32sgo3'i",
+			"immediate_syllabary": "ᎯᏍᏗᎦ",
+			"immediate_romanized": "h.i2sdi23ga",
+			"infinitive_syllabary": "ᎤᏍᏗᎩᏍᏗ",
+			"infinitive_romanized": "u2sdi23gi32sdi"
+		}
+	]
+}

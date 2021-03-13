@@ -1,0 +1,96 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎹᏢᏙᏗ",
+			"singular_romanized": ".a2mahl3doh2di",
+			"singular_en": "waterbucket"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎹᏰᏟ",
+			"singular_romanized": ".a2m.a3ye3hli",
+			"singular_en": "United States"
+		},
+		{
+			"type": "adv",
+			"singular_syllabary": "ᎠᎹᏱ",
+			"singular_romanized": ".a2ma23yi",
+			"singular_en": [ "in water", "into water" ]
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎹᏳᏟᏗ",
+			"singular_romanized": ".a2ma2yuhl4di",
+			"singular_en": [ "shore", "bank" ]
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎺᏉᎢ",
+			"singular_romanized": ".a2me3gwo4'i",
+			"singular_en": "ocean"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎾᏓᎪᎾᏘᏗᏍᎬᎢ",
+			"singular_romanized": "a1n.a2da2go2n.a2tdi23sgv4'i",
+			"singular_en": "contest"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎾᏓᏟᏏᎭ",
+			"third_present_romanized": "a1n.a2da3hli2s.i3ha",
+			"third_present_en": "they are gathering",
+			"first_present_syllabary": "ᎣᏣᏓᏟᏏᎭ",
+			"first_present_romanized": "o1j.a2da3hli2s.i3ha",
+			"completive_past_syallabary": "ᎤᎾᏓᏟᏌᏅᎢ",
+			"completive_past_romanized": "u1n.a2da3hli2s.a2hnv23'i",
+			"continuous_syllabary": "ᎠᎾᏓᏟᏏᏍᎪᎢ",
+			"continuous_romanized": "a1n.a2da3hli2si23sg.o3'i",
+			"immediate_syllabary": "ᎢᏣᏓᏟᏌ",
+			"immediate_romanized": "i1j.a2da1hli23sa",
+			"infinitive_syllabary": "ᎤᎾᏓᏟᏐᏗ",
+			"infinitive_romanized": "u2n.a2da1hli23soh3di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎾᎦᎵᎭ",
+			"third_present_romanized": "a1na32g.a2l.i3ha",
+			"third_present_en": "it's lightening",
+			"completive_past_syallabary": "ᎤᎾᎦᎸᎲᎢ",
+			"completive_past_romanized": "u1na32g.a2lv2hv23'i",
+			"continuous_syllabary": "ᎠᎾᎦᎵᏍᎪᎢ",
+			"continuous_romanized": "a1na32g.a2li23sg.o3'i"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎾᎦᎵᏍᎩ",
+			"singular_romanized": ".a2na1g.a2li23sgi",
+			"singular_en": [ "lightening", "electricity", "battery" ],
+			"plural_syllabary": "ᏗᎾᎦᎵᏍᎩ",
+			"plural_romanized": "di2na1g.a2li23sgi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎾᏟᏅᏟ",
+			"singular_romanized": ".a2n.a2hl.i2nv4dli",
+			"singular_en": "brothers (more than two)"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎾᎵᎪᎲᏍᎦ",
+			"third_present_romanized": "a1n.a2li3go2h.v3sga",
+			"third_present_en": [ "they are getting together", "they are dating (when the dual form is used)" ],
+			"first_present_syllabary": "ᎣᏣᎵᎪᎲᏍᎦ",
+			"first_present_romanized": "o1j.a2li3go2h.v3sga",
+			"completive_past_syallabary": "ᎤᎾᏣᎵᎪᏅᎢ",
+			"completive_past_romanized": "u1n.a2li3go2hnv23'i",
+			"continuous_syllabary": "ᎠᎾᎵᎪᎲᏍᎪᎢ",
+			"continuous_romanized": "a1n.a2li3go2h.v2sgo3'i",
+			"immediate_syllabary": "ᎢᏣᎵᎪᎲᎦ",
+			"immediate_romanized": "i1j.a2li1go2hv1ga",
+			"infinitive_syllabary": "ᎤᎾᎵᎪᏗ",
+			"infinitive_romanized": "u2n.a2li1kdi"
+		}
+	]
+}

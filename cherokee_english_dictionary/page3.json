@@ -1,0 +1,98 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᏃᏰᎭ",
+			"third_present_romanized": "a1d.a2hno3y.e2ha",
+			"third_present_en": "he's fanning himself",
+			"first_present_syllabary": "ᎦᏓᏃᏰᎭ",
+			"first_present_romanized": "g.a2da1no3y.e2ha",
+			"completive_past_syallabary": "ᎤᏓᏃᏰᎲᎢ",
+			"completive_past_romanized": "u1d.a2hno3ye2hv23'i",
+			"continuous_syllabary": "ᎠᏓᏃᏰᏍᎪᎢ",
+			"continuous_romanized": "a1d.a2hno3ye2sgo3'i",
+			"immediate_syllabary": "ᎭᏓᏃᏴᎳ",
+			"immediate_romanized": "h.a2d.a2hno2yv23la",
+			"infinitive_syllabary": "ᎤᏓᏃᏴᏗ",
+			"infinitive_romanized": "u2d.a2hno2yeh3di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏃᏲ",
+			"singular_romanized": ".a2d.a2hno2yo",
+			"singular_en": "fan",
+			"plural_syllabary": "ᏗᏓᏃᏲ",
+			"plural_romanized": "di2d.a2hno2yo"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᏩᏛᎯᏙᎭ",
+			"third_present_romanized": "a1da2hwah2tv2hi23do32ha",
+			"third_present_en": "he's visiting",
+			"first_present_syllabary": "ᎦᏓᏩᏛᎯᏙᎭ",
+			"first_present_romanized": "g.a2da1wah2tv2hi23do32ha",
+			"completive_past_syallabary": "ᎤᏓᏩᏛᎯᏙᎸᎢ",
+			"completive_past_romanized": "u1da2hwah2tv2hi23do32lv23'i",
+			"continuous_syllabary": "ᎠᏓᏩᏛᎯᏙᎰᎢ",
+			"continuous_romanized": "a1da2hwah2tv2hi23do32ho3'i",
+			"immediate_syllabary": "ᎭᏓᏩᏛᎯᏓ",
+			"immediate_romanized": "h.a2da2hwah2tv2hi23da",
+			"infinitive_syllabary": "ᎤᏓᏩᏛᎯᏓᏍᏗ",
+			"infinitive_romanized": "u2da2hwah2tv2hi23da32sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᏯᏍᏗᎭ",
+			"third_present_romanized": "a1da2hya32sd.i2ha",
+			"third_present_en": "he's stretching",
+			"first_present_syllabary": "ᎦᏓᏯᏍᏗᎭ",
+			"first_present_romanized": "g.a2da1ya32sd.i2ha",
+			"completive_past_syallabary": "ᎤᏓᏯᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1da2hya32st.a2nv23'i",
+			"continuous_syllabary": "ᎠᏓᏯᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "a1da2hya32sdi2sgo3'i",
+			"immediate_syllabary": "ᎭᏓᏯᏍᏓ",
+			"immediate_romanized": "h.a2da2hya1sda",
+			"infinitive_syllabary": "ᎤᏓᏯᏍᏙᏗ",
+			"infinitive_romanized": "u2da2hya1sdoh3di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏰᏍᎩ",
+			"singular_romanized": ".a2da2hye4sgi",
+			"singular_en": "cancer"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏓᏱᎭ",
+			"third_present_romanized": "a1d.a2hy.i3ha",
+			"third_present_en": [ "he's denying him", "he's denying it" ],
+			"first_present_syllabary": [ "ᏥᏯᏓᏱᎭ", "ᎦᏓᏱᎭ" ],
+			"first_present_romanized": [ "ji2y.a2d.a'2y.i3ha", "g.a2d.a'2y.i3ha" ],
+			"completive_past_syallabary": "ᎤᏓᏱᎸᎢ",
+			"completive_past_romanized": "u1d.a2hy.i2lv23'i",
+			"continuous_syllabary": "ᎠᏓᏱᎰᎢ",
+			"continuous_romanized": "a1d.a2hy.i2ho3'i",
+			"immediate_syllabary": [ "ᎯᏯᏓᏱᎦ", "ᎭᏓᏱᎦ" ],
+			"immediate_romanized": [ "hi2y.a2d.a2yi1ga", "h.a2dayh2ga" ],
+			"infinitive_syllabary": "ᎤᏓᏱᏍᏗ",
+			"infinitive_romanized": "u2dayh2sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᏲᏁᎭ",
+			"third_present_romanized": "a1da2hyo3n.e2ha",
+			"third_present_en": "he's committing adultery",
+			"first_present_syllabary": "ᎦᏓᏲᏁᎭ",
+			"first_present_romanized": "g.a2da1yo3n.e2ha",
+			"completive_past_syallabary": "ᎤᏓᏲᏁᎸᎢ",
+			"completive_past_romanized": "u1da2hyo3ne2lv23'i",
+			"continuous_syllabary": "ᎠᏓᏲᏁᎰᎢ",
+			"continuous_romanized": "a1da2hyo3n.e2ho3'i",
+			"immediate_syllabary": "ᎭᏓᏲᏅᎳ",
+			"immediate_romanized": "h.a2da2hyo2nv23la",
+			"infinitive_syllabary": "ᎤᏓᏲᏁᏗ",
+			"infinitive_romanized": "u2da2hyo2neh3di"
+		}
+	]
+}

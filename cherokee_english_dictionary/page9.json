@@ -1,0 +1,100 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏕᎲᏍᎦ",
+			"third_present_romanized": "a1de2h.v3sga",
+			"third_present_en": "he's being born",
+			"first_present_syllabary": "ᎦᏕᎥᏍᎦ",
+			"first_present_romanized": "g.a2d.e2'.v3sga",
+			"completive_past_syallabary": "ᎤᏕᏅᎢ",
+			"completive_past_romanized": "u1de2hnv23'i",
+			"continuous_syllabary": "ᎠᏕᎲᏍᎪᎢ",
+			"continuous_romanized": "a1de2h.v2sgo3'i",
+			"immediate_syllabary": "ᎭᏕᎲᎦ",
+			"immediate_romanized": "ha2de2hv1ga",
+			"infinitive_syllabary": "ᎤᏕᏗ",
+			"infinitive_romanized": "u2deh2di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏕᎳ",
+			"singular_romanized": ".a2de23la",
+			"singular_en": "money"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": [ "ᎠᏕᎳᏗᏗᎢ", "ᎠᏕᎳᏧᏂᏗᎢ" ],
+			"singular_romanized": [ ".a2del23diyh2di4'i", ".a2del23ju2niyh2di4'i" ],
+			"singular_en": "bank"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏕᎳᏧᏢᎢ",
+			"singular_romanized": ".a2del23ju23hlv4'i",
+			"singular_en": "California"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏕᎶᎰᏍᎦ",
+			"third_present_romanized": "a1de2l.o2ho2sga",
+			"third_present_en": "he's finding it out",
+			"first_present_syllabary": "ᎦᏕᎶᎣᏍᎦ",
+			"first_present_romanized": "g.a2de2l.o2'o2sga",
+			"completive_past_syallabary": "ᎤᏕᎶᎰᏒᎢ",
+			"completive_past_romanized": "u1de2l.o2ho2sv23'i",
+			"continuous_syllabary": "ᎠᏕᎶᎰᏍᎪᎢ",
+			"continuous_romanized": "a1de2l.o2ho2sgo3'i",
+			"immediate_syllabary": "ᎭᏕᎶᎰᎯ",
+			"immediate_romanized": "h.a2de2l.o2ho23'i",
+			"infinitive_syllabary": "ᎤᏕᎶᎰᎯᏍᏗ",
+			"infinitive_romanized": "u2de2l.o2ho2h.i3sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏕᎸᎢ",
+			"singular_romanized": ".a3de2lv4'i",
+			"singular_en": "dollars"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏕᏛᏍᎦ",
+			"third_present_romanized": "a1de2t.v3sga",
+			"third_present_en": "he's diving",
+			"first_present_syllabary": "ᎦᏕᏛᏍᎦ",
+			"first_present_romanized": "g.a2de1d.v3sga",
+			"completive_past_syallabary": "ᎤᏕᏘᏅᎢ",
+			"completive_past_romanized": "u1de2t.i3nv3'i",
+			"continuous_syllabary": "ᎠᏕᏛᏍᎪᎢ",
+			"continuous_romanized": "a1de2t.v3sg.o3'i",
+			"immediate_syllabary": "ᎭᏕᏛᎦ",
+			"immediate_romanized": "h.a2de2tv1ga",
+			"infinitive_syllabary": "ᎤᏕᏘᏗ",
+			"infinitive_romanized": "u2de2tdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏕᏲᎭ",
+			"third_present_romanized": "a1de3y.o2ha",
+			"third_present_en": [ "he's going around a curve", "he's turning off the road", "he's circling it" ],
+			"first_present_syllabary": "ᎦᏕᏲᎭ",
+			"first_present_romanized": "ga2de3y.o2ha",
+			"completive_past_syallabary": "ᎤᏕᏲᎸᎢ",
+			"completive_past_romanized": "u1de23yo32lv23'i",
+			"continuous_syllabary": "ᎠᏕᏲᎰᎢ",
+			"continuous_romanized": "a1de3y.o2ho3'i",
+			"immediate_syllabary": "ᎭᏕᏯᎦ",
+			"immediate_romanized": "ha2de2y.a2ga",
+			"infinitive_syllabary": "ᎤᏕᏯᏍᏗ",
+			"infinitive_romanized": "u2dey23sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏕᏲᎲᎢ",
+			"singular_romanized": "a1de3y.o2hv4'i",
+			"singular_en": "curve",
+			"plural_syllabary": "ᏓᏕᏲᎲᎢ",
+			"plural_romanized": "da1de3y.o2hv4'i"
+		}
+	]
+}

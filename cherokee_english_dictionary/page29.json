@@ -1,0 +1,92 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏳᎢᏁᎦ",
+			"third_present_romanized": "a1hy.u3'i2ne3ga",
+			"third_present_en": "he's swimming (propelling himself through water)",
+			"first_present_syllabary": "ᎦᏳᎢᏁᎦ",
+			"first_present_romanized": "ga1y.u3'i2ne3ga",
+			"completive_past_syallabary": "ᎤᏳᎢᏅᏒᎢ",
+			"completive_past_romanized": "u1hy.u3'i2nv3sv23'i",
+			"continuous_syllabary": "ᎠᏳᎢᏁᎪᎢ",
+			"continuous_romanized": "a1hy.u3'i2ne3go3'i",
+			"immediate_syllabary": "ᎭᏳᎢᏄᎦ",
+			"immediate_romanized": "ha2hy.u2'i2nu1ga",
+			"infinitive_syllabary": "ᎤᏳᎢᏅᏍᏗ",
+			"infinitive_romanized": "u2hy.u2'i23nv32sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏴᏓᏆᎶᎠ",
+			"third_present_romanized": "a1hyv2d.a2gw.a2l.o3'a",
+			"third_present_en": "it's thundering",
+			"completive_past_syallabary": "ᎤᏴᏓᏆᎶᎥᎢ",
+			"completive_past_romanized": "u1hyv2d.a2gw.a2l.o3'v23'i",
+			"continuous_syllabary": "ᎠᏴᏓᏆᎶᏍᎪᎢ",
+			"continuous_romanized": "a1hyv2d.a2gw.a3lo32sgo3'i",
+			"infinitive_syllabary": "ᎤᏴᏓᏆᎶᏍᏗ",
+			"infinitive_romanized": "u2hyv2d.a2gw.a2lo1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏴᏓᏆᎶᏍᎩ",
+			"singular_romanized": ".a2hyv2d.a2gw.a2lo1sgi",
+			"singular_en": "thunder"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏴᏜᏗᏍᏗᏍᎩ",
+			"singular_romanized": ".a2hyv2dl.a2di1sdi4sgi",
+			"singular_en": [ "refrigerator", "air conditioner" ],
+			"plural_syllabary": "ᏗᏴᏜᏗᏍᏗᏍᎩ",
+			"plural_romanized": "di2hyv2dl.a2di1sdi4sgi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏴᏠ",
+			"singular_romanized": ".a2hyvh2dlo",
+			"singular_en": "ladder",
+			"plural_syllabary": "ᏗᏴᏠ",
+			"plural_romanized": "di2hyvh2dlo"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏴᏈᏛᏍᎦ",
+			"third_present_romanized": "a1hyvh2gw.i3dv32sga",
+			"third_present_en": [ "he's bending it", "he's hemming it" ],
+			"first_present_syllabary": "ᏥᏴᏈᏛᏍᎦ",
+			"first_present_romanized": "ji1yvh2gw.i3dv32sga",
+			"completive_past_syallabary": "ᎤᏴᏈᏛᏅᎢ",
+			"completive_past_romanized": "u1hyvh2gw.i3dv32nv23'i",
+			"continuous_syllabary": "ᎠᏴᏈᏛᏍᎪᎢ",
+			"continuous_romanized": "a1hyvh2gw.i3d.v32sgo3'i",
+			"immediate_syllabary": "ᎯᏴᏈᏛᎥᎦ",
+			"immediate_romanized": "h.i2hyvh2gw.i2d.v2'v1ga",
+			"infinitive_syllabary": "ᎤᏴᏈᏛᏗ",
+			"infinitive_romanized": "u2hyvh2gw.i2dv1di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏴᏤᏂ",
+			"singular_romanized": ".a2hyvh2je4ni",
+			"singular_en": [ "his neck", "his throat" ]
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏴᏖᎠ",
+			"third_present_romanized": "a1hyvh2te3'a",
+			"third_present_en": "he's kicking him / it",
+			"first_present_syllabary": [ "ᏥᏯᏴᏖᎠ", "ᎦᏴᏖᎠ" ],
+			"first_present_romanized": [ "ji2ya1yvh2te3'a", "ga1yvh2te3'a" ],
+			"completive_past_syallabary": "ᎤᏴᏖᏒᎢ",
+			"completive_past_romanized": "u1hyvh2te3sv23'i",
+			"continuous_syllabary": "ᎠᏴᏖᏍᎪᎢ",
+			"continuous_romanized": "a1hyvh2te3sgo3'i",
+			"immediate_syllabary": [ "ᎯᏯᏴᏔᎩ", "ᎭᏴᏔᎩ" ],
+			"immediate_romanized": [ "hi2yayh1t.a2gi", "ha2hych2t.a2gi" ],
+			"infinitive_syllabary": "ᎤᏴᏖᏍᏗ",
+			"infinitive_romanized": "u2hyvh2te1sdi"
+		}
+	]
+}

@@ -1,0 +1,108 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎴᏂᎭ",
+			"third_present_romanized": "a1le2n.i3ha",
+			"third_present_en": "he's starting / beginning",
+			"first_present_syllabary": "ᎦᎴᏂᎠ",
+			"first_present_romanized": "g.a2le2ni3'a",
+			"completive_past_syallabary": "ᎤᎴᏅᎲᎢ",
+			"completive_past_romanized": "u1le2nv2hv23'i",
+			"continuous_syllabary": "ᎠᎴᏂᏍᎪᎢ",
+			"continuous_romanized": "a1le2ni23sg.o3'i",
+			"immediate_syllabary": "ᎭᎴᎾ",
+			"immediate_romanized": "h.a2le23na",
+			"infinitive_syllabary": "ᎤᎴᏅᏗ",
+			"infinitive_romanized": "u2lenh2di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎵ",
+			"singular_romanized": "a2li",
+			"singular_en": "sweat"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎵᏟᎭ",
+			"third_present_romanized": "a1l.i2dl.i3ha",
+			"third_present_en": "it's boiling",
+			"completive_past_syallabary": "ᎤᎵᏢᎲᎢ",
+			"completive_past_romanized": "u1l.i2dlv2hv23'i",
+			"continuous_syllabary": "ᎠᎵᏟᏍᎪᎢ",
+			"continuous_romanized": "a1l.i2dli23sg.o3'i",
+			"infinitive_syllabary": "ᎤᎵᏟᏗ",
+			"infinitive_romanized": "u2lihl2di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎵᎬᏓᏃᏍᏙᏗ",
+			"singular_romanized": ".a2l.i2gv2d.a2no23sdoh2di",
+			"singular_en": "headband",
+			"plural_syllabary": "ᏗᎵᎬᏓᏃᏍᏙᏗ",
+			"plural_romanized": "di2l.i2gv2d.a2no23sdoh2di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎵᎬᏚᎶ",
+			"singular_romanized": ".a2l.i2gv2du2lo",
+			"singular_en": "mask",
+			"plural_syllabary": "ᏗᎵᎬᏚᎶ",
+			"plural_romanized": "di2l.i2gv2du2lo"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎵᎮᎵᏤᎭ",
+			"third_present_romanized": "a1li2he23li32ch.e2ha",
+			"third_present_en": "he's thanking him",
+			"first_present_syllabary": "ᏥᏯᎵᎡᎵᏤᎭ",
+			"first_present_romanized": "ji2y.a2l.i2'e23li32ch.e2ha",
+			"completive_past_syallabary": "ᎤᎵᎮᎵᏤᎸᎢ",
+			"completive_past_romanized": "u1li2he23li32che2lv23'i",
+			"continuous_syllabary": "ᎠᎵᎮᎵᏤᎰᎢ",
+			"continuous_romanized": "a1li2he23li32che2ho3'i",
+			"immediate_syllabary": "ᎯᏯᎵᎡᎵᏥᏏ",
+			"immediate_romanized": "hi2y.a2l.i2'e2li1ch.i2si",
+			"infinitive_syllabary": "ᎤᎵᎮᎵᏤᏗ",
+			"infinitive_romanized": "u2li2he23li32cheh2di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎵᎮᎵᎦ",
+			"third_present_romanized": "a1li2he23li32ga",
+			"third_present_en": "he's happy / thankful",
+			"first_present_syllabary": "ᎦᎵᎡᎵᎦ",
+			"first_present_romanized": "g.a2l.i2'e23li32ga",
+			"completive_past_syallabary": "ᎤᎵᎮᎵᏨᎢ",
+			"completive_past_romanized": "u1li2he23li32jv23'i",
+			"continuous_syllabary": "ᎠᎵᎮᎵᎪᎢ",
+			"continuous_romanized": "a1li2he23li32go3'i",
+			"immediate_syllabary": "ᎭᎵᎮᎵᎩ",
+			"immediate_romanized": "h.a2li2he2li1gi",
+			"infinitive_syllabary": "ᎤᎵᎮᎵᏍᏗ",
+			"infinitive_romanized": "u2li2he2l.i3sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎵᎢ",
+			"singular_romanized": "a2l.i2'i",
+			"singular_en": "friendship"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎵᎢᏗᎠ",
+			"third_present_romanized": "a1l.i3'i2d.i3'a",
+			"third_present_en": "he's exchanging / trading it",
+			"first_present_syllabary": "ᎦᎵᎢᏗᎠ",
+			"first_present_romanized": "ga2l.i3'i2d.i3'a",
+			"completive_past_syallabary": "ᎤᎵᎢᏛᎢ",
+			"completive_past_romanized": "u1l.i3'i2dv23'i",
+			"continuous_syllabary": "ᎠᎵᎢᏗᏍᎪᎢ",
+			"continuous_romanized": "a1l.i3'i2di32sgo3'i",
+			"immediate_syllabary": "ᎭᎵᎢᏓ",
+			"immediate_romanized": "ha2l.i2'i23da",
+			"infinitive_syllabary": "ᎤᎵᎢᏗᏍᏗ",
+			"infinitive_romanized": "u2l.i2'i23di32sdi"
+		}
+	]
+}

@@ -1,0 +1,114 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎦᏙᏗ",
+			"singular_romanized": ".a3ktoh2di",
+			"singular_en": "telescope",
+			"plural_syllabary": "ᏗᎦᏙᏗ",
+			"plural_romanized": "di23ktoh2di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎦᏙᎲᏍᎦ",
+			"third_present_romanized": "a1kto32h.v2sga",
+			"third_present_en": "he's becoming wise",
+			"first_present_syllabary": "ᏥᎦᏙᎲᏍᎦ",
+			"first_present_romanized": "j.i2ga1to32h.v2sga",
+			"completive_past_syallabary": "ᎤᎦᏙᎲᏒᎢ",
+			"completive_past_romanized": "u1kto32h.v2sv23'i",
+			"continuous_syllabary": "ᎠᎦᏙᎲᏍᎪᎢ",
+			"continuous_romanized": "a1kto32h.v2sgo3'i",
+			"immediate_syllabary": "ᎯᎦᏙᎥᎯ",
+			"immediate_romanized": "h.i2kt.o2'.v2hi",
+			"infinitive_syllabary": "ᎤᎦᏙᎥᎯᏍᏗ",
+			"infinitive_romanized": "u2kt.o2'.v3h.i3sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎦᏙᎵ",
+			"singular_romanized": ".a2kto4li",
+			"singular_en": "his eye",
+			"plural_syllabary": "ᏗᎦᏙᎵ",
+			"plural_romanized": "di2kto4li"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎦᏙᏍᏗ",
+			"third_present_romanized": "a1kto23sdi",
+			"third_present_en": "he's looking at him / it",
+			"first_present_syllabary": [ "ᏥᏯᎦᏙᏍᏗ", "ᎦᎦᏙᏍᏗ" ],
+			"first_present_romanized": [ "ji2y.a2ga1to23sdi", "g.a2ga1to23sdi" ],
+			"completive_past_syallabary": "ᎤᎦᏙᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1kto23st.a3nv23'i",
+			"continuous_syllabary": "ᎠᎦᏙᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "a1kto23sdi3sgo3'i",
+			"immediate_syllabary": [ "ᎯᏯᎦᏙᏍᏓ", "ᎭᎦᏙᏍᏓ" ],
+			"immediate_romanized": [ "hi2y.a2ga1to23sda", "h.a2kto23sda" ],
+			"infinitive_syllabary": "ᎤᎦᏙᏍᏙᏗ",
+			"infinitive_romanized": "u2kto23sdoh3di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎦᏙᎥᎯᏍᏗ",
+			"singular_romanized": ".a2kt.o2'.v2h.i3sdi",
+			"singular_en": "wisdom"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎦᏛᎴᏍᎦ",
+			"third_present_romanized": "a1ktv3le2sga",
+			"third_present_en": "he / it's going through it",
+			"first_present_syllabary": "ᏥᎦᏛᎴᏍᎦ",
+			"first_present_romanized": "j.i2ga1tv3le2sga",
+			"completive_past_syallabary": "ᎤᎦᏛᎴᏒᎢ",
+			"completive_past_romanized": "u1ktv3le2sv23'i",
+			"continuous_syllabary": "ᎠᎦᏛᎴᏍᎪᎢ",
+			"continuous_romanized": "a1ktv3le2sgo3'i",
+			"immediate_syllabary": "ᎯᎦᏛᎴᎯ",
+			"immediate_romanized": "h.i2ktv2le23hi",
+			"infinitive_syllabary": "ᎤᎦᏛᎴᎯᏍᏗ",
+			"infinitive_romanized": "u2ktv2le23h.i3sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎫᎩᎠ",
+			"third_present_romanized": "a1ku23g.i3'a",
+			"third_present_en": "he's dipping liquid",
+			"first_present_syllabary": "ᏥᎫᎩᎠ",
+			"first_present_romanized": "j.i'2gu23g.i3'a",
+			"completive_past_syallabary": "ᎤᎫᎩᏒᎢ",
+			"completive_past_romanized": "u1ku23gi32sv23'i",
+			"continuous_syllabary": "ᎠᎫᎩᏍᎪᎢ",
+			"continuous_romanized": "a1ku23gi32sgo3'i",
+			"immediate_syllabary": "ᎯᎫᎩ",
+			"immediate_romanized": "h.i2ku23gi",
+			"infinitive_syllabary": "ᎤᎫᎩᏍᏗ",
+			"infinitive_romanized": "u2ku23gi32sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎫᎩᏍᏗ",
+			"singular_romanized": ".a2ku23gi4sdi",
+			"singular_en": "dipper",
+			"plural_syllabary": "ᏗᎫᎩᏍᏗ",
+			"plural_romanized": "di2ku23gi4sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏈᏱᎭ",
+			"third_present_romanized": "a1kw.i2y.i3ha",
+			"third_present_en": "he's paying",
+			"first_present_syllabary": "ᎦᏈᏱᎭ",
+			"first_present_romanized": "g.a2gw.i2y.i3ha",
+			"completive_past_syallabary": "ᎤᏈᏴᎲᎢ",
+			"completive_past_romanized": "u1kw.i2yv2hv23'i",
+			"continuous_syllabary": "ᎠᏈᏱᏍᎪᎢ",
+			"continuous_romanized": "a1kw.i2yi23sg.o3'i",
+			"immediate_syllabary": "ᎭᏈᏯ",
+			"immediate_romanized": "h.a2kw.i2ya",
+			"infinitive_syllabary": "ᎤᏈᏴᏗ",
+			"infinitive_romanized": "u2kwiyh2di"
+		}
+	]
+}

@@ -1,0 +1,100 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᏬᎠ",
+			"third_present_romanized": "a1d.a2wo3'a",
+			"third_present_en": [ "he's bathing", "he's swimming" ],
+			"first_present_syllabary": "ᎦᏓᏬᎠ",
+			"first_present_romanized": "g.a2d.a2wo3'a",
+			"completive_past_syallabary": "ᎤᏓᏬᎥᎢ",
+			"completive_past_romanized": "u1d.a2wo3'v23'i",
+			"continuous_syllabary": "ᎠᏓᏬᏍᎪᎢ",
+			"continuous_romanized": "a1d.a2wo3sgo3'i",
+			"immediate_syllabary": "ᎭᏓᏬᏣ",
+			"immediate_romanized": "h.a2d.a2wo23ja",
+			"infinitive_syllabary": "ᎤᏓᏬᏍᏗ",
+			"infinitive_romanized": "u2d.a2wo1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏬᏍᏗᎢ",
+			"singular_romanized": ".a2d.a2wo1sdi4'i",
+			"singular_en": "swimming pool",
+			"plural_syllabary": "ᏗᏓᏬᏍᏗᎢ",
+			"plural_romanized": "di2d.a2wo1sdi4'i"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏴᎳᏛᏍᎩ",
+			"singular_romanized": ".a2d.a2yv23l.a2t.v2sgi",
+			"singular_en": "television",
+			"plural_syllabary": "ᏗᏓᏴᎳᏛᏍᎩ",
+			"plural_romanized": "di2d.a2yv23l.a2t.v2sgi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏕᎭ",
+			"third_present_romanized": "a1de3ha",
+			"third_present_en": "he's giving him a long object",
+			"first_present_syllabary": "ᏥᏕᎭ",
+			"first_present_romanized": "ji2de3ha",
+			"completive_past_syallabary": "ᎤᏕᎸᎢ",
+			"completive_past_romanized": "u1de3lv23'i",
+			"continuous_syllabary": "ᎠᏕᎰᎢ",
+			"continuous_romanized": "a1de3ho3'i",
+			"immediate_syllabary": "ᎯᏗᏏ",
+			"immediate_romanized": "hi2di1si",
+			"infinitive_syllabary": "ᎤᏕᏗ",
+			"infinitive_romanized": "u2deh3di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏕᏠᏆᎠ",
+			"third_present_romanized": "a1de23hloh2gw.a3'a",
+			"third_present_en": [ "he's learning", "he's learning it" ],
+			"first_present_syllabary": "ᎦᏕᎶᏆᎠ",
+			"first_present_romanized": "g.a2de1loh2gw.a3'a",
+			"completive_past_syallabary": "ᎤᏕᏠᏆᎥᎢ",
+			"completive_past_romanized": "u1de2hloh2gw.a3'v23'i",
+			"continuous_syllabary": "ᎠᏕᎶᏆᏍᎪᎢ",
+			"continuous_romanized": "a1de2hloh2gwa32sgo3'i",
+			"immediate_syllabary": "ᎭᏕᏠᏆ",
+			"immediate_romanized": "h.a2de2hloh2gwa",
+			"infinitive_syllabary": "ᎤᏕᏠᏆᏍᏗ",
+			"infinitive_romanized": "u2de2hloh2gwa1sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏕᎰᎯᏍᏗᎭ",
+			"third_present_romanized": "a1de2ho23h.i3sd.i2ha",
+			"third_present_en": "he's embarassing him",
+			"first_present_syllabary": "ᏥᏯᏕᎣᎯᏍᏗᎭ",
+			"first_present_romanized": "ji2y.a2de2'o23h.i3sd.i2ha",
+			"completive_past_syallabary": "ᎤᏕᎰᎯᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1de2ho23h.i3st.a2nv23'i",
+			"continuous_syllabary": "ᎠᏕᎰᎯᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "a1de2ho23h.i3sdi2sgo3'i",
+			"immediate_syllabary": "ᎯᏯᏕᎣᎯᏍᏓ",
+			"immediate_romanized": "hi2y.a2d.e2'o2h.i2sda",
+			"infinitive_syllabary": "ᎤᏕᎰᎯᏍᏙᏗ",
+			"infinitive_romanized": "u2de2ho23h.i3sdoh2di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "he's embarassed",
+			"third_present_romanized": "ᎠᏕᎰᏍᎦ",
+			"third_present_en": "a1de2ho23sga",
+			"first_present_syllabary": "ᎦᏕᎰᏍᎦ",
+			"first_present_romanized": "g.a2d.e2'o23sga",
+			"completive_past_syallabary": "ᎤᏕᎰᏒᎢ",
+			"completive_past_romanized": "u1de2ho23sv3'i",
+			"continuous_syllabary": "ᎠᏕᎰᏍᎪᎢ",
+			"continuous_romanized": "a1de2ho23sg.o3'i",
+			"immediate_syllabary": "ᎭᏕᎰᎯ",
+			"immediate_romanized": "h.a2de2ho23hi",
+			"infinitive_syllabary": "ᎤᏕᎰᎯᏍᏗ",
+			"infinitive_romanized": "u2de2ho23h.i3sdi"
+		}
+	]
+}

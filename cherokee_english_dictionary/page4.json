@@ -1,0 +1,94 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏲᏁᏗ",
+			"singular_romanized": ".a2da2hyo2neh3di",
+			"singular_en": "adultery"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏲᏁᎯ",
+			"singular_romanized": ".a2da2hyo2ne4hi",
+			"singular_en": "adulterer",
+			"plural_syllabary": "ᏗᎾᏓᏲᏁᎯ",
+			"plural_romanized": "di2n.a2da2hyo2ne4hi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᏣᎦᎵᎭ",
+			"third_present_romanized": "a1da2j.a2g.a2l.i3ha",
+			"third_present_en": "it's ripping",
+			"first_present_syllabary": "ᎦᏓᏣᎦᎵᎭ",
+			"first_present_romanized": "g.a2da2j.a2g.a2li3'a",
+			"completive_past_syallabary": "ᎤᏓᏣᎦᎸᎲᎢ",
+			"completive_past_romanized": "u1da2j.a2g.a2lv2hv23'i",
+			"continuous_syllabary": "ᎠᏓᏣᎦᎵᏍᎪᎢ",
+			"continuous_romanized": "a1da2j.a2g.a2li23sg.o3'i",
+			"immediate_syllabary": "ᎭᏓᏣᎦᎳ",
+			"immediate_romanized": "h.a2da2j.a2g.a2la",
+			"infinitive_syllabary": "ᎤᏓᏣᎦᎵᏗ",
+			"infinitive_romanized": "u2da2j.a2gahl2di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏨᎢᏍᎩ",
+			"singular_romanized": ".a2da2jvy4sgi",
+			"singular_en": "something that stings",
+			"plural_syllabary": "ᎠᎾᏓᏨᎢᏍᎩ",
+			"plural_romanized": ".a2n.a2da2jvy4sgi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᎨᎭ",
+			"third_present_romanized": "a1da2k.e3ha",
+			"third_present_en": "he's looking at himself in a mirror",
+			"first_present_syllabary": "ᎦᏓᎨᎭ",
+			"first_present_romanized": "g.a2da1k.e3ha",
+			"completive_past_syallabary": "ᎤᏓᎨᎲᎢ",
+			"completive_past_romanized": "u1da2ke23hv3'i",
+			"continuous_syllabary": "ᎠᏓᎨᏍᎪᎢ",
+			"continuous_romanized": "a1da2ke23sg.o3'i",
+			"immediate_syllabary": "ᎭᏓᎬᎳ",
+			"immediate_romanized": "h.a2da2kv23la",
+			"infinitive_syllabary": "ᎤᏓᎨᏗ",
+			"infinitive_romanized": "u2da2keh3di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᎨᏗ",
+			"singular_romanized": ".a2da2keh3di",
+			"singular_en": "mirror",
+			"plural_syllabary": "ᏗᏓᎨᏗ",
+			"plural_romanized": "di2da2keh3di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᎴᏂᎭ",
+			"third_present_romanized": "a1d.a2le2n.i3ha",
+			"third_present_en": "it's beginning",
+			"completive_past_syallabary": "ᎤᏓᎴᏅᎲᎢ",
+			"completive_past_romanized": "u1d.a2le2n.i3ha",
+			"continuous_syllabary": "ᎠᏓᎴᏂᏍᎪᎢ",
+			"continuous_romanized": "a1d.a2le2ni23sg.o3'i",
+			"infinitive_syllabary": "ᎤᏓᎴᏅᏗ",
+			"infinitive_romanized": "u2d.a2lenh2di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᎾᏁᏒᎲᏍᎦ",
+			"third_present_romanized": "a1da2n.a2ne3sv2h.v3sga",
+			"third_present_en": "he's shopping",
+			"first_present_syllabary": "ᎦᏓᎾᏁᏒᎲᏍᎦ",
+			"first_present_romanized": "g.a2da2n.a2ne3sv2h.v3sga",
+			"completive_past_syallabary": "ᎤᏓᎾᏁᏒᏅᎢ",
+			"completive_past_romanized": "u1da2n.a2ne3sv2hnv23'i",
+			"continuous_syllabary": "ᎠᏓᎾᏁᏒᎲᏍᎪᎢ",
+			"continuous_romanized": "a1da2n.a2ne3sv2h.v2sgo3'i",
+			"immediate_syllabary": "ᎭᏓᎾᏁᏒᎲᎦ",
+			"immediate_romanized": "h.a2da2n.a2ne1sv2hv1ga",
+			"infinitive_syllabary": "ᎤᏓᎾᏁᏒᎲᏍᏗ",
+			"infinitive_romanized": "u2da2n.a2ne1sv23h.v3sdi"
+		}
+	]
+}

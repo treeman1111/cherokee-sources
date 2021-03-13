@@ -1,0 +1,100 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎿᏪᎠ",
+			"third_present_romanized": "a1hn.a2we3'a",
+			"third_present_en": "he's taking his shirt / coat off",
+			"first_present_syllabary": "ᎦᏂᏪᎠ",
+			"first_present_romanized": "g.a2ni1we3'a",
+			"completive_past_syallabary": "ᎤᎿᏪᏒᎢ",
+			"completive_past_romanized": "u1hn.a2we3sv23'i",
+			"continuous_syllabary": "ᎠᎿᏪᏍᎪᎢ",
+			"continuous_romanized": "a1hn.a2we3sgo3'i",
+			"immediate_syllabary": "ᎭᎿᏩᎩ",
+			"immediate_romanized": "h.a2hn.a2w.a2gi",
+			"infinitive_syllabary": "ᎤᎿᏪᏍᏗ",
+			"infinitive_romanized": "u2hn.a2we1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎿᏬ",
+			"singular_romanized": ".a2hn.a2wo",
+			"singular_en": [ "shirt", "cloth" ],
+			"plural_syllabary": "ᏗᎿᏬ",
+			"plural_romanized": "di2hn.a2wo"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎿᏬᎠ",
+			"third_present_romanized": "a1hn.a2wo3'a",
+			"third_present_en": "he's putting on a shirt / coat",
+			"first_present_syllabary": "ᎦᏂᏬᎠ",
+			"first_present_romanized": "g.a2ni1wo3'a",
+			"completive_past_syallabary": "ᎤᎿᏬᎥᎢ",
+			"completive_past_romanized": "u1hn.a2wo3'v23'i",
+			"continuous_syllabary": "ᎠᎿᏬᏍᎪᎢ",
+			"continuous_romanized": "a1hn.a2wo3sgo3'i",
+			"immediate_syllabary": "ᎭᎾᏬᏣ",
+			"immediate_romanized": "h.a2hn.a2wo23ja",
+			"infinitive_syllabary": "ᎤᎿᏬᏍᏗ",
+			"infinitive_romanized": "u2hn.a2wo1sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏁᎭ",
+			"third_present_romanized": "a1hn.e2ha",
+			"third_present_en": "he's giving it to him",
+			"first_present_syllabary": "ᏥᏁᎭ",
+			"first_present_romanized": "ji1n.e2ha",
+			"completive_past_syallabary": "ᎤᏁᎸᎢ",
+			"completive_past_romanized": "u1hne23lv3'i",
+			"continuous_syllabary": "ᎠᏁᎰᎢ",
+			"continuous_romanized": "a1hne23h.o3'i",
+			"immediate_syllabary": "ᎯᎥᏏ",
+			"immediate_romanized": "h.i2'.v2si",
+			"infinitive_syllabary": "ᎤᏁᏗ",
+			"infinitive_romanized": "u2hneh3di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏁᎯᎭ",
+			"third_present_romanized": "a3hne23h.i3ha",
+			"third_present_en": "he's wrestling",
+			"first_present_syllabary": "ᎦᏁᎯᎭ",
+			"first_present_romanized": "ga3hne23h.i3ha",
+			"completive_past_syallabary": "ᎤᏁᏢᎢ",
+			"completive_past_romanized": "u3hne23hlv3'i",
+			"continuous_syllabary": "ᎠᏁᎯᎰᎢ",
+			"continuous_romanized": "a3hne23h.i3ho3'i",
+			"immediate_syllabary": "ᎭᏁᎦ",
+			"immediate_romanized": "ha1hne23ga",
+			"infinitive_syllabary": "ᎤᏁᏍᏗ",
+			"infinitive_romanized": "u1hne23sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏁᏟᏗᎭ",
+			"third_present_romanized": "a1hnehl3d.i2ha",
+			"third_present_en": [ "he's interpreting it", "he's translating it" ],
+			"first_present_syllabary": "ᎦᏁᏟᏗᎭ",
+			"first_present_romanized": "ga1nehl3d.i2ha",
+			"completive_past_syallabary": "ᎤᏁᏟᏔᏅᎢ",
+			"completive_past_romanized": "u1hnehl3t.a2nv23'i",
+			"continuous_syllabary": "ᎠᏁᏟᏗᏍᎪᎢ",
+			"continuous_romanized": "a1hnehl3di2sgo3'i",
+			"immediate_syllabary": "ᎭᏁᏟᏓ",
+			"immediate_romanized": "ha2hnehl2da",
+			"infinitive_syllabary": "ᎤᏁᏟᏙᏗ",
+			"infinitive_romanized": "u2hnehl3doh2di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏁᏟᏔᏅᎢ",
+			"singular_romanized": "a2hnehl3t.a2nv4'i",
+			"singular_en": [ "interpretation", "translation" ],
+			"plural_syllabary": "ᏗᏁᏟᏔᏅᎢ",
+			"plural_romanized": "di2hnehl3t.a2nv4'i"
+		}
+	]
+}

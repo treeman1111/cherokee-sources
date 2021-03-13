@@ -1,0 +1,94 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏞᏤᎭ",
+			"third_present_romanized": "a1dle3ch.e2ha",
+			"third_present_en": "he's taking revenge against him",
+			"first_present_syllabary": "ᏥᏯᏞᏤᎭ",
+			"first_present_romanized": "ji2y.a2dle3ch.e2ha",
+			"completive_past_syallabary": "ᎤᏞᏤᎸᎢ",
+			"completive_past_romanized": "u1dle3che2lv23'i",
+			"continuous_syllabary": "ᎠᏞᏤᎰᎢ",
+			"continuous_romanized": "a1dle3ch.e2ho3'i",
+			"immediate_syllabary": "ᎯᏯᏞᏥᏏ",
+			"immediate_romanized": "hi2y.a2dle1ch.i2si",
+			"infinitive_syllabary": "ᎤᏞᏤᏗ",
+			"infinitive_romanized": "u2dle1cheh3di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏞᎢᏍᏗ",
+			"singular_romanized": ".a2dle1'i3sdi",
+			"singular_en": "revenge"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏞᏌᏙ",
+			"singular_romanized": ".a2dle1s.a2do",
+			"singular_en": "apron",
+			"plural_syllabary": "ᏗᏞᏌᏙ",
+			"plural_romanized": "di2dle1s.a2do"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏞᏍᎬᎢ",
+			"singular_romanized": "a1dle3sgv4'i",
+			"singular_en": "turn-off",
+			"plural_syllabary": "ᏓᏞᏍᎬᎢ",
+			"plural_romanized": "da1dle3sgv4'i"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏟᎠ",
+			"third_present_romanized": "a1dl.i3'a",
+			"third_present_en": "he's puring liquid into a container",
+			"first_present_syllabary": "ᏥᏟᎠ",
+			"first_present_romanized": "j.i2dl.i3'a",
+			"completive_past_syallabary": "ᎤᏢᎢ",
+			"completive_past_romanized": "u1dlv23'i",
+			"continuous_syllabary": "ᎠᏟᏍᎪᎢ",
+			"continuous_romanized": "a1dli32sgo3'i",
+			"immediate_syllabary": "ᎯᏟᎦ",
+			"immediate_romanized": "h.i2dli1ga",
+			"infinitive_syllabary": "ᎤᏟᏍᏗ",
+			"infinitive_romanized": "u2dli1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏟᎠᏙ",
+			"singular_romanized": ".a2dl.i2'.a2do",
+			"singular_en": "earring",
+			"plural_syllabary": "ᏗᏟᎠᏙ",
+			"plural_romanized": "di2dl.i2'.a2do"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏟᎦ",
+			"third_present_romanized": "a1dli32ga",
+			"third_present_en": [ "it's pouring into a container (liquid)", "it's filling" ],
+			"completive_past_syallabary": "ᎤᏟᏨᎢ",
+			"completive_past_romanized": "u1dli32jv23'i",
+			"continuous_syllabary": "ᎠᏟᎪᎢ",
+			"continuous_romanized": "a1dli32go3'i",
+			"infinitive_syllabary": "ᎤᏟᎢᏍᏗ",
+			"infinitive_romanized": "u2dliy1sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏟᎭ",
+			"third_present_romanized": "a1dli23ha",
+			"third_present_en": "he's drawing a liquid out of a container",
+			"first_present_syllabary": "ᏥᏟᎠ",
+			"first_present_romanized": "j.i2dl.i3'a",
+			"completive_past_syallabary": "ᎤᏢᎲᎢ",
+			"completive_past_romanized": "u1dlv2hv23'i",
+			"continuous_syllabary": "ᎠᏟᏍᎪᎢ",
+			"continuous_romanized": "a1dli23sgo3'i",
+			"immediate_syllabary": "ᎯᏜ",
+			"immediate_romanized": "h.i2dla",
+			"infinitive_syllabary": "ᎤᏢᏗ",
+			"infinitive_romanized": "u2dlvh2di"
+		}
+	]
+}

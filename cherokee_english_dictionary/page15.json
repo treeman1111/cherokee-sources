@@ -1,0 +1,90 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎦᎳᏍᎦ",
+			"third_present_romanized": "a1gal32sga",
+			"third_present_en": [ "he's breaking a flexible object", "he's cutting a flexible object" ],
+			"first_present_syllabary": "ᏥᎦᎳᏍᎦ",
+			"first_present_romanized": "j.i2gal32sga",
+			"completive_past_syallabary": "ᎤᎦᎳᏒᎢ",
+			"completive_past_romanized": "u1gal32sv23'i",
+			"continuous_syllabary": "ᎠᎦᎳᏍᎪᎢ",
+			"continuous_romanized": "a1gal32sgo3'i",
+			"immediate_syllabary": "ᎯᎦᎳ",
+			"immediate_romanized": "h.i2g.a'2la",
+			"infinitive_syllabary": "ᎤᎦᎳᏍᏗ",
+			"infinitive_romanized": "u2gal1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎦᎷᎦ",
+			"singular_romanized": "a2g.a2lu23ga",
+			"singular_en": "twister"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎦᎾᏗᎠ",
+			"third_present_romanized": "a1g.a2na23d.i3'a",
+			"third_present_en": "he's licking it",
+			"first_present_syllabary": "ᏥᎦᎾᏗᎠ",
+			"first_present_romanized": "j.i2g.a2na23d.i3'a",
+			"completive_past_syallabary": "ᎤᎦᎾᏛᎢ",
+			"completive_past_romanized": "u1g.a2na3dv23'i",
+			"continuous_syllabary": "ᎠᎦᎾᏗᏍᎪᎢ",
+			"continuous_romanized": "a1g.a2na23di32sgo3'i",
+			"immediate_syllabary": "ᎯᎦᎾᏓ",
+			"immediate_romanized": "h.i2g.a2na23da",
+			"infinitive_syllabary": "ᎤᎦᎾᏗᏍᏗ",
+			"infinitive_romanized": "u2g.a2na23di32sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎦᎾᎦᏘ",
+			"singular_romanized": ".a2g.a'3n.a2kti",
+			"singular_en": "doctor",
+			"plural_syllabary": "ᎠᏂᎦᎾᎦᏘ",
+			"plural_romanized": ".a2ni2g.a'3n.a2kti"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎦᎾᏫᏗᎭ",
+			"third_present_romanized": "a1ga2nawh2d.i3ha",
+			"third_present_en": "he's warming it",
+			"first_present_syllabary": [ "ᏥᎦᎾᏬᏗᎭ", "ᏥᎦᎾᏬᏗᎭ" ],
+			"first_present_romanized": [ "j.i2ga2n.a2wo1d.i3ha", "ji2ga2n.a2wo1d.i3ha" ],
+			"completive_past_syallabary": "ᎤᎦᎾᏬᏔᏅᎢ",
+			"completive_past_romanized": "u1ga2nawh2t.a2nv3'i",
+			"continuous_syllabary": "ᎠᎦᎾᏬᏗᏍᎪᎢ",
+			"continuous_romanized": "a1ga2nawh2di23sg.o3'i",
+			"immediate_syllabary": [ "ᎯᎦᎾᏬᏓ", "ᎯᎦᎾᏬᏓ" ],
+			"immediate_romanized": [ "h.i2ga2nawh2da", "hi2ga2n.a2wo1da" ],
+			"infinitive_syllabary": "ᎤᎦᎾᏬᏙᏗ",
+			"infinitive_romanized": "u2ga2nawh2doh3di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎦᎾᏬᏍᎦ",
+			"third_present_romanized": "a1ga2n.a2wo2sga",
+			"third_present_en": "it's getting warm",
+			"completive_past_syallabary": "ᎤᎦᎾᏬᏒᎢ",
+			"completive_past_romanized": "u1ga2n.a2wo2sv23'i",
+			"continuous_syllabary": "ᎠᎦᎾᏬᏍᎪᎢ",
+			"continuous_romanized": "a1ga2n.a2wo2sgo3'i",
+			"infinitive_syllabary": "ᎤᎦᎾᏬᎯᏍᏗ",
+			"infinitive_romanized": "u2ga2n.a2wo2h.i2sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎦᏍᎦ",
+			"third_present_romanized": "a1ga2sga",
+			"third_present_en": "it's raining",
+			"completive_past_syallabary": "ᎤᎦᎿᏅᎢ",
+			"completive_past_romanized": "u1ga2hn.a2nv3'i",
+			"continuous_syllabary": "ᎠᎦᏍᎪᎢ",
+			"continuous_romanized": "a1ga2sgo3'i",
+			"infinitive_syllabary": "ᎤᎦᏅᏗ",
+			"infinitive_romanized": "u2ganh2di"
+		}
+	]
+}

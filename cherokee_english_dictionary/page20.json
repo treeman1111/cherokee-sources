@@ -1,0 +1,106 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "adv",
+			"singular_syllabary": [ "ᎠᎭᏂ", "ᎠᏂ" ],
+			"singular_romanized": [ ".a3h.a2ni", ".a3hni" ],
+			"singular_en": "here"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": [ "ᎠᎭᏫ", "ᎠᏫ" ],
+			"singular_romanized": [ ".a2h.a2wi", ".a2hwi" ],
+			"singular_en": "deer"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎭᏬᏍᏗᎭ",
+			"third_present_romanized": "a1h.a2wo3sd.i2ha",
+			"third_present_en": "he's smothering him / it",
+			"first_present_syllabary": "ᏥᎠᏬᏍᏗᎭ",
+			"first_present_romanized": "j.i2'.a2wo3sd.i2ha",
+			"completive_past_syallabary": "ᎤᎭᏬᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1h.a2wo3st.a2nv23'i",
+			"continuous_syllabary": "ᎠᎭᏬᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "a1h.a2wo3sdi2sgo3'i",
+			"immediate_syllabary": "ᎯᎠᏬᏍᏓ",
+			"immediate_romanized": "h.i2'.a2wo1sda",
+			"infinitive_syllabary": "ᎤᎭᏬᏍᏙᏗ",
+			"infinitive_romanized": "u2h.a2wo1sdoh2di"
+		},
+		{
+			"type": "adv",
+			"singular_syllabary": "ᎠᎯᏓ",
+			"singular_romanized": ".a2hi4da",
+			"singular_en": "easy",
+			"plural_syllabary": "ᏗᎯᏓ",
+			"plural_romanized": "di2hi4da"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎯᏙᎭ",
+			"third_present_romanized": "a1hi23do32ha",
+			"third_present_en": [ "he's handling it", "he has it in his hand" ],
+			"first_present_syllabary": "ᏥᎢᏙᎭ",
+			"first_present_romanized": "j.i2'i23do32ha",
+			"completive_past_syallabary": "ᎤᎯᏙᎸᎢ",
+			"completive_past_romanized": "u1hi23do32lv23'i",
+			"continuous_syllabary": "ᎠᎯᏙᎰᎢ",
+			"continuous_romanized": "a1hi23do32ho3'i",
+			"immediate_syllabary": "ᎯᎯᏓ",
+			"immediate_romanized": "h.i2hi23da",
+			"infinitive_syllabary": "ᎤᎯᏓᏍᏗ",
+			"infinitive_romanized": "u2hi23da32sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎯᎭ",
+			"third_present_romanized": "a1h.i3ha",
+			"third_present_en": "he's killing him / it",
+			"first_present_syllabary": "ᏥᎢᎭ",
+			"first_present_romanized": "j.i2'.i3ha",
+			"completive_past_syallabary": "ᎤᏢᎢ",
+			"completive_past_romanized": "u1hlv23'i",
+			"continuous_syllabary": "ᎠᎯᎰᎢ",
+			"continuous_romanized": "a1h.i2ho3'i",
+			"immediate_syllabary": "ᎯᎷᎦ",
+			"immediate_romanized": "hi2lu1ga",
+			"infinitive_syllabary": "ᎤᎯᏍᏗ",
+			"infinitive_romanized": "u2h.i2sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎯᎴᎭ",
+			"third_present_romanized": "a1h.i'3le2ha",
+			"third_present_en": "he has posession of a vehicle",
+			"first_present_syllabary": "ᏥᎢᎴᎭ",
+			"first_present_romanized": "j.i2'.i3le2ha",
+			"continuous_syllabary": "ᎠᎯᎴᎰᎢ",
+			"continuous_romanized": "a1h.i'3le2ho3'i",
+			"infinitive_syllabary": "ᎤᎯᎸᏍᏗ",
+			"infinitive_romanized": "u2h.i'2lv1sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎯᎵ",
+			"third_present_romanized": "a1h.i'3li",
+			"third_present_en": "he's driving it (vehicle in motion or animal)",
+			"first_present_syllabary": "ᏥᎢᎵ",
+			"first_present_romanized": "j.i2'.i3li",
+			"completive_past_syallabary": "ᎤᎯᎸᏒᎢ",
+			"completive_past_romanized": "u1h.i'3lv3sv23'i",
+			"continuous_syllabary": "ᎠᎯᎵᏐᎢ",
+			"continuous_romanized": "a1h.i'3li3so3'i",
+			"infinitive_syllabary": "ᎤᎯᎸᏍᏗ",
+			"infinitive_romanized": "u2hi'2lv1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎯᎸᏍᏗᎢ",
+			"singular_romanized": ".a2h.i'2lv1sdi4'i",
+			"singular_en": "steering wheel",
+			"plural_syllabary": "ᏗᎯᎸᏍᏗᎢ",
+			"plural_romanized": "di2h.i'2lv1sdi4'i"
+		}
+	]
+}

@@ -1,0 +1,104 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎳᏍᎬᎠ",
+			"third_present_romanized": "a1la32sg.v2'a",
+			"third_present_en": "he's taking a step",
+			"first_present_syllabary": "ᎦᎳᏍᎬᎠ",
+			"first_present_romanized": "g.a2la32sg.v2'a",
+			"completive_past_syallabary": "ᎤᎳᏍᎬᏒᎢ",
+			"completive_past_romanized": "u1la32sgv1sv23'i",
+			"continuous_syllabary": "ᎠᎳᏍᎬᏍᎪᎢ",
+			"continuous_romanized": "a1la32sgv1sgo3'i",
+			"immediate_syllabary": "ᎭᎳᏍᎬᎾ",
+			"immediate_romanized": "h.a2la1sgv23na",
+			"infinitive_syllabary": "ᎤᎳᏍᎬᏍᏗ",
+			"infinitive_romanized": "u2la1sgv1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎳᏑᏟᏗ",
+			"singular_romanized": ".a2la1suhl23di",
+			"singular_en": "law suit"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎳᏑᎶ",
+			"singular_romanized": ".a2la1su23lo",
+			"singular_en": "shoe",
+			"plural_syllabary": "ᏗᎳᏑᎶ",
+			"plural_romanized": "di2la1su23lo"
+		},
+		{
+			"type": [ "adv", "conj" ],
+			"singular_syllabary": "ᎠᎴ",
+			"singular_romanized": ".a2le",
+			"singular_en": [ "almost", "and", "or" ]
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎴᏗᎭ",
+			"third_present_romanized": "a1leh2d.i3ha",
+			"third_present_en": "he's placing a long object in an upright position",
+			"first_present_syllabary": "ᎦᎴᏗᎭ",
+			"first_present_romanized": "g.a2le1d.i3ha",
+			"completive_past_syallabary": "ᎤᎴᏔᏅᎢ",
+			"completive_past_romanized": "u1leh2t.a3nv3'i",
+			"continuous_syllabary": "ᎠᎴᏗᏍᎪᎢ",
+			"continuous_romanized": "a1leh2di23sg.o3'i",
+			"immediate_syllabary": "ᎭᎴᏓ",
+			"immediate_romanized": "h.a2leh2da",
+			"infinitive_syllabary": "ᎤᎴᏙᏗ",
+			"infinitive_romanized": "u2leh2doh3di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎴᎲᏍᎦ",
+			"third_present_romanized": "a1le2h.v3sga",
+			"third_present_en": "he's standing in a certain spot",
+			"first_present_syllabary": "ᎦᎴᎥᏍᎦ",
+			"first_present_romanized": "g.a2l.e2'.v3sga",
+			"completive_past_syallabary": "ᎤᎴᏅᎢ",
+			"completive_past_romanized": "u1le2hnv23'i",
+			"continuous_syllabary": "ᎠᎴᎲᏍᎪᎢ",
+			"continuous_romanized": "a1le2h.v2sgo3'i",
+			"immediate_syllabary": "ᎭᎴᎲᎦ",
+			"immediate_romanized": "h.a2le2hv1ga",
+			"infinitive_syllabary": "ᎤᎴᏗ",
+			"infinitive_romanized": "u2leh2di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎴᏫᏍᏗᎭ",
+			"third_present_romanized": "a1le2hw.i2sd.i3ha",
+			"third_present_en": "he / it's stopping",
+			"first_present_syllabary": "ᎦᎴᏫᏍᏗᎭ",
+			"first_present_romanized": "g.a2le1w.i2sd.i3ha",
+			"completive_past_syallabary": "ᎤᎴᏫᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1le2hw.i2st.a2nv3'i",
+			"continuous_syllabary": "ᎠᎴᏫᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "a1le2hw.i2sdi23sg.o3'i",
+			"immediate_syllabary": "ᎭᎴᏫᏍᏓ",
+			"immediate_romanized": "h.a2le2hw.i2sda",
+			"infinitive_syllabary": "ᎤᎴᏫᏍᏙᏗ",
+			"infinitive_romanized": "u2le2hw.i2sdoh3di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎴᏫᏍᏙᏗᎭ",
+			"third_present_romanized": "a1le2hw.i2sdoh3d.i3ha",
+			"third_present_en": "he's stopping him / it",
+			"first_present_syllabary": [ "ᏥᏯᎴᏫᏍᏙᏗᎭ", "ᎦᎴᏫᏍᏙᏗᎭ" ],
+			"first_present_romanized": [ "ji2y.a2le1w.i2sdoh3d.i3ha", "g.a2le1w.i2sdoh3d.i3ha" ],
+			"completive_past_syallabary": "ᎤᎴᏫᏍᏙᏔᏅᎢ",
+			"completive_past_romanized": "u1le2hw.i2sdoh3t.a3nv23'i",
+			"continuous_syllabary": "ᎠᎴᏫᏍᏙᏗᏍᎪᎢ",
+			"continuous_romanized": "a1le2hw.i2sdoh3di3sgo3'i",
+			"immediate_syllabary": [ "ᎯᏯᎴᏫᏍᏙᏓ", "ᎭᎴᏫᏍᏙᏓ" ],
+			"immediate_romanized": [ "hi2y.a2le1w.i2sdoh2da", "h.a2le2hw.i2sdoh2da" ],
+			"infinitive_syllabary": "ᎤᎴᏫᏍᏙᏙᏗ",
+			"infinitive_romanized": "u2le2hw.i2sdoh3doh3di"
+		}
+	]
+}

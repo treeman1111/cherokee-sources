@@ -1,0 +1,92 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎪᎾ",
+			"singular_romanized": ".a2go2na",
+			"singular_en": "famine"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎪᏂᎭ",
+			"third_present_romanized": "a3go2n.i3ha",
+			"third_present_en": "he's target practicing",
+			"first_present_syllabary": "ᎦᎪᏂᎭ",
+			"first_present_romanized": "ga3go2n.i3ha",
+			"completive_past_syallabary": "ᎤᎪᏅᎲᎢ",
+			"completive_past_romanized": "u3go2nv2hv23'i",
+			"continuous_syllabary": "ᎠᎪᏂᏍᎪᎢ",
+			"continuous_romanized": "a3go2ni23sg.o3'i",
+			"immediate_syllabary": "ᎭᎪᎾ",
+			"immediate_romanized": "ha1go23na",
+			"infinitive_syllabary": "ᎤᎪᏅᏗ",
+			"infinitive_romanized": "u1gonh23di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎪᏍᏓᎩᏍᏗ",
+			"singular_romanized": ".a2go3sd.a2gi32sdi",
+			"singular_en": "lettuce"
+		},
+		{
+			"type": "adj",
+			"singular_syllabary": "ᎠᎪᏍᏗ",
+			"singular_romanized": ".a2go4sdi",
+			"singular_en": "raw",
+			"plural_syllabary": "ᎠᏂᎪᏍᏗ",
+			"plural_romanized": ".a2ni2go4sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎪᏩᏘᎭ",
+			"third_present_romanized": "a1gowh2t.i3ha",
+			"third_present_en": "he sees him / it",
+			"first_present_syllabary": [ "ᏥᎪᏩᏘᎭ", "ᏥᎪᏩᏘᎭ" ],
+			"first_present_romanized": [ "ji2gowh1t.i3ha", "j.i2gowh1t.i2ha" ],
+			"completive_past_syallabary": "ᎤᎪᎲᎢ",
+			"completive_past_romanized": "u1go2hv23'i",
+			"continuous_syllabary": "ᎠᎪᏩᏘᏍᎪᎢ",
+			"continuous_romanized": "a1gowh2ti23sg.o3'i",
+			"immediate_syllabary": [ "ᎯᎪᏩᏔ", "ᎯᎪᏩᏔ" ],
+			"immediate_romanized": [ "hi2go1wah2ta", "h.i2go2hwah2ta" ],
+			"infinitive_syllabary": "ᎤᎪᏩᏛᏗ",
+			"infinitive_romanized": "u2gowh2tvh3di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎪᏩᏛᏗ",
+			"singular_romanized": ".a2gowh23tvh2di",
+			"singular_en": "sight"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎪᏩᏛᏗᎭ",
+			"third_present_romanized": "a1gowh2tvh2d.i3ha",
+			"third_present_en": "he's showing it to him",
+			"first_present_syllabary": "ᏥᎪᏩᏛᏗᎭ",
+			"first_present_romanized": "ji2gowh1tvh2d.i3ha",
+			"completive_past_syallabary": "ᎤᎪᏩᏛᏔᏅᎢ",
+			"completive_past_romanized": "u1gowh2tvh2t.a2nv3'i",
+			"continuous_syllabary": "ᎠᎪᏩᏛᏗᏍᎪᎢ",
+			"continuous_romanized": "a1gowh2tvh2di23sg.o3'i",
+			"immediate_syllabary": "ᎯᎪᏩᏛᏓ",
+			"immediate_romanized": "hi2gowh1tvh2da",
+			"infinitive_syllabary": "ᎤᎪᏩᏛᏙᏗ",
+			"infinitive_romanized": "u2gowh2tvh2doh3di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎫᏌ",
+			"singular_romanized": ".a2gu23sa",
+			"singular_en": "Creek",
+			"plural_syllabary": "ᎠᏂᎫᏌ",
+			"plural_romanized": ".a2ni2gu23sa"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎬᏓᎨᏂ",
+			"singular_romanized": ".a2gv2d.a2ge4ni",
+			"singular_en": "his forehead"
+		}
+	]
+}

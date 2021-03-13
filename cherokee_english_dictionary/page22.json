@@ -1,0 +1,102 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏟᎢᎵᏙᎭ",
+			"third_present_romanized": "a1hl.i3'.i2li23do32ha",
+			"third_present_en": "it's taking time",
+			"completive_past_syallabary": "ᎤᏟᎢᎵᏙᎸᎢ",
+			"completive_past_romanized": "u1hl.i3'.i2li23do32lv23'i",
+			"continuous_syllabary": "ᎠᏟᎢᎵᏙᎰᎢ",
+			"continuous_romanized": "a1hl.i3'.i2li23do32ho3'i",
+			"infinitive_syllabary": "ᎤᏟᎢᎵᏓᏍᏗ",
+			"infinitive_romanized": "u2hl.i2'.i2li23da32sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏟᎶᎠ",
+			"third_present_romanized": "a1hli2lo3'a",
+			"third_present_en": "he's measuring it",
+			"first_present_syllabary": "ᎦᏟᎶᎠ",
+			"first_present_romanized": "g.a2dli2lo3'a",
+			"completive_past_syallabary": "ᎤᏟᎶᎥᎢ",
+			"completive_past_romanized": "u1hli2lo3'v23'i",
+			"continuous_syllabary": "ᎠᏟᎶᏍᎪᎢ",
+			"continuous_romanized": "a1hli2lo3sgo3'i",
+			"immediate_syllabary": "ᎭᏟᎶᏣ",
+			"immediate_romanized": "h.a2hli2lo23ja",
+			"infinitive_syllabary": "ᎤᏟᎶᏍᏗ",
+			"infinitive_romanized": "u2hli2lo1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏟᎶᏍᏗ",
+			"singular_romanized": ".a2hli2lo4sdi",
+			"singular_en": "ruler",
+			"plural_syllabary": "ᏗᏟᎶᏍᏗ",
+			"plural_romanized": "di2hli2lo4sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏟᏴᏈᏛᏍᎦ",
+			"third_present_romanized": "a1hl.i2yvh2gw.i2dv32sga",
+			"third_present_en": "it's bending",
+			"completive_past_syallabary": "ᎤᏟᏴᏈᏛᏅᎢ",
+			"completive_past_romanized": "u1hl.i2yvh2gw.i2dv32nv23'i",
+			"continuous_syllabary": "ᎠᏟᏴᏈᏛᏍᎪᎢ",
+			"continuous_romanized": "a1hl.i2yvh2gw.i2dv32sgo3'i",
+			"infinitive_syllabary": "ᎤᏟᏴᏈᏛᏗ",
+			"infinitive_romanized": "u2hl.i2yvh2gw.i2dv1di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏟᏴᏌᎾᏩᏍᏗᎭ",
+			"third_present_romanized": "a1hl.i2yv23s.a3naw1sd.i3ha",
+			"third_present_en": "he's snorting",
+			"first_present_syllabary": "ᎦᎵᏴᏌᎾᏩᏍᏗᎭ",
+			"first_present_romanized": "g.a2li1yv23s.a3naw1sd.i3ha",
+			"completive_past_syallabary": "ᎤᏟᏴᏌᎾᏩᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1hl.i2yv23s.a3naw1st.a2nv3'i",
+			"continuous_syllabary": "ᎠᏟᏴᏌᎾᏩᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "a1hl.i2yv23s.a3naw1sdi23sg.o3'i",
+			"immediate_syllabary": "ᎭᏟᏴᏌᎾᏩᏍᏓ",
+			"immediate_romanized": "h.a2hl.i2yv2s.a2naw1sda",
+			"infinitive_syllabary": "ᎤᏟᏴᏌᎾᏩᏍᏙᏗ",
+			"infinitive_romanized": "u2hl.i2yv23s.a3naw1sdoh3di"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎵᏣᏙᎲᏍᎦ",
+			"third_present_romanized": "ahl1j.a2do23h.v3sga",
+			"third_present_en": "he's preaching",
+			"first_present_syllabary": "ᎦᎵᏣᏙᎲᏍᎦ",
+			"first_present_romanized": "g.a2li1j.a2do23h.v3sga",
+			"completive_past_syallabary": "ᎤᎵᏣᏙᏅᎢ",
+			"completive_past_romanized": "uhl1j.a2do23hnv3'i",
+			"continuous_syllabary": "ᎠᎵᏣᏙᎲᏍᎪᎢ",
+			"continuous_romanized": "ahl1j.a2do23h.v3sgo3'i",
+			"immediate_syllabary": "ᎭᎵᏣᏙᎲᎦ",
+			"immediate_romanized": "hahl2j.a2do2hv1ga",
+			"infinitive_syllabary": "ᎤᎵᏣᏘᏗ",
+			"infinitive_romanized": "uhl2j.a3tdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎵᏣᏙᎲᏍᎩ",
+			"singular_romanized": "ahl2j.a2do4h.v2sgi",
+			"singular_en": "preacher",
+			"plural_syllabary": "ᎠᎾᎵᏣᏙᎲᏍᎩ",
+			"plural_romanized": ".a2nahl2j.a2do4h.v2sgi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎵᎪᏛᏍᎦ",
+			"third_present_romanized": "ahl1ko2dv2sga",
+			"third_present_en": "it's shattering",
+			"completive_past_syallabary": "ᎤᎵᎪᏛᏅᎢ",
+			"completive_past_romanized": "uhl1ko2dv2hnv23'i",
+			"continuous_syllabary": "ᎠᎵᎪᏛᏍᎪᎢ",
+			"continuous_romanized": "ahl1ko2dv2sgo3'i"
+		}
+	]
+}

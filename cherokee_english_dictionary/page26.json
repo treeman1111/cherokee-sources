@@ -1,0 +1,92 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎱᏣᏬᎳᏛᏗ",
+			"singular_romanized": ".a2hu1j.a2wo23l.a3dv4di",
+			"singular_en": [ "stove pipe", "lamp chimney" ],
+			"plural_syllabary": "ᏗᎱᏣᏬᎳᏛᏗ",
+			"plural_romanized": "di2hu1j.a2wo23l.a3dv4di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎱᏣᏬᎳᏛᎢ",
+			"singular_romanized": "a1hu3j.a2wo23l.a3dv4'i",
+			"singular_en": "chimney",
+			"plural_syllabary": "ᏓᎱᏣᏬᎳᏛᎢ",
+			"plural_romanized": "da1hu3j.a2wo23l.a3dv4'i"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎱᎵ",
+			"singular_romanized": ".a2hu2li",
+			"singular_en": "drum",
+			"plural_syllabary": "ᏗᎱᎵ",
+			"plural_romanized": "di2hu2li"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎱᎸᏂᎭ",
+			"third_present_romanized": "a1hu2lv3n.i2ha",
+			"third_present_en": "he's hitting him on the mouth",
+			"first_present_syllabary": "ᏥᎤᎸᏂᎭ",
+			"first_present_romanized": "j.i2'u2lv3n.i2ha",
+			"completive_past_syallabary": "ᎤᎱᎸᏂᎭ",
+			"completive_past_romanized": "u1hu2lv23ni32lv23'i",
+			"continuous_syllabary": "ᎠᎱᎸᏂᎰᎢ",
+			"continuous_romanized": "a1hu2lv3n.i2ho3'i",
+			"immediate_syllabary": "ᎯᎤᎸᏂᎦ",
+			"immediate_romanized": "h.i2'u2lv2ni1ga",
+			"infinitive_syllabary": "ᎤᎱᎸᏂᏍᏗ",
+			"infinitive_romanized": "u2hu2lv23ni32sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎲᎠ",
+			"third_present_romanized": "a1hv3'a",
+			"third_present_en": "he's moving it from one place to another",
+			"first_present_syllabary": "ᏥᎥᎠ",
+			"first_present_romanized": "j.i2'v3'a",
+			"completive_past_syallabary": "ᎤᎲᏒᎢ",
+			"completive_past_romanized": "u1hv3sv23'i",
+			"continuous_syllabary": "ᎠᎲᏍᎪᎢ",
+			"continuous_romanized": "a1hv3sgo3'i",
+			"immediate_syllabary": "ᎯᎲᎾ",
+			"immediate_romanized": "h.i2hv23na",
+			"infinitive_syllabary": "ᎤᎲᏍᏗ",
+			"infinitive_romanized": "u2hv1sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎲᏍᎦ",
+			"third_present_romanized": "a1h.v3sga",
+			"third_present_en": "he's setting it down",
+			"first_present_syllabary": "ᏥᎥᏍᎦ",
+			"first_present_romanized": "j.i2'.v3sga",
+			"completive_past_syallabary": "ᎤᏅᎢ",
+			"completive_past_romanized": "u1hnv23'i",
+			"continuous_syllabary": "ᎠᎲᏍᎪᎢ",
+			"continuous_romanized": "a1h.v2sgo3'i",
+			"immediate_syllabary": "ᎯᎲᎦ",
+			"immediate_romanized": "h.i2hv1ga",
+			"infinitive_syllabary": "ᎤᏗ",
+			"infinitive_romanized": "u2hdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏩᏘᎭ",
+			"third_present_romanized": "a1hwah2t.i3ha",
+			"third_present_en": "he's finding him / it",
+			"first_present_syllabary": "ᏥᏩᏘᎭ",
+			"first_present_romanized": "ji1wah2t.i3ha",
+			"completive_past_syallabary": "ᎤᏩᏛᎲᎢ",
+			"completive_past_romanized": "u1hwah2tv2hv23'i",
+			"continuous_syllabary": "ᎠᏩᏘᏍᎪᎢ",
+			"continuous_romanized": "a1hwah2ti23sg.o3'i",
+			"immediate_syllabary": [ "ᎯᏩᏔ", "ᎯᏩᏔ" ],
+			"immediate_romanized": [ "hi1wah2ta", "h.i2hwah2ta" ],
+			"infinitive_syllabary": "ᎤᏩᏛᏗ",
+			"infinitive_romanized": "u2hwah2tvh2di"
+		}
+	]
+}

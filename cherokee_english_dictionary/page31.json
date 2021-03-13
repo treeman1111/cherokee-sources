@@ -1,0 +1,100 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏣᎥᏍᎦ",
+			"third_present_romanized": "a1j.a3'.v2sga",
+			"third_present_en": "he's getting in it (car, box, &c)",
+			"first_present_syllabary": "ᎦᏣᎥᏍᎦ",
+			"first_present_romanized": "g.a2j.a3'.v2sga",
+			"completive_past_syallabary": "ᎤᏣᏅᎢ",
+			"completive_past_romanized": "u1ja32nv23'i",
+			"continuous_syllabary": "ᎠᏣᎥᏍᎪᎢ",
+			"continuous_romanized": "a1j.a3'.v2sgo3'i",
+			"immediate_syllabary": "ᎭᏣᎥᎦ",
+			"immediate_romanized": "h.a2j.a2'v1ga",
+			"infinitive_syllabary": "ᎤᏦᏗ",
+			"infinitive_romanized": "u2jo1di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏤᎵᏍᏛᎢ",
+			"singular_romanized": "a1je23li32sdv4'i",
+			"singular_en": "grave",
+			"plural_syllabary": "ᏓᏤᎵᏍᏛᎢ",
+			"plural_romanized": "da1je23li32sdv4'i"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏤᎸᏍᎦ",
+			"third_present_romanized": "a1je2lv2sga",
+			"third_present_en": "he's acting like him",
+			"first_present_syllabary": "ᎦᏤᎸᏍᎦ",
+			"first_present_romanized": "g.a2je2lv1sga",
+			"completive_past_syallabary": "ᎤᏤᎸᏅᎢ",
+			"completive_past_romanized": "u1je2lv2hnv23'i",
+			"continuous_syllabary": "ᎠᏤᎸᏍᎪᎢ",
+			"continuous_romanized": "a1je2lv2sgo3'i",
+			"immediate_syllabary": "ᎭᏤᎸᎾ",
+			"immediate_romanized": "h.a2je2lv23na",
+			"infinitive_syllabary": "ᎤᏤᎸᏗ",
+			"infinitive_romanized": "u2jehl2di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏤᏍᏙ",
+			"singular_romanized": ".a2je2sdo",
+			"singular_en": "mattress",
+			"plural_syllabary": "ᏗᏤᏍᏙ",
+			"plural_romanized": "di2je2sdo"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏤᏫᎠ",
+			"third_present_romanized": "a1je23w.i3'a",
+			"third_present_en": [
+				"he's spilling it (a liquid or non-liquid like salt, sugar)",
+				"he's pouring it on the ground (liquid or non-liquid)",
+				"he's being wasteful (of money, etc.)"
+			],
+			"first_present_syllabary": "ᎦᏤᏫᎠ",
+			"first_present_romanized": "g.a2je23w.i3'a",
+			"completive_past_syallabary": "ᎤᏤᏮᎢ",
+			"completive_past_romanized": "u1je3wv23'i",
+			"continuous_syllabary": "ᎠᏤᏫᏍᎪᎢ",
+			"continuous_romanized": "a1je23wi32sgo3'i",
+			"immediate_syllabary": "ᎭᏤᏩ",
+			"immediate_romanized": "h.a2je23wa",
+			"infinitive_syllabary": "ᎤᏤᏩᏍᏗ",
+			"infinitive_romanized": "u2je23wa32sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏥᎳ",
+			"singular_romanized": ".a2ji23la",
+			"singular_en": [ "fire", "watercress" ]
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏥᎳ ᎨᏠᎯ",
+			"singular_romanized": ".a2ji23la ge3hl.o2hi",
+			"singular_en": "Catholic",
+			"plural_syllabary": "ᎠᏥᎳ ᎠᏁᏠᎯ",
+			"plural_romanized": ".a2ji23la .a2ne3hl.o2hi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏥᎳ ᎪᏢᏗ",
+			"singular_romanized": ".a2ji23la go3hlvh2di",
+			"singular_en": "match",
+			"plural_syllabary": "ᏗᏥᎳ ᏗᎪᏢᏗ",
+			"plural_romanized": "di2ji23la d.i2go3hlvh2di"
+		},
+		{
+			"type": "adv",
+			"singular_syllabary": "ᎠᏥᎸᎯ",
+			"singular_romanized": ".a2ji2lv4hi",
+			"singular_en": "in the fire"
+		}
+	]
+}

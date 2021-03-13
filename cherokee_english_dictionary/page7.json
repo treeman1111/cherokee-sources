@@ -1,0 +1,96 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏍᏓᏴᏗᎢ",
+			"singular_romanized": ".a2da2sdayh1di4'i",
+			"singular_en": "kitchen",
+			"plural_syllabary": "ᏗᏓᏍᏓᏴᏗᎢ",
+			"plural_romanized": "di2da2sdayh1di4'i"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᏍᏓᏴᎲᏍᎦ",
+			"third_present_romanized": "a1da2sda32yv2h.v3sga",
+			"third_present_en": "she's cooking a meal",
+			"first_present_syllabary": "ᎦᏓᏍᏓᏴᎲᏍᎦ",
+			"first_present_romanized": "g.a2da1sda32y.v2hv3sga",
+			"completive_past_syallabary": "ᎤᏓᏍᏓᏴᏅᎢ",
+			"completive_past_romanized": "u1da2sda32yv2hnv23'i",
+			"continuous_syllabary": "ᎠᏓᏍᏓᏴᎲᏍᎪᎢ",
+			"continuous_romanized": "a1da2sda32yvh.v2sgo3'i",
+			"immediate_syllabary": "ᎭᏓᏍᏓᏴᎲᎦ",
+			"immediate_romanized": "h.a2da2sda1yv2hv1ga",
+			"infinitive_syllabary": "ᎤᏓᏍᏓᏴᏗ",
+			"infinitive_romanized": "u2da2sdayh1di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏪᎯ",
+			"singular_romanized": ".a2da23we3hi",
+			"singular_en": "magician",
+			"plural_syllabary": "ᎠᏂᏓᏪᎯ",
+			"plural_romanized": ".a2ni2da23we3hi"
+		},
+		{
+			"type": "adj",
+			"singular_syllabary": "ᎠᏓᏪᎯ",
+			"singular_romanized": ".a2da23we4hi",
+			"singular_en": "magical",
+			"plural_syllabary": "ᎠᏂᏓᏪᎯ",
+			"plural_romanized": ".a2ni2da23we4hi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᏪᎳᎩᎠ",
+			"third_present_romanized": "a1d.a2we23l.a3g.i2'a",
+			"third_present_en": "it's burning (flames)",
+			"first_present_syllabary": "ᎦᏓᏪᎳᎩᎠ",
+			"first_present_romanized": "g.a2d.a2we23l.a3g.i2'a",
+			"completive_past_syallabary": "ᎤᏓᏪᎳᎬᎢ",
+			"completive_past_romanized": "u1d.a2we23l.a3gv23'i",
+			"continuous_syllabary": "ᎠᏓᏪᎳᎩᏍᎪᎢ",
+			"continuous_romanized": "a1d.a2we23l.a3gi1sgo3'i",
+			"immediate_syllabary": "ᎭᏓᏪᎳᎦ",
+			"immediate_romanized": "h.a2d.a2we2l.a2ga",
+			"infinitive_syllabary": "ᎤᏓᏪᎳᎩᏍᏗ",
+			"infinitive_romanized": "u2d.a2we23l.a3gi1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏪᎳᎩᏍᎩ",
+			"singular_romanized": ".a2d.a2we23l.a2gi1sgi",
+			"singular_en": "flame",
+			"plural_syllabary": "ᏗᏓᏪᎳᎩᏍᎩ",
+			"plural_romanized": "di2d.a2we23l.a2gi1sgi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏪᎳᎩᏍᎩ",
+			"singular_romanized": ".a2d.a2we2l.a2gi1sgi",
+			"singular_en": "gunpowder"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᏪᏐᎸᏍᏗᎭ",
+			"third_present_romanized": "a1d.a2we3so2lv23sd.i3ha",
+			"third_present_en": "he's resting",
+			"first_present_syllabary": "ᎦᏓᏪᏐᎸᏍᏗᎭ",
+			"first_present_romanized": "g.a2d.a2we3so2lv23sd.i3ha",
+			"completive_past_syallabary": "ᎤᏓᏪᏐᎸᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1d.a2we3so2lv23st.a3nv23'i",
+			"continuous_syllabary": "ᎠᏓᏪᏐᎸᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "a1d.a2we3so2lv23sdi3sgo3'i",
+			"immediate_syllabary": "ᎭᏓᏪᏐᎸᏍᏓ",
+			"immediate_romanized": "h.a2d.a2we1so2lv23sda",
+			"infinitive_syllabary": "ᎤᏓᏪᏐᎸᏍᏙᏗ",
+			"infinitive_romanized": "u2d.a2we1so23lv3sdoh2di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏫ",
+			"singular_romanized": "a23d.a3wi",
+			"singular_en": "Adam"
+		}
+	]
+}

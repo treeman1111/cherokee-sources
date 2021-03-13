@@ -1,0 +1,106 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎦᏔᏍᏗᎭ",
+			"third_present_romanized": "a1kta32sd.i2ha",
+			"third_present_en": "he's winking",
+			"first_present_syllabary": "ᎦᎦᏔᏍᏗᎭ",
+			"first_present_romanized": "g.a2ga1ta32sd.i2ha",
+			"completive_past_syallabary": "ᎤᎦᏔᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1kta32st.a2nv23'i",
+			"continuous_syllabary": "ᎠᎦᏔᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "a1kta32sdi2sgo3'i",
+			"immediate_syllabary": "ᎭᎦᏔᏍᏓ",
+			"immediate_romanized": "h.a2kta1sda",
+			"infinitive_syllabary": "ᎤᎦᏔᏍᏙᏗ",
+			"infinitive_romanized": "u2kta1sdoh3di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎦᏖᎷᎲᏍᎦ",
+			"third_present_romanized": "a1kte2lu2h.v3sga",
+			"third_present_en": "he's hitting him on the eye",
+			"first_present_syllabary": "ᏥᎦᏖᎷᎲᏍᎦ",
+			"first_present_romanized": "ji2ga1te2lu2h.v3sga",
+			"completive_past_syallabary": "ᎤᎦᏖᎷᏅᎢ",
+			"completive_past_romanized": "u1kte2lu2hnv23'i",
+			"continuous_syllabary": "ᎠᎦᏖᎷᎲᏍᎪᎢ",
+			"continuous_romanized": "a1kte2lu2h.v2sgo3'i",
+			"immediate_syllabary": "ᎯᎦᏖᎷᎲᎦ",
+			"immediate_romanized": "hi2ga1te2lu2hv1ga",
+			"infinitive_syllabary": "ᎤᎦᏖᎷᏗ",
+			"infinitive_romanized": "u2kte2luh2di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎦᏖᎾᏍᏗᎢ",
+			"singular_romanized": ".a2kte23na32sdi4'i",
+			"singular_en": "scenery"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎦᏖᏃᎭ",
+			"third_present_romanized": "a1kte3n.o2ha",
+			"third_present_en": "he's looking around",
+			"first_present_syllabary": "ᏥᎦᏖᏃᎭ",
+			"first_present_romanized": "j.i2ga1te3n.o2ha",
+			"completive_past_syallabary": "ᎤᎦᏖᏃᎸᎢ",
+			"completive_past_romanized": "u1kte23no32lv23'i",
+			"continuous_syllabary": "ᎠᎦᏖᏃᎰᎢ",
+			"continuous_romanized": "a1kte3n.o2ho3'i",
+			"immediate_syllabary": "ᎯᎦᏖᎾᎦ",
+			"immediate_romanized": "h.i2kte2n.a2ga",
+			"infinitive_syllabary": "ᎤᎦᏖᎾᏍᏗ",
+			"infinitive_romanized": "u2kte23na32sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎦᏘᎭ",
+			"third_present_romanized": "a1kt.i2ha",
+			"third_present_en": "he's peeking through",
+			"first_present_syllabary": "ᎦᎦᏘᎭ",
+			"first_present_romanized": "g.a2ga1t.i2ha",
+			"completive_past_syallabary": "ᎤᎦᏔᏅᎢ",
+			"completive_past_romanized": "u1kt.a2hnv23'i",
+			"continuous_syllabary": "ᎠᎦᏘᏍᎪᎢ",
+			"continuous_romanized": "a1kti23sg.o3'i",
+			"immediate_syllabary": "ᎭᎦᏔ",
+			"immediate_romanized": "h.a2kta",
+			"infinitive_syllabary": "ᎤᎦᏙᏗ",
+			"infinitive_romanized": "u2ktoh2di"
+		},
+		{
+			"type": [ "n", "adj" ],
+			"singular_syllabary": "ᎠᎦᏘᏏ",
+			"singular_romanized": ".a2kti2si",
+			"singular_en": [ "right position", "right hand", "right-handed" ],
+			"plural_syllabary": "ᎠᏂᎦᏘᏏ",
+			"plural_romanized": ".a2ni2kti2si"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᎦᏘᏯ",
+			"third_present_romanized": "a1kti23ya",
+			"third_present_en": "he's waiting for him / it",
+			"first_present_syllabary": [ "ᏥᎦᏘᏯ", "ᏥᎦᏘᏯ" ],
+			"first_present_romanized": [ "ji2ga1ti23ya", "j.i2ga1ti23ya" ],
+			"completive_past_syallabary": "ᎤᎦᏘᏛᎢ",
+			"completive_past_romanized": "u1kti3dv23'i",
+			"continuous_syllabary": "ᎠᎦᏘᏲᎢ",
+			"continuous_romanized": "a1kti23y.o3'i",
+			"immediate_syllabary": [ "ᎯᎦᏘᏓ", "ᎯᎦᏘᏓ" ],
+			"immediate_romanized": [ "hi2ga1ti23da", "h.i2kti23da" ],
+			"infinitive_syllabary": "ᎤᎦᏘᏗᏍᏗ",
+			"infinitive_romanized": "u2kti23di32sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎦᏘᏱ",
+			"singular_romanized": ".a2kti4yi",
+			"singular_en": "guard",
+			"plural_syllabary": "ᎠᏂᎦᏘᏱ",
+			"plural_romanized": ".a2ni2kti4yi"
+		}
+	]
+}

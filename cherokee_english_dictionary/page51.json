@@ -1,0 +1,112 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᎪᎩᎠ",
+			"third_present_romanized": "a1sgo2g.i3'a",
+			"third_present_en": "he's gnawing it",
+			"first_present_syllabary": "ᏥᏍᎪᎩᎠ",
+			"first_present_romanized": "ji1sgo2g.i3'a",
+			"completive_past_syllabary": "ᎤᏍᎪᎬᎢ",
+			"completive_past_romanized": "u1sgo3gv23'i",
+			"continuous_syllabary": "ᎠᏍᎪᎩᏍᎪᎢ",
+			"continuous_romanized": "a1sgo2gi32sgo3'i",
+			"immediate_syllabary": "ᎯᏍᎪᎦ",
+			"immediate_romanized": "h.i2sgo23ga",
+			"infinitive_syllabary": "ᎤᏍᎪᎩᏍᏗ",
+			"infinitive_romanized": "u2sgo23gi32sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᎪᏂᎭ",
+			"third_present_romanized": "a1sgo23hn.i3ha",
+			"third_present_en": "he's mourning for him / it",
+			"first_present_syllabary": "ᏥᏍᎪᏂᎭ",
+			"first_present_romanized": "ji1sgo23hn.i3ha",
+			"completive_past_syllabary": "ᎤᏍᎪᏂᎸᎢ",
+			"completive_past_romanized": "u1sgo23hn.i3lv23'i",
+			"continuous_syllabary": "ᎠᏍᎪᏂᎰᎢ",
+			"continuous_romanized": "a1sgo23hn.i3ho3'i",
+			"immediate_syllabary": [ "ᎯᏍᎪᏂᎦ", "ᎯᏍᎪᏂᎦ" ],
+			"immediate_romanized": [ "hi1sgonh23ga", "h.i2sgonh23ga" ],
+			"infinitive_syllabary": "ᎤᏍᎪᏂᏍᏗ",
+			"infinitive_romanized": "u2sgon23sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᎪᎵᏰᎠ",
+			"third_present_romanized": "a1sgo2li23y.e3'a",
+			"third_present_en": "he's rubbing him / it",
+			"first_present_syllabary": [ "ᏥᏯᏍᎪᎵᏰᎠ", "ᎦᏍᎪᎵᏰᎠ" ],
+			"first_present_romanized": [ "ji2ya1sgo2li23y.e3'a", "ga1sgo2li23y.e3'a" ],
+			"completive_past_syllabary": "ᎤᏍᎪᎵᏰᎥᎢ",
+			"completive_past_romanized": "u1sgo2li23y.e3'v23'i",
+			"continuous_syllabary": "ᎠᏍᎪᎵᏰᏍᎪᎢ",
+			"continuous_romanized": "a1sgo2li23ye32sgo3'i",
+			"immediate_syllabary": [ "ᎯᏯᏍᎪᎵᏯ", "ᎯᏍᎪᎵᏯ" ],
+			"immediate_romanized": [ "hi2ya1sgo2li23ya", "h.a2sgo2li23ya" ],
+			"infinitive_syllabary": "ᎤᏍᎪᎵᏰᏗ",
+			"infinitive_romanized": "u2sgo2li23ye32di"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᎪᎸᏗᎠ",
+			"third_present_romanized": "a1sgo23lv3d.i2'a",
+			"third_present_en": "he's erasing it",
+			"first_present_syllabary": "ᏥᏍᎪᎸᏗᎠ",
+			"first_present_romanized": "ji1sgo23lv3d.i2'a",
+			"completive_past_syllabary": "ᎤᏍᎪᎸᏛᎢ",
+			"completive_past_romanized": "u1sgo23lv3dv23'i",
+			"continuous_syllabary": "ᎠᏍᎪᎸᏗᏍᎪᎢ",
+			"continuous_romanized": "a1sgo23lv3di1sgo3'i",
+			"immediate_syllabary": "ᎯᏍᎪᎸᏓ",
+			"immediate_romanized": "h.i2sgo23lv23da",
+			"infinitive_syllabary": "ᎤᏍᎪᎸᏗᏍᏗ",
+			"infinitive_romanized": "u2sgo23lv3di1sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏍᎪᎸᏗᏍᏗ",
+			"singular_romanized": ".a2sgo23lv4di1sdi",
+			"singular_en": "eraser",
+			"plural_syllabary": "ᏗᏍᎪᎸᏗᏍᏗ",
+			"plural_romanized": "di2sgo23lv4di1sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏍᎪᎸᎦ",
+			"third_present_romanized": "a1sgo23lv32ga",
+			"third_present_en": "it's fading",
+			"completive_past_syllabary": "ᎤᏍᎪᎸᏨᎢ",
+			"completive_past_romanized": "u1sgo23lv32jv23'i",
+			"continuous_syllabary": "ᎠᏍᎪᎸᎪᎢ",
+			"continuous_romanized": "a1sgo23lv32go3'i",
+			"infinitive_syllabary": "ᎤᏍᎪᎸᎢᏍᏗ",
+			"infinitive_romanized": "u2sgo23lvy32sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏍᎪᏍᎦ",
+			"third_present_romanized": "a1sgo23sga",
+			"third_present_en": "he's digging it",
+			"first_present_syllabary": "ᎦᏍᎪᏍᎦ",
+			"first_present_romanized": "ga1sgo23sga",
+			"completive_past_syllabary": "ᎤᏍᎪᏒᎢ",
+			"completive_past_romanized": "u1sgo23sv3'i",
+			"continuous_syllabary": "ᎠᏍᎪᏍᎪᎢ",
+			"continuous_romanized": "a1sgo23sg.o3'i",
+			"immediate_syllabary": "ᎭᏍᎪᎳ",
+			"immediate_romanized": "h.a2sgo23la",
+			"infinitive_syllabary": "ᎤᏍᎪᏍᏗ",
+			"infinitive_romanized": "u2sgo23sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏍᎬᏓᎨᏂ",
+			"singular_romanized": ".a2sgv2d.a2ge4ni",
+			"singular_en": "his shin",
+			"plural_syllabary": "ᏗᏍᎬᏓᎨᏂ",
+			"plural_romanized": "di2sgv2d.a2ge4ni"
+		}
+	]
+}

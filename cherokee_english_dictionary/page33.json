@@ -1,0 +1,100 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎨᎮᎦ",
+			"third_present_romanized": "a1ke23he32ga",
+			"third_present_en": "he's chasing him / it",
+			"first_present_syllabary": "ᏥᎨᎮᎦ",
+			"first_present_romanized": "ji1ke23he32ga",
+			"completive_past_syallabary": "ᎤᎨᎲᏒᎢ",
+			"completive_past_romanized": "u1ke23hv32sv23'i",
+			"continuous_syllabary": "ᎠᎨᎮᎪᎢ",
+			"continuous_romanized": "a1ke23he32go3'i",
+			"immediate_syllabary": [ "ᎯkᎡᎱᎦ", "ᎯᎨᎱᎦ" ],
+			"immediate_romanized": [ "hi1ke2hu1ga", "h.i2ke2hu1ga" ],
+			"infinitive_syllabary": "ᎤᎨᎲᏍᏗ",
+			"infinitive_romanized": "u2ke23hv32di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎩᏠᏒᏍᏗᎢ",
+			"singular_romanized": ".a2k.i2hl.o3sv1sdi4'i",
+			"singular_en": [ "steps", "stairs" ],
+			"plural_syllabary": "ᏗᎩᏠᏒᏍᏗᎢ",
+			"plural_romanized": "di2k.i2hl.o3sv1sdi4'i"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎩᎸᏗᎠ",
+			"third_present_romanized": "a1k.i2kv32d.i2ha",
+			"third_present_en": "he's riding it (anything that can be straddled)",
+			"first_present_syllabary": [ "ᏥᏯᎩᎸᏗᎭ", "ᎦᎩᎸᏗᎭ" ],
+			"first_present_romanized": [ "ji2ya1k.i2lv32d.i2ha", "ga1k.i2lv32d.i2ha" ],
+			"completive_past_syallabary": "ᎤᎩᎸᏔᏅᎢ",
+			"completive_past_romanized": "u1k.i2lv32t.a2nv23'i",
+			"continuous_syllabary": "ᎠᎩᎸᏗᏍᎪᎢ",
+			"continuous_romanized": "a1k.i2lv32disgo3'i",
+			"immediate_syllabary": [ "ᎯᏯᎩᎸᏓ", "ᎭᎩᎸᏓ" ],
+			"immediate_romanized": [ "hi2ya1k.i2lv1da", "h.a2k.i2lv1da" ],
+			"infinitive_syllabary": "ᎤᎩᎸᏙᏗ",
+			"infinitive_romanized": "u2k.i2lv1doh2di"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎩᏍᏗ",
+			"singular_romanized": ".a3k.i2sdi",
+			"singular_en": "pill",
+			"plural_syllabary": "ᏗᎩᏍᏗ",
+			"plural_romanized": "di23k.i2sdi"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎩᏍᎦ",
+			"third_present_romanized": "a1k.i2sga",
+			"third_present_en": "he's swallowing it",
+			"first_present_syllabary": "ᏥᎩᏍᎦ",
+			"first_present_romanized": "j.i'2g.i2sga",
+			"completive_past_syallabary": "ᎤᎩᏒᎢ",
+			"completive_past_romanized": "u1k.i2sv23'i",
+			"continuous_syllabary": "ᎠᎩᏍᎪᎢ",
+			"continuous_romanized": "a1k.i2sgo3'i",
+			"immediate_syllabary": "ᎯᎩᎯ",
+			"immediate_romanized": "h.i2k.i2hi",
+			"infinitive_syllabary": "ᎤᎩᎯᏍᏗ",
+			"infinitive_romanized": "u2k.i2h.i2sdi"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎩᏳᏍᎨ",
+			"singular_romanized": ".a2k.i2yu2sge",
+			"singular_en": "elbow",
+			"plural_syllabary": "ᏗᎩᏳᏍᎨ",
+			"plural_romanized": "di2k.i2yu2sge"
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎩᏳᏍᎨᏂ",
+			"singular_romanized": ".a2k.i2yu2sge4ni",
+			"singular_en": "his elbow",
+			"plural_syllabary": "ᏗᎩᏳᏍᎨᏂ",
+			"plural_romanized": "di2k.i2yu2sge4ni"
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎪᏕᎠ",
+			"third_present_romanized": "a1ko23d.e3'a",
+			"third_present_en": "he's shoveling it",
+			"first_present_syllabary": "ᏥᎪᏕᎠ",
+			"first_present_romanized": "ji1ko23d.e3'a",
+			"completive_past_syallabary": "ᎤᎪᏕᏒᎢ",
+			"completive_past_romanized": "u1ko23de32sv23'i",
+			"continuous_syllabary": "ᎠᎪᏕᏍᎪᎢ",
+			"continuous_romanized": "a1ko23de32sgo3'i",
+			"immediate_syllabary": "ᎯᎪᏓᎩ",
+			"immediate_romanized": "h.i2go2d.a2gi",
+			"infinitive_syllabary": "ᎤᎪᏕᏍᏗ",
+			"infinitive_romanized": "u2ko23de32sdi"
+		}
+	]
+}
